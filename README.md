@@ -6,3 +6,7 @@ Find unicode symbols using python script or alfred2 workflow.
 - ⌘+↩ - paste html encoding of symbol
 - ⌥+↩ - paste symbol as python str
 - ⌃+↩ - paste symbol as unicode code point
+
+If you like this workflow maybe you will like my app on the iPhone and iPad that has similar features:
+
+[Symbolay](http://symbolay.com)
