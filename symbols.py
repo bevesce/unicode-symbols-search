@@ -59,7 +59,7 @@ def get_by_idx(idx):
 
 
 def alfred_xml(query):
-    symbols_list = filter_symbols(query)
+    symbols_list = filter_symbols(query)[:100]
     al = AlfredItemsList()
     for hex_string, symbol, description, idx in symbols_list:
         al.append(
