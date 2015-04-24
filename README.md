@@ -1,4 +1,4 @@
-Find unicode symbols using python script or alfred2 workflow.
+Find and paste unicode symbols using python script or alfred2 workflow.
 
 ![Alfred 2 workflow](http://procrastinationlog.net/images/uss2.png)
 
