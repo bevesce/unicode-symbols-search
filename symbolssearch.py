@@ -27,7 +27,7 @@ class AlfredItemsList(object):
     def __str__(self):
         items = "".join([
             self.pattern.format(
-                arg=arg,
+                arg=escape(arg),
                 title=escape(title),
                 subtitle=escape(subtitle),
                 icon=icon,
@@ -42,7 +42,6 @@ class AlfredItemsList(object):
 
 
 def split_symbol(raw_symbol):
-    open('/Users/piotrwilczynski/Desktop/a.txt', 'w').write(raw_symbol.encode('utf-8'))
     code, symbol, description = raw_symbol.split('\t')[:3]
     return {
         'arg': symbol,
