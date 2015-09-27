@@ -52,20 +52,23 @@ def split_symbol(raw_symbol):
     }
 
 
-r = AlfredItemsList()
+def load_symbols():
+    with open('symbols.txt') as f:
+        symbols = f.read().decode('utf-8').splitlines()
+    return symbols
 
-query = ' '.join((s.decode('utf-8') for s in sys.argv[1:]))
-query_words = query.split(' ')
 
-with open('symbols.txt') as f:
-    symbols = f.read().decode('utf-8').splitlines()
-
-is_first = True
-for raw_symbol in symbols:
-    if all((q in raw_symbol for q in query_words)):
-        kwargs = split_symbol(raw_symbol)
-        if is_first:
-            kwargs['icon'] = 'icon.png'
-            is_first = False
-        r.append(**kwargs)
-print r
+if __name__ == '__main__':
+    query = ' '.join((s.decode('utf-8') for s in sys.argv[1:]))
+    query_words = query.split(' ')
+    r = AlfredItemsList()
+    symbols = load_symbols()
+    is_first = True
+    for raw_symbol in symbols:
+        if all((q in raw_symbol for q in query_words)):
+            kwargs = split_symbol(raw_symbol)
+            if is_first:
+                kwargs['icon'] = 'icon.png'
+                is_first = False
+            r.append(**kwargs)
+    print r
