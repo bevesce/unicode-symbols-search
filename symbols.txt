@@ -1,29 +1,29 @@
-0041	a	latin capital letter a
-0042	b	latin capital letter b
-0043	c	latin capital letter c
-0044	d	latin capital letter d
-0045	e	latin capital letter e
-0046	f	latin capital letter f
-0047	g	latin capital letter g
-0048	h	latin capital letter h
-0049	i	latin capital letter i
-004a	j	latin capital letter j
-004b	k	latin capital letter k
-004c	l	latin capital letter l
-004d	m	latin capital letter m
-004e	n	latin capital letter n
-004f	o	latin capital letter o
-0050	p	latin capital letter p
-0051	q	latin capital letter q
-0052	r	latin capital letter r
-0053	s	latin capital letter s
-0054	t	latin capital letter t
-0055	u	latin capital letter u
-0056	v	latin capital letter v
-0057	w	latin capital letter w
-0058	x	latin capital letter x
-0059	y	latin capital letter y
-005a	z	latin capital letter z
+0041	A	latin capital letter a
+0042	B	latin capital letter b
+0043	C	latin capital letter c
+0044	D	latin capital letter d
+0045	E	latin capital letter e
+0046	F	latin capital letter f
+0047	G	latin capital letter g
+0048	H	latin capital letter h
+0049	I	latin capital letter i
+004a	J	latin capital letter j
+004b	K	latin capital letter k
+004c	L	latin capital letter l
+004d	M	latin capital letter m
+004e	N	latin capital letter n
+004f	O	latin capital letter o
+0050	P	latin capital letter p
+0051	Q	latin capital letter q
+0052	R	latin capital letter r
+0053	S	latin capital letter s
+0054	T	latin capital letter t
+0055	U	latin capital letter u
+0056	V	latin capital letter v
+0057	W	latin capital letter w
+0058	X	latin capital letter x
+0059	Y	latin capital letter y
+005a	Z	latin capital letter z
 0061	a	latin small letter a
 0062	b	latin small letter b
 0063	c	latin small letter c
@@ -51,36 +51,36 @@
 0079	y	latin small letter y
 007a	z	latin small letter z
 00af	¯	macron	macr
-00c0	à	latin capital letter a with grave	agrave
-00c1	á	latin capital letter a with acute	aacute
-00c2	â	latin capital letter a with circumflex	acirc
-00c3	ã	latin capital letter a with tilde	atilde
-00c4	ä	latin capital letter a with diaeresis	auml
-00c5	å	latin capital letter a with ring above	aring
-00c6	æ	latin capital letter ae aelig
-00c7	ç	latin capital letter c with cedilla ccedil
-00c8	è	latin capital letter e with grave	egrave
-00c9	é	latin capital letter e with acute	eacute
-00ca	ê	latin capital letter e with circumflex	ecirc
-00cb	ë	latin capital letter e with diaeresis	euml
-00cc	ì	latin capital letter i with grave	igrave
-00cd	í	latin capital letter i with acute	iacute
-00ce	î	latin capital letter i with circumflex	icirc
-00cf	ï	latin capital letter i with diaeresis	iuml
-00d0	ð	latin capital letter eth	eth
-00d1	ñ	latin capital letter n with tilde	ntilde
-00d2	ò	latin capital letter o with grave	ograve
-00d3	ó	latin capital letter o with acute	oacute
-00d4	ô	latin capital letter o with circumflex	ocirc
-00d5	õ	latin capital letter o with tilde	otilde
-00d6	ö	latin capital letter o with diaeresis	ouml
-00d8	ø	latin capital letter o with stroke	oslash
-00d9	ù	latin capital letter u with grave	ugrave
-00da	ú	latin capital letter u with acute	uacute
-00db	û	latin capital letter u with circumflex	ucirc
-00dc	ü	latin capital letter u with diaeresis	uuml
-00dd	ý	latin capital letter y with acute	yacute
-00de	þ	latin capital letter thorn	thorn
+00c0	À	latin capital letter a with grave	agrave
+00c1	Á	latin capital letter a with acute	aacute
+00c2	Â	latin capital letter a with circumflex	acirc
+00c3	Ã	latin capital letter a with tilde	atilde
+00c4	Ä	latin capital letter a with diaeresis	auml
+00c5	Å	latin capital letter a with ring above	aring
+00c6	Æ	latin capital letter ae aelig
+00c7	Ç	latin capital letter c with cedilla ccedil
+00c8	È	latin capital letter e with grave	egrave
+00c9	É	latin capital letter e with acute	eacute
+00ca	Ê	latin capital letter e with circumflex	ecirc
+00cb	Ë	latin capital letter e with diaeresis	euml
+00cc	Ì	latin capital letter i with grave	igrave
+00cd	Í	latin capital letter i with acute	iacute
+00ce	Î	latin capital letter i with circumflex	icirc
+00cf	Ï	latin capital letter i with diaeresis	iuml
+00d0	Ð	latin capital letter eth	eth
+00d1	Ñ	latin capital letter n with tilde	ntilde
+00d2	Ò	latin capital letter o with grave	ograve
+00d3	Ó	latin capital letter o with acute	oacute
+00d4	Ô	latin capital letter o with circumflex	ocirc
+00d5	Õ	latin capital letter o with tilde	otilde
+00d6	Ö	latin capital letter o with diaeresis	ouml
+00d8	Ø	latin capital letter o with stroke	oslash
+00d9	Ù	latin capital letter u with grave	ugrave
+00da	Ú	latin capital letter u with acute	uacute
+00db	Û	latin capital letter u with circumflex	ucirc
+00dc	Ü	latin capital letter u with diaeresis	uuml
+00dd	Ý	latin capital letter y with acute	yacute
+00de	Þ	latin capital letter thorn	thorn
 00df	ß	latin small letter sharp s	szlig
 00e0	à	latin small letter a with grave agrave
 00e1	á	latin small letter a with acute aacute
@@ -113,195 +113,195 @@
 00fd	ý	latin small letter y with acute yacute
 00fe	þ	latin small letter thorn	thorn
 00ff	ÿ	latin small letter y with diaeresis yuml
-0100	ā	latin capital letter a with macron
+0100	Ā	latin capital letter a with macron
 0101	ā	latin small letter a with macron
-0102	ă	latin capital letter a with breve
+0102	Ă	latin capital letter a with breve
 0103	ă	latin small letter a with breve
-0104	ą	latin capital letter a with ogonek
+0104	Ą	latin capital letter a with ogonek
 0105	ą	latin small letter a with ogonek
-0106	ć	latin capital letter c with acute
+0106	Ć	latin capital letter c with acute
 0107	ć	latin small letter c with acute
-0108	ĉ	latin capital letter c with circumflex
+0108	Ĉ	latin capital letter c with circumflex
 0109	ĉ	latin small letter c with circumflex
-010a	ċ	latin capital letter c with dot above
+010a	Ċ	latin capital letter c with dot above
 010b	ċ	latin small letter c with dot above
-010c	č	latin capital letter c with caron
+010c	Č	latin capital letter c with caron
 010d	č	latin small letter c with caron
-010e	ď	latin capital letter d with caron
+010e	Ď	latin capital letter d with caron
 010f	ď	latin small letter d with caron
-0110	đ	latin capital letter d with stroke
+0110	Đ	latin capital letter d with stroke
 0111	đ	latin small letter d with stroke
-0112	ē	latin capital letter e with macron
+0112	Ē	latin capital letter e with macron
 0113	ē	latin small letter e with macron
-0114	ĕ	latin capital letter e with breve
+0114	Ĕ	latin capital letter e with breve
 0115	ĕ	latin small letter e with breve
-0116	ė	latin capital letter e with dot above
+0116	Ė	latin capital letter e with dot above
 0117	ė	latin small letter e with dot above
-0118	ę	latin capital letter e with ogonek
+0118	Ę	latin capital letter e with ogonek
 0119	ę	latin small letter e with ogonek
-011a	ě	latin capital letter e with caron
+011a	Ě	latin capital letter e with caron
 011b	ě	latin small letter e with caron
-011c	ĝ	latin capital letter g with circumflex
+011c	Ĝ	latin capital letter g with circumflex
 011d	ĝ	latin small letter g with circumflex
-011e	ğ	latin capital letter g with breve
+011e	Ğ	latin capital letter g with breve
 011f	ğ	latin small letter g with breve
-0120	ġ	latin capital letter g with dot above
+0120	Ġ	latin capital letter g with dot above
 0121	ġ	latin small letter g with dot above
-0122	ģ	latin capital letter g with cedilla
+0122	Ģ	latin capital letter g with cedilla
 0123	ģ	latin small letter g with cedilla
-0124	ĥ	latin capital letter h with circumflex
+0124	Ĥ	latin capital letter h with circumflex
 0125	ĥ	latin small letter h with circumflex
-0126	ħ	latin capital letter h with stroke
+0126	Ħ	latin capital letter h with stroke
 0127	ħ	latin small letter h with stroke
-0128	ĩ	latin capital letter i with tilde
+0128	Ĩ	latin capital letter i with tilde
 0129	ĩ	latin small letter i with tilde
-012a	ī	latin capital letter i with macron
+012a	Ī	latin capital letter i with macron
 012b	ī	latin small letter i with macron
-012c	ĭ	latin capital letter i with breve
+012c	Ĭ	latin capital letter i with breve
 012d	ĭ	latin small letter i with breve
-012e	į	latin capital letter i with ogonek
+012e	Į	latin capital letter i with ogonek
 012f	į	latin small letter i with ogonek
 0130	i̇	latin capital letter i with dot above
 0131	ı	latin small letter dotless i
-0132	ĳ	latin capital ligature ij
+0132	Ĳ	latin capital ligature ij
 0133	ĳ	latin small ligature ij
-0134	ĵ	latin capital letter j with circumflex
+0134	Ĵ	latin capital letter j with circumflex
 0135	ĵ	latin small letter j with circumflex
-0136	ķ	latin capital letter k with cedilla
+0136	Ķ	latin capital letter k with cedilla
 0137	ķ	latin small letter k with cedilla
 0138	ĸ	latin small letter kra
-0139	ĺ	latin capital letter l with acute
+0139	Ĺ	latin capital letter l with acute
 013a	ĺ	latin small letter l with acute
-013b	ļ	latin capital letter l with cedilla
+013b	Ļ	latin capital letter l with cedilla
 013c	ļ	latin small letter l with cedilla
-013d	ľ	latin capital letter l with caron
+013d	Ľ	latin capital letter l with caron
 013e	ľ	latin small letter l with caron
-013f	ŀ	latin capital letter l with middle dot
+013f	Ŀ	latin capital letter l with middle dot
 0140	ŀ	latin small letter l with middle dot
-0141	ł	latin capital letter l with stroke
+0141	Ł	latin capital letter l with stroke
 0142	ł	latin small letter l with stroke
-0143	ń	latin capital letter n with acute
+0143	Ń	latin capital letter n with acute
 0144	ń	latin small letter n with acute
-0145	ņ	latin capital letter n with cedilla
+0145	Ņ	latin capital letter n with cedilla
 0146	ņ	latin small letter n with cedilla
-0147	ň	latin capital letter n with caron
+0147	Ň	latin capital letter n with caron
 0148	ň	latin small letter n with caron
 0149	ŉ	latin small letter n preceded by apostrophe
-014a	ŋ	latin capital letter eng
+014a	Ŋ	latin capital letter eng
 014b	ŋ	latin small letter eng
-014c	ō	latin capital letter o with macron
+014c	Ō	latin capital letter o with macron
 014d	ō	latin small letter o with macron
-014e	ŏ	latin capital letter o with breve
+014e	Ŏ	latin capital letter o with breve
 014f	ŏ	latin small letter o with breve
-0150	ő	latin capital letter o with double acute
+0150	Ő	latin capital letter o with double acute
 0151	ő	latin small letter o with double acute
-0152	œ	latin capital ligature oe	oelig
+0152	Œ	latin capital ligature oe	oelig
 0153	œ	latin small ligature oe oelig
-0154	ŕ	latin capital letter r with acute
+0154	Ŕ	latin capital letter r with acute
 0155	ŕ	latin small letter r with acute
-0156	ŗ	latin capital letter r with cedilla
+0156	Ŗ	latin capital letter r with cedilla
 0157	ŗ	latin small letter r with cedilla
-0158	ř	latin capital letter r with caron
+0158	Ř	latin capital letter r with caron
 0159	ř	latin small letter r with caron
-015a	ś	latin capital letter s with acute
+015a	Ś	latin capital letter s with acute
 015b	ś	latin small letter s with acute
-015c	ŝ	latin capital letter s with circumflex
+015c	Ŝ	latin capital letter s with circumflex
 015d	ŝ	latin small letter s with circumflex
-015e	ş	latin capital letter s with cedilla
+015e	Ş	latin capital letter s with cedilla
 015f	ş	latin small letter s with cedilla
-0160	š	latin capital letter s with caron	scaron
+0160	Š	latin capital letter s with caron	scaron
 0161	š	latin small letter s with caron scaron
-0162	ţ	latin capital letter t with cedilla
+0162	Ţ	latin capital letter t with cedilla
 0163	ţ	latin small letter t with cedilla
-0164	ť	latin capital letter t with caron
+0164	Ť	latin capital letter t with caron
 0165	ť	latin small letter t with caron
-0166	ŧ	latin capital letter t with stroke
+0166	Ŧ	latin capital letter t with stroke
 0167	ŧ	latin small letter t with stroke
-0168	ũ	latin capital letter u with tilde
+0168	Ũ	latin capital letter u with tilde
 0169	ũ	latin small letter u with tilde
-016a	ū	latin capital letter u with macron
+016a	Ū	latin capital letter u with macron
 016b	ū	latin small letter u with macron
-016c	ŭ	latin capital letter u with breve
+016c	Ŭ	latin capital letter u with breve
 016d	ŭ	latin small letter u with breve
-016e	ů	latin capital letter u with ring above
+016e	Ů	latin capital letter u with ring above
 016f	ů	latin small letter u with ring above
-0170	ű	latin capital letter u with double acute
+0170	Ű	latin capital letter u with double acute
 0171	ű	latin small letter u with double acute
-0172	ų	latin capital letter u with ogonek
+0172	Ų	latin capital letter u with ogonek
 0173	ų	latin small letter u with ogonek
-0174	ŵ	latin capital letter w with circumflex
+0174	Ŵ	latin capital letter w with circumflex
 0175	ŵ	latin small letter w with circumflex
-0176	ŷ	latin capital letter y with circumflex
+0176	Ŷ	latin capital letter y with circumflex
 0177	ŷ	latin small letter y with circumflex
-0178	ÿ	latin capital letter y with diaeresis	yuml
-0179	ź	latin capital letter z with acute
+0178	Ÿ	latin capital letter y with diaeresis	yuml
+0179	Ź	latin capital letter z with acute
 017a	ź	latin small letter z with acute
-017b	ż	latin capital letter z with dot above
+017b	Ż	latin capital letter z with dot above
 017c	ż	latin small letter z with dot above
-017d	ž	latin capital letter z with caron
+017d	Ž	latin capital letter z with caron
 017e	ž	latin small letter z with caron
 017f	ſ	latin small letter long s
 0180	ƀ	latin small letter b with stroke
-0181	ɓ	latin capital letter b with hook
-0182	ƃ	latin capital letter b with topbar
+0181	Ɓ	latin capital letter b with hook
+0182	Ƃ	latin capital letter b with topbar
 0183	ƃ	latin small letter b with topbar
-0184	ƅ	latin capital letter tone six
+0184	Ƅ	latin capital letter tone six
 0185	ƅ	latin small letter tone six
-0186	ɔ	latin capital letter open o
-0187	ƈ	latin capital letter c with hook
+0186	Ɔ	latin capital letter open o
+0187	Ƈ	latin capital letter c with hook
 0188	ƈ	latin small letter c with hook
-0189	ɖ	latin capital letter african d
-018a	ɗ	latin capital letter d with hook
-018b	ƌ	latin capital letter d with topbar
+0189	Ɖ	latin capital letter african d
+018a	Ɗ	latin capital letter d with hook
+018b	Ƌ	latin capital letter d with topbar
 018c	ƌ	latin small letter d with topbar
 018d	ƍ	latin small letter turned delta
-018e	ǝ	latin capital letter reversed e
-018f	ə	latin capital letter schwa
-0190	ɛ	latin capital letter open e
-0191	ƒ	latin capital letter f with hook
+018e	Ǝ	latin capital letter reversed e
+018f	Ə	latin capital letter schwa
+0190	Ɛ	latin capital letter open e
+0191	Ƒ	latin capital letter f with hook
 0192	ƒ	latin small letter f with hook	fnof
-0193	ɠ	latin capital letter g with hook
-0194	ɣ	latin capital letter gamma
+0193	Ɠ	latin capital letter g with hook
+0194	Ɣ	latin capital letter gamma
 0195	ƕ	latin small letter hv
-0196	ɩ	latin capital letter iota
-0197	ɨ	latin capital letter i with stroke
-0198	ƙ	latin capital letter k with hook
+0196	Ɩ	latin capital letter iota
+0197	Ɨ	latin capital letter i with stroke
+0198	Ƙ	latin capital letter k with hook
 0199	ƙ	latin small letter k with hook
 019a	ƚ	latin small letter l with bar
 019b	ƛ	latin small letter lambda with stroke
-019c	ɯ	latin capital letter turned m
-019d	ɲ	latin capital letter n with left hook
+019c	Ɯ	latin capital letter turned m
+019d	Ɲ	latin capital letter n with left hook
 019e	ƞ	latin small letter n with long right leg
-019f	ɵ	latin capital letter o with middle tilde
-01a0	ơ	latin capital letter o with horn
+019f	Ɵ	latin capital letter o with middle tilde
+01a0	Ơ	latin capital letter o with horn
 01a1	ơ	latin small letter o with horn
-01a2	ƣ	latin capital letter oi
+01a2	Ƣ	latin capital letter oi
 01a3	ƣ	latin small letter oi
-01a4	ƥ	latin capital letter p with hook
+01a4	Ƥ	latin capital letter p with hook
 01a5	ƥ	latin small letter p with hook
 01a6	ʀ	latin letter yr
-01a7	ƨ	latin capital letter tone two
+01a7	Ƨ	latin capital letter tone two
 01a8	ƨ	latin small letter tone two
-01a9	ʃ	latin capital letter esh
+01a9	Ʃ	latin capital letter esh
 01aa	ƪ	latin letter reversed esh loop
 01ab	ƫ	latin small letter t with palatal hook
-01ac	ƭ	latin capital letter t with hook
+01ac	Ƭ	latin capital letter t with hook
 01ad	ƭ	latin small letter t with hook
-01ae	ʈ	latin capital letter t with retroflex hook
-01af	ư	latin capital letter u with horn
+01ae	Ʈ	latin capital letter t with retroflex hook
+01af	Ư	latin capital letter u with horn
 01b0	ư	latin small letter u with horn
-01b1	ʊ	latin capital letter upsilon
-01b2	ʋ	latin capital letter v with hook
-01b3	ƴ	latin capital letter y with hook
+01b1	Ʊ	latin capital letter upsilon
+01b2	Ʋ	latin capital letter v with hook
+01b3	Ƴ	latin capital letter y with hook
 01b4	ƴ	latin small letter y with hook
-01b5	ƶ	latin capital letter z with stroke
+01b5	Ƶ	latin capital letter z with stroke
 01b6	ƶ	latin small letter z with stroke
-01b7	ʒ	latin capital letter ezh
-01b8	ƹ	latin capital letter ezh reversed
+01b7	Ʒ	latin capital letter ezh
+01b8	Ƹ	latin capital letter ezh reversed
 01b9	ƹ	latin small letter ezh reversed
 01ba	ƺ	latin small letter ezh with tail
 01bb	ƻ	latin letter two with stroke
-01bc	ƽ	latin capital letter tone five
+01bc	Ƽ	latin capital letter tone five
 01bd	ƽ	latin small letter tone five
 01be	ƾ	latin letter inverted glottal stop with stroke
 01bf	ƿ	latin letter wynn
@@ -309,117 +309,117 @@
 01c1	ǁ	latin letter lateral click
 01c2	ǂ	latin letter alveolar click
 01c3	ǃ	latin letter retroflex click
-01c4	ǆ	latin capital letter dz with caron
-01c5	ǆ	latin capital letter d with small letter z with caron
+01c4	Ǆ	latin capital letter dz with caron
+01c5	Ǆ	latin capital letter d with small letter z with caron
 01c6	ǆ	latin small letter dz with caron
-01c7	ǉ	latin capital letter lj
-01c8	ǉ	latin capital letter l with small letter j
+01c7	Ǉ	latin capital letter lj
+01c8	Ǉ	latin capital letter l with small letter j
 01c9	ǉ	latin small letter lj
-01ca	ǌ	latin capital letter nj
-01cb	ǌ	latin capital letter n with small letter j
+01ca	Ǌ	latin capital letter nj
+01cb	Ǌ	latin capital letter n with small letter j
 01cc	ǌ	latin small letter nj
-01cd	ǎ	latin capital letter a with caron
+01cd	Ǎ	latin capital letter a with caron
 01ce	ǎ	latin small letter a with caron
-01cf	ǐ	latin capital letter i with caron
+01cf	Ǐ	latin capital letter i with caron
 01d0	ǐ	latin small letter i with caron
-01d1	ǒ	latin capital letter o with caron
+01d1	Ǒ	latin capital letter o with caron
 01d2	ǒ	latin small letter o with caron
-01d3	ǔ	latin capital letter u with caron
+01d3	Ǔ	latin capital letter u with caron
 01d4	ǔ	latin small letter u with caron
-01d5	ǖ	latin capital letter u with diaeresis and macron
+01d5	Ǖ	latin capital letter u with diaeresis and macron
 01d6	ǖ	latin small letter u with diaeresis and macron
-01d7	ǘ	latin capital letter u with diaeresis and acute
+01d7	Ǘ	latin capital letter u with diaeresis and acute
 01d8	ǘ	latin small letter u with diaeresis and acute
-01d9	ǚ	latin capital letter u with diaeresis and caron
+01d9	Ǚ	latin capital letter u with diaeresis and caron
 01da	ǚ	latin small letter u with diaeresis and caron
-01db	ǜ	latin capital letter u with diaeresis and grave
+01db	Ǜ	latin capital letter u with diaeresis and grave
 01dc	ǜ	latin small letter u with diaeresis and grave
 01dd	ǝ	latin small letter turned e
-01de	ǟ	latin capital letter a with diaeresis and macron
+01de	Ǟ	latin capital letter a with diaeresis and macron
 01df	ǟ	latin small letter a with diaeresis and macron
-01e0	ǡ	latin capital letter a with dot above and macron
+01e0	Ǡ	latin capital letter a with dot above and macron
 01e1	ǡ	latin small letter a with dot above and macron
-01e2	ǣ	latin capital letter ae with macron
+01e2	Ǣ	latin capital letter ae with macron
 01e3	ǣ	latin small letter ae with macron
-01e4	ǥ	latin capital letter g with stroke
+01e4	Ǥ	latin capital letter g with stroke
 01e5	ǥ	latin small letter g with stroke
-01e6	ǧ	latin capital letter g with caron
+01e6	Ǧ	latin capital letter g with caron
 01e7	ǧ	latin small letter g with caron
-01e8	ǩ	latin capital letter k with caron
+01e8	Ǩ	latin capital letter k with caron
 01e9	ǩ	latin small letter k with caron
-01ea	ǫ	latin capital letter o with ogonek
+01ea	Ǫ	latin capital letter o with ogonek
 01eb	ǫ	latin small letter o with ogonek
-01ec	ǭ	latin capital letter o with ogonek and macron
+01ec	Ǭ	latin capital letter o with ogonek and macron
 01ed	ǭ	latin small letter o with ogonek and macron
-01ee	ǯ	latin capital letter ezh with caron
+01ee	Ǯ	latin capital letter ezh with caron
 01ef	ǯ	latin small letter ezh with caron
 01f0	ǰ	latin small letter j with caron
-01f1	ǳ	latin capital letter dz
-01f2	ǳ	latin capital letter d with small letter z
+01f1	Ǳ	latin capital letter dz
+01f2	Ǳ	latin capital letter d with small letter z
 01f3	ǳ	latin small letter dz
-01f4	ǵ	latin capital letter g with acute
+01f4	Ǵ	latin capital letter g with acute
 01f5	ǵ	latin small letter g with acute
-01f6	ƕ	latin capital letter hwair
-01f7	ƿ	latin capital letter wynn
-01f8	ǹ	latin capital letter n with grave
+01f6	Ƕ	latin capital letter hwair
+01f7	Ƿ	latin capital letter wynn
+01f8	Ǹ	latin capital letter n with grave
 01f9	ǹ	latin small letter n with grave
-01fa	ǻ	latin capital letter a with ring above and acute
+01fa	Ǻ	latin capital letter a with ring above and acute
 01fb	ǻ	latin small letter a with ring above and acute
-01fc	ǽ	latin capital letter ae with acute
+01fc	Ǽ	latin capital letter ae with acute
 01fd	ǽ	latin small letter ae with acute
-01fe	ǿ	latin capital letter o with stroke and acute
+01fe	Ǿ	latin capital letter o with stroke and acute
 01ff	ǿ	latin small letter o with stroke and acute
-0200	ȁ	latin capital letter a with double grave
+0200	Ȁ	latin capital letter a with double grave
 0201	ȁ	latin small letter a with double grave
-0202	ȃ	latin capital letter a with inverted breve
+0202	Ȃ	latin capital letter a with inverted breve
 0203	ȃ	latin small letter a with inverted breve
-0204	ȅ	latin capital letter e with double grave
+0204	Ȅ	latin capital letter e with double grave
 0205	ȅ	latin small letter e with double grave
-0206	ȇ	latin capital letter e with inverted breve
+0206	Ȇ	latin capital letter e with inverted breve
 0207	ȇ	latin small letter e with inverted breve
-0208	ȉ	latin capital letter i with double grave
+0208	Ȉ	latin capital letter i with double grave
 0209	ȉ	latin small letter i with double grave
-020a	ȋ	latin capital letter i with inverted breve
+020a	Ȋ	latin capital letter i with inverted breve
 020b	ȋ	latin small letter i with inverted breve
-020c	ȍ	latin capital letter o with double grave
+020c	Ȍ	latin capital letter o with double grave
 020d	ȍ	latin small letter o with double grave
-020e	ȏ	latin capital letter o with inverted breve
+020e	Ȏ	latin capital letter o with inverted breve
 020f	ȏ	latin small letter o with inverted breve
-0210	ȑ	latin capital letter r with double grave
+0210	Ȑ	latin capital letter r with double grave
 0211	ȑ	latin small letter r with double grave
-0212	ȓ	latin capital letter r with inverted breve
+0212	Ȓ	latin capital letter r with inverted breve
 0213	ȓ	latin small letter r with inverted breve
-0214	ȕ	latin capital letter u with double grave
+0214	Ȕ	latin capital letter u with double grave
 0215	ȕ	latin small letter u with double grave
-0216	ȗ	latin capital letter u with inverted breve
+0216	Ȗ	latin capital letter u with inverted breve
 0217	ȗ	latin small letter u with inverted breve
-0218	ș	latin capital letter s with comma below
+0218	Ș	latin capital letter s with comma below
 0219	ș	latin small letter s with comma below
-021a	ț	latin capital letter t with comma below
+021a	Ț	latin capital letter t with comma below
 021b	ț	latin small letter t with comma below
-021c	ȝ	latin capital letter yogh
+021c	Ȝ	latin capital letter yogh
 021d	ȝ	latin small letter yogh
-021e	ȟ	latin capital letter h with caron
+021e	Ȟ	latin capital letter h with caron
 021f	ȟ	latin small letter h with caron
-0220	ƞ	latin capital letter n with long right leg
+0220	Ƞ	latin capital letter n with long right leg
 0221	ȡ	latin small letter d with curl
-0222	ȣ	latin capital letter ou
+0222	Ȣ	latin capital letter ou
 0223	ȣ	latin small letter ou
-0224	ȥ	latin capital letter z with hook
+0224	Ȥ	latin capital letter z with hook
 0225	ȥ	latin small letter z with hook
-0226	ȧ	latin capital letter a with dot above
+0226	Ȧ	latin capital letter a with dot above
 0227	ȧ	latin small letter a with dot above
-0228	ȩ	latin capital letter e with cedilla
+0228	Ȩ	latin capital letter e with cedilla
 0229	ȩ	latin small letter e with cedilla
-022a	ȫ	latin capital letter o with diaeresis and macron
+022a	Ȫ	latin capital letter o with diaeresis and macron
 022b	ȫ	latin small letter o with diaeresis and macron
-022c	ȭ	latin capital letter o with tilde and macron
+022c	Ȭ	latin capital letter o with tilde and macron
 022d	ȭ	latin small letter o with tilde and macron
-022e	ȯ	latin capital letter o with dot above
+022e	Ȯ	latin capital letter o with dot above
 022f	ȯ	latin small letter o with dot above
-0230	ȱ	latin capital letter o with dot above and macron
+0230	Ȱ	latin capital letter o with dot above and macron
 0231	ȱ	latin small letter o with dot above and macron
-0232	ȳ	latin capital letter y with macron
+0232	Ȳ	latin capital letter y with macron
 0233	ȳ	latin small letter y with macron
 0234	ȴ	latin small letter l with curl
 0235	ȵ	latin small letter n with curl
@@ -427,27 +427,27 @@
 0237	ȷ	latin small letter dotless j
 0238	ȸ	latin small letter db digraph
 0239	ȹ	latin small letter qp digraph
-023a	ⱥ	latin capital letter a with stroke
-023b	ȼ	latin capital letter c with stroke
+023a	Ⱥ	latin capital letter a with stroke
+023b	Ȼ	latin capital letter c with stroke
 023c	ȼ	latin small letter c with stroke
-023d	ƚ	latin capital letter l with bar
-023e	ⱦ	latin capital letter t with diagonal stroke
+023d	Ƚ	latin capital letter l with bar
+023e	Ⱦ	latin capital letter t with diagonal stroke
 023f	ȿ	latin small letter s with swash tail
 0240	ɀ	latin small letter z with swash tail
-0241	ɂ	latin capital letter glottal stop
+0241	Ɂ	latin capital letter glottal stop
 0242	ɂ	latin small letter glottal stop
-0243	ƀ	latin capital letter b with stroke
-0244	ʉ	latin capital letter u bar
-0245	ʌ	latin capital letter turned v
-0246	ɇ	latin capital letter e with stroke
+0243	Ƀ	latin capital letter b with stroke
+0244	Ʉ	latin capital letter u bar
+0245	Ʌ	latin capital letter turned v
+0246	Ɇ	latin capital letter e with stroke
 0247	ɇ	latin small letter e with stroke
-0248	ɉ	latin capital letter j with stroke
+0248	Ɉ	latin capital letter j with stroke
 0249	ɉ	latin small letter j with stroke
-024a	ɋ	latin capital letter small q with hook tail
+024a	Ɋ	latin capital letter small q with hook tail
 024b	ɋ	latin small letter q with hook tail
-024c	ɍ	latin capital letter r with stroke
+024c	Ɍ	latin capital letter r with stroke
 024d	ɍ	latin small letter r with stroke
-024e	ɏ	latin capital letter y with stroke
+024e	Ɏ	latin capital letter y with stroke
 024f	ɏ	latin small letter y with stroke
 0250	ɐ	latin small letter turned a
 0251	ɑ	latin small letter alpha
@@ -497,7 +497,7 @@
 027d	ɽ	latin small letter r with tail
 027e	ɾ	latin small letter r with fishhook
 027f	ɿ	latin small letter reversed r with fishhook
-0280	ʀ	latin letter small capital r
+0280	Ʀ	latin letter small capital r
 0281	ʁ	latin letter small capital inverted r
 0282	ʂ	latin small letter s with hook
 0283	ʃ	latin small letter esh
@@ -587,13 +587,13 @@
 02db	˛	ogonek
 02dc	˜	small tilde tilde
 02dd	˝	double acute accent
-0370	ͱ	greek capital letter heta
+0370	Ͱ	greek capital letter heta
 0371	ͱ	greek small letter heta
-0372	ͳ	greek capital letter archaic sampi
+0372	Ͳ	greek capital letter archaic sampi
 0373	ͳ	greek small letter archaic sampi
 0374	ʹ	greek numeral sign
 0375	͵	greek lower numeral sign
-0376	ͷ	greek capital letter pamphylian digamma
+0376	Ͷ	greek capital letter pamphylian digamma
 0377	ͷ	greek small letter pamphylian digamma
 037a	ͺ	greek ypogegrammeni
 037b	ͻ	greek small reversed lunate sigma symbol
@@ -602,41 +602,41 @@
 037e	;	greek question mark
 0384	΄	greek tonos
 0385	΅	greek dialytika tonos
-0386	ά	greek capital letter alpha with tonos
+0386	Ά	greek capital letter alpha with tonos
 0387	·	greek ano teleia
-0388	έ	greek capital letter epsilon with tonos
-0389	ή	greek capital letter eta with tonos
-038a	ί	greek capital letter iota with tonos
-038c	ό	greek capital letter omicron with tonos
-038e	ύ	greek capital letter upsilon with tonos
-038f	ώ	greek capital letter omega with tonos
+0388	Έ	greek capital letter epsilon with tonos
+0389	Ή	greek capital letter eta with tonos
+038a	Ί	greek capital letter iota with tonos
+038c	Ό	greek capital letter omicron with tonos
+038e	Ύ	greek capital letter upsilon with tonos
+038f	Ώ	greek capital letter omega with tonos
 0390	ΐ	greek small letter iota with dialytika and tonos
-0391	α	greek capital letter alpha	alpha
-0392	β	greek capital letter beta	beta
-0393	γ	greek capital letter gamma	gamma
-0394	δ	greek capital letter delta	delta
-0395	ε	greek capital letter epsilon	epsilon
-0396	ζ	greek capital letter zeta	zeta
-0397	η	greek capital letter eta	eta
-0398	θ	greek capital letter theta	theta
-0399	ι	greek capital letter iota	iota
-039a	κ	greek capital letter kappa	kappa
-039b	λ	greek capital letter lamda	lambda
-039c	μ	greek capital letter mu mu
-039d	ν	greek capital letter nu nu
-039e	ξ	greek capital letter xi xi
-039f	ο	greek capital letter omicron	omicron
-03a0	π	greek capital letter pi pi
-03a1	ρ	greek capital letter rho	rho
-03a3	σ	greek capital letter sigma	sigma
-03a4	τ	greek capital letter tau	tau
-03a5	υ	greek capital letter upsilon	upsilon
-03a6	φ	greek capital letter phi	phi
-03a7	χ	greek capital letter chi	chi
-03a8	ψ	greek capital letter psi	psi
-03a9	ω	greek capital letter omega	omega
-03aa	ϊ	greek capital letter iota with dialytika
-03ab	ϋ	greek capital letter upsilon with dialytika
+0391	Α	greek capital letter alpha	alpha
+0392	Β	greek capital letter beta	beta
+0393	Γ	greek capital letter gamma	gamma
+0394	Δ	greek capital letter delta	delta
+0395	Ε	greek capital letter epsilon	epsilon
+0396	Ζ	greek capital letter zeta	zeta
+0397	Η	greek capital letter eta	eta
+0398	Θ	greek capital letter theta	theta
+0399	Ι	greek capital letter iota	iota
+039a	Κ	greek capital letter kappa	kappa
+039b	Λ	greek capital letter lamda	lambda
+039c	Μ	greek capital letter mu mu
+039d	Ν	greek capital letter nu nu
+039e	Ξ	greek capital letter xi xi
+039f	Ο	greek capital letter omicron	omicron
+03a0	Π	greek capital letter pi pi
+03a1	Ρ	greek capital letter rho	rho
+03a3	Σ	greek capital letter sigma	sigma
+03a4	Τ	greek capital letter tau	tau
+03a5	Υ	greek capital letter upsilon	upsilon
+03a6	Φ	greek capital letter phi	phi
+03a7	Χ	greek capital letter chi	chi
+03a8	Ψ	greek capital letter psi	psi
+03a9	Ω	greek capital letter omega	omega
+03aa	Ϊ	greek capital letter iota with dialytika
+03ab	Ϋ	greek capital letter upsilon with dialytika
 03ac	ά	greek small letter alpha with tonos
 03ad	έ	greek small letter epsilon with tonos
 03ae	ή	greek small letter eta with tonos
@@ -672,7 +672,7 @@
 03cc	ό	greek small letter omicron with tonos
 03cd	ύ	greek small letter upsilon with tonos
 03ce	ώ	greek small letter omega with tonos
-03cf	ϗ	greek capital kai symbol
+03cf	Ϗ	greek capital kai symbol
 03d0	ϐ	greek beta symbol
 03d1	ϑ	greek theta symbol	thetasym
 03d2	ϒ	greek upsilon with hook symbol	upsih
@@ -691,84 +691,84 @@
 03df	ϟ	greek small letter koppa
 03e0	ϡ	greek letter sampi
 03e1	ϡ	greek small letter sampi
-03e2	ϣ	coptic capital letter shei
+03e2	Ϣ	coptic capital letter shei
 03e3	ϣ	coptic small letter shei
-03e4	ϥ	coptic capital letter fei
+03e4	Ϥ	coptic capital letter fei
 03e5	ϥ	coptic small letter fei
-03e6	ϧ	coptic capital letter khei
+03e6	Ϧ	coptic capital letter khei
 03e7	ϧ	coptic small letter khei
-03e8	ϩ	coptic capital letter hori
+03e8	Ϩ	coptic capital letter hori
 03e9	ϩ	coptic small letter hori
-03ea	ϫ	coptic capital letter gangia
+03ea	Ϫ	coptic capital letter gangia
 03eb	ϫ	coptic small letter gangia
-03ec	ϭ	coptic capital letter shima
+03ec	Ϭ	coptic capital letter shima
 03ed	ϭ	coptic small letter shima
-03ee	ϯ	coptic capital letter dei
+03ee	Ϯ	coptic capital letter dei
 03ef	ϯ	coptic small letter dei
 03f0	ϰ	greek kappa symbol
 03f1	ϱ	greek rho symbol
 03f2	ϲ	greek lunate sigma symbol
 03f3	ϳ	greek letter yot
-03f4	θ	greek capital theta symbol
+03f4	Θ	greek capital theta symbol
 03f5	ϵ	greek lunate epsilon symbol
 03f6	϶	greek reversed lunate epsilon symbol
-03f7	ϸ	greek capital letter sho
+03f7	Ϸ	greek capital letter sho
 03f8	ϸ	greek small letter sho
-03f9	ϲ	greek capital lunate sigma symbol
-03fa	ϻ	greek capital letter san
+03f9	Ϲ	greek capital lunate sigma symbol
+03fa	Ϻ	greek capital letter san
 03fb	ϻ	greek small letter san
 03fc	ϼ	greek rho with stroke symbol
-03fd	ͻ	greek capital reversed lunate sigma symbol
-03fe	ͼ	greek capital dotted lunate sigma symbol
-03ff	ͽ	greek capital reversed dotted lunate sigma symbol
-0400	ѐ	cyrillic capital letter ie with grave
-0401	ё	cyrillic capital letter io
-0402	ђ	cyrillic capital letter dje
-0403	ѓ	cyrillic capital letter gje
-0404	є	cyrillic capital letter ukrainian ie
-0405	ѕ	cyrillic capital letter dze
-0406	і	cyrillic capital letter byelorussian-ukrainian i
-0407	ї	cyrillic capital letter yi
-0408	ј	cyrillic capital letter je
-0409	љ	cyrillic capital letter lje
-040a	њ	cyrillic capital letter nje
-040b	ћ	cyrillic capital letter tshe
-040c	ќ	cyrillic capital letter kje
-040d	ѝ	cyrillic capital letter i with grave
-040e	ў	cyrillic capital letter short u
-040f	џ	cyrillic capital letter dzhe
-0410	а	cyrillic capital letter a
-0411	б	cyrillic capital letter be
-0412	в	cyrillic capital letter ve
-0413	г	cyrillic capital letter ghe
-0414	д	cyrillic capital letter de
-0415	е	cyrillic capital letter ie
-0416	ж	cyrillic capital letter zhe
-0417	з	cyrillic capital letter ze
-0418	и	cyrillic capital letter i
-0419	й	cyrillic capital letter short i
-041a	к	cyrillic capital letter ka
-041b	л	cyrillic capital letter el
-041c	м	cyrillic capital letter em
-041d	н	cyrillic capital letter en
-041e	о	cyrillic capital letter o
-041f	п	cyrillic capital letter pe
-0420	р	cyrillic capital letter er
-0421	с	cyrillic capital letter es
-0422	т	cyrillic capital letter te
-0423	у	cyrillic capital letter u
-0424	ф	cyrillic capital letter ef
-0425	х	cyrillic capital letter ha
-0426	ц	cyrillic capital letter tse
-0427	ч	cyrillic capital letter che
-0428	ш	cyrillic capital letter sha
-0429	щ	cyrillic capital letter shcha
-042a	ъ	cyrillic capital letter hard sign
-042b	ы	cyrillic capital letter yeru
-042c	ь	cyrillic capital letter soft sign
-042d	э	cyrillic capital letter e
-042e	ю	cyrillic capital letter yu
-042f	я	cyrillic capital letter ya
+03fd	Ͻ	greek capital reversed lunate sigma symbol
+03fe	Ͼ	greek capital dotted lunate sigma symbol
+03ff	Ͽ	greek capital reversed dotted lunate sigma symbol
+0400	Ѐ	cyrillic capital letter ie with grave
+0401	Ё	cyrillic capital letter io
+0402	Ђ	cyrillic capital letter dje
+0403	Ѓ	cyrillic capital letter gje
+0404	Є	cyrillic capital letter ukrainian ie
+0405	Ѕ	cyrillic capital letter dze
+0406	І	cyrillic capital letter byelorussian-ukrainian i
+0407	Ї	cyrillic capital letter yi
+0408	Ј	cyrillic capital letter je
+0409	Љ	cyrillic capital letter lje
+040a	Њ	cyrillic capital letter nje
+040b	Ћ	cyrillic capital letter tshe
+040c	Ќ	cyrillic capital letter kje
+040d	Ѝ	cyrillic capital letter i with grave
+040e	Ў	cyrillic capital letter short u
+040f	Џ	cyrillic capital letter dzhe
+0410	А	cyrillic capital letter a
+0411	Б	cyrillic capital letter be
+0412	В	cyrillic capital letter ve
+0413	Г	cyrillic capital letter ghe
+0414	Д	cyrillic capital letter de
+0415	Е	cyrillic capital letter ie
+0416	Ж	cyrillic capital letter zhe
+0417	З	cyrillic capital letter ze
+0418	И	cyrillic capital letter i
+0419	Й	cyrillic capital letter short i
+041a	К	cyrillic capital letter ka
+041b	Л	cyrillic capital letter el
+041c	М	cyrillic capital letter em
+041d	Н	cyrillic capital letter en
+041e	О	cyrillic capital letter o
+041f	П	cyrillic capital letter pe
+0420	Р	cyrillic capital letter er
+0421	С	cyrillic capital letter es
+0422	Т	cyrillic capital letter te
+0423	У	cyrillic capital letter u
+0424	Ф	cyrillic capital letter ef
+0425	Х	cyrillic capital letter ha
+0426	Ц	cyrillic capital letter tse
+0427	Ч	cyrillic capital letter che
+0428	Ш	cyrillic capital letter sha
+0429	Щ	cyrillic capital letter shcha
+042a	Ъ	cyrillic capital letter hard sign
+042b	Ы	cyrillic capital letter yeru
+042c	Ь	cyrillic capital letter soft sign
+042d	Э	cyrillic capital letter e
+042e	Ю	cyrillic capital letter yu
+042f	Я	cyrillic capital letter ya
 0430	а	cyrillic small letter a
 0431	б	cyrillic small letter be
 0432	в	cyrillic small letter ve
@@ -817,39 +817,39 @@
 045d	ѝ	cyrillic small letter i with grave
 045e	ў	cyrillic small letter short u
 045f	џ	cyrillic small letter dzhe
-0460	ѡ	cyrillic capital letter omega
+0460	Ѡ	cyrillic capital letter omega
 0461	ѡ	cyrillic small letter omega
-0462	ѣ	cyrillic capital letter yat
+0462	Ѣ	cyrillic capital letter yat
 0463	ѣ	cyrillic small letter yat
-0464	ѥ	cyrillic capital letter iotified e
+0464	Ѥ	cyrillic capital letter iotified e
 0465	ѥ	cyrillic small letter iotified e
-0466	ѧ	cyrillic capital letter little yus
+0466	Ѧ	cyrillic capital letter little yus
 0467	ѧ	cyrillic small letter little yus
-0468	ѩ	cyrillic capital letter iotified little yus
+0468	Ѩ	cyrillic capital letter iotified little yus
 0469	ѩ	cyrillic small letter iotified little yus
-046a	ѫ	cyrillic capital letter big yus
+046a	Ѫ	cyrillic capital letter big yus
 046b	ѫ	cyrillic small letter big yus
-046c	ѭ	cyrillic capital letter iotified big yus
+046c	Ѭ	cyrillic capital letter iotified big yus
 046d	ѭ	cyrillic small letter iotified big yus
-046e	ѯ	cyrillic capital letter ksi
+046e	Ѯ	cyrillic capital letter ksi
 046f	ѯ	cyrillic small letter ksi
-0470	ѱ	cyrillic capital letter psi
+0470	Ѱ	cyrillic capital letter psi
 0471	ѱ	cyrillic small letter psi
-0472	ѳ	cyrillic capital letter fita
+0472	Ѳ	cyrillic capital letter fita
 0473	ѳ	cyrillic small letter fita
-0474	ѵ	cyrillic capital letter izhitsa
+0474	Ѵ	cyrillic capital letter izhitsa
 0475	ѵ	cyrillic small letter izhitsa
-0476	ѷ	cyrillic capital letter izhitsa with double grave accent
+0476	Ѷ	cyrillic capital letter izhitsa with double grave accent
 0477	ѷ	cyrillic small letter izhitsa with double grave accent
-0478	ѹ	cyrillic capital letter uk
+0478	Ѹ	cyrillic capital letter uk
 0479	ѹ	cyrillic small letter uk
-047a	ѻ	cyrillic capital letter round omega
+047a	Ѻ	cyrillic capital letter round omega
 047b	ѻ	cyrillic small letter round omega
-047c	ѽ	cyrillic capital letter omega with titlo
+047c	Ѽ	cyrillic capital letter omega with titlo
 047d	ѽ	cyrillic small letter omega with titlo
-047e	ѿ	cyrillic capital letter ot
+047e	Ѿ	cyrillic capital letter ot
 047f	ѿ	cyrillic small letter ot
-0480	ҁ	cyrillic capital letter koppa
+0480	Ҁ	cyrillic capital letter koppa
 0481	ҁ	cyrillic small letter koppa
 0482	҂	cyrillic thousands sign
 0483	҃	combining cyrillic titlo
@@ -859,202 +859,202 @@
 0487	҇	combining cyrillic pokrytie
 0488	҈	combining cyrillic hundred thousands sign
 0489	҉	combining cyrillic millions sign
-048a	ҋ	cyrillic capital letter short i with tail
+048a	Ҋ	cyrillic capital letter short i with tail
 048b	ҋ	cyrillic small letter short i with tail
-048c	ҍ	cyrillic capital letter semisoft sign
+048c	Ҍ	cyrillic capital letter semisoft sign
 048d	ҍ	cyrillic small letter semisoft sign
-048e	ҏ	cyrillic capital letter er with tick
+048e	Ҏ	cyrillic capital letter er with tick
 048f	ҏ	cyrillic small letter er with tick
-0490	ґ	cyrillic capital letter ghe with upturn
+0490	Ґ	cyrillic capital letter ghe with upturn
 0491	ґ	cyrillic small letter ghe with upturn
-0492	ғ	cyrillic capital letter ghe with stroke
+0492	Ғ	cyrillic capital letter ghe with stroke
 0493	ғ	cyrillic small letter ghe with stroke
-0494	ҕ	cyrillic capital letter ghe with middle hook
+0494	Ҕ	cyrillic capital letter ghe with middle hook
 0495	ҕ	cyrillic small letter ghe with middle hook
-0496	җ	cyrillic capital letter zhe with descender
+0496	Җ	cyrillic capital letter zhe with descender
 0497	җ	cyrillic small letter zhe with descender
-0498	ҙ	cyrillic capital letter ze with descender
+0498	Ҙ	cyrillic capital letter ze with descender
 0499	ҙ	cyrillic small letter ze with descender
-049a	қ	cyrillic capital letter ka with descender
+049a	Қ	cyrillic capital letter ka with descender
 049b	қ	cyrillic small letter ka with descender
-049c	ҝ	cyrillic capital letter ka with vertical stroke
+049c	Ҝ	cyrillic capital letter ka with vertical stroke
 049d	ҝ	cyrillic small letter ka with vertical stroke
-049e	ҟ	cyrillic capital letter ka with stroke
+049e	Ҟ	cyrillic capital letter ka with stroke
 049f	ҟ	cyrillic small letter ka with stroke
-04a0	ҡ	cyrillic capital letter bashkir ka
+04a0	Ҡ	cyrillic capital letter bashkir ka
 04a1	ҡ	cyrillic small letter bashkir ka
-04a2	ң	cyrillic capital letter en with descender
+04a2	Ң	cyrillic capital letter en with descender
 04a3	ң	cyrillic small letter en with descender
-04a4	ҥ	cyrillic capital ligature en ghe
+04a4	Ҥ	cyrillic capital ligature en ghe
 04a5	ҥ	cyrillic small ligature en ghe
-04a6	ҧ	cyrillic capital letter pe with middle hook
+04a6	Ҧ	cyrillic capital letter pe with middle hook
 04a7	ҧ	cyrillic small letter pe with middle hook
-04a8	ҩ	cyrillic capital letter abkhasian ha
+04a8	Ҩ	cyrillic capital letter abkhasian ha
 04a9	ҩ	cyrillic small letter abkhasian ha
-04aa	ҫ	cyrillic capital letter es with descender
+04aa	Ҫ	cyrillic capital letter es with descender
 04ab	ҫ	cyrillic small letter es with descender
-04ac	ҭ	cyrillic capital letter te with descender
+04ac	Ҭ	cyrillic capital letter te with descender
 04ad	ҭ	cyrillic small letter te with descender
-04ae	ү	cyrillic capital letter straight u
+04ae	Ү	cyrillic capital letter straight u
 04af	ү	cyrillic small letter straight u
-04b0	ұ	cyrillic capital letter straight u with stroke
+04b0	Ұ	cyrillic capital letter straight u with stroke
 04b1	ұ	cyrillic small letter straight u with stroke
-04b2	ҳ	cyrillic capital letter ha with descender
+04b2	Ҳ	cyrillic capital letter ha with descender
 04b3	ҳ	cyrillic small letter ha with descender
-04b4	ҵ	cyrillic capital ligature te tse
+04b4	Ҵ	cyrillic capital ligature te tse
 04b5	ҵ	cyrillic small ligature te tse
-04b6	ҷ	cyrillic capital letter che with descender
+04b6	Ҷ	cyrillic capital letter che with descender
 04b7	ҷ	cyrillic small letter che with descender
-04b8	ҹ	cyrillic capital letter che with vertical stroke
+04b8	Ҹ	cyrillic capital letter che with vertical stroke
 04b9	ҹ	cyrillic small letter che with vertical stroke
-04ba	һ	cyrillic capital letter shha
+04ba	Һ	cyrillic capital letter shha
 04bb	һ	cyrillic small letter shha
-04bc	ҽ	cyrillic capital letter abkhasian che
+04bc	Ҽ	cyrillic capital letter abkhasian che
 04bd	ҽ	cyrillic small letter abkhasian che
-04be	ҿ	cyrillic capital letter abkhasian che with descender
+04be	Ҿ	cyrillic capital letter abkhasian che with descender
 04bf	ҿ	cyrillic small letter abkhasian che with descender
 04c0	ӏ	cyrillic letter palochka
-04c1	ӂ	cyrillic capital letter zhe with breve
+04c1	Ӂ	cyrillic capital letter zhe with breve
 04c2	ӂ	cyrillic small letter zhe with breve
-04c3	ӄ	cyrillic capital letter ka with hook
+04c3	Ӄ	cyrillic capital letter ka with hook
 04c4	ӄ	cyrillic small letter ka with hook
-04c5	ӆ	cyrillic capital letter el with tail
+04c5	Ӆ	cyrillic capital letter el with tail
 04c6	ӆ	cyrillic small letter el with tail
-04c7	ӈ	cyrillic capital letter en with hook
+04c7	Ӈ	cyrillic capital letter en with hook
 04c8	ӈ	cyrillic small letter en with hook
-04c9	ӊ	cyrillic capital letter en with tail
+04c9	Ӊ	cyrillic capital letter en with tail
 04ca	ӊ	cyrillic small letter en with tail
-04cb	ӌ	cyrillic capital letter khakassian che
+04cb	Ӌ	cyrillic capital letter khakassian che
 04cc	ӌ	cyrillic small letter khakassian che
-04cd	ӎ	cyrillic capital letter em with tail
+04cd	Ӎ	cyrillic capital letter em with tail
 04ce	ӎ	cyrillic small letter em with tail
 04cf	ӏ	cyrillic small letter palochka
-04d0	ӑ	cyrillic capital letter a with breve
+04d0	Ӑ	cyrillic capital letter a with breve
 04d1	ӑ	cyrillic small letter a with breve
-04d2	ӓ	cyrillic capital letter a with diaeresis
+04d2	Ӓ	cyrillic capital letter a with diaeresis
 04d3	ӓ	cyrillic small letter a with diaeresis
-04d4	ӕ	cyrillic capital ligature a ie
+04d4	Ӕ	cyrillic capital ligature a ie
 04d5	ӕ	cyrillic small ligature a ie
-04d6	ӗ	cyrillic capital letter ie with breve
+04d6	Ӗ	cyrillic capital letter ie with breve
 04d7	ӗ	cyrillic small letter ie with breve
-04d8	ә	cyrillic capital letter schwa
+04d8	Ә	cyrillic capital letter schwa
 04d9	ә	cyrillic small letter schwa
-04da	ӛ	cyrillic capital letter schwa with diaeresis
+04da	Ӛ	cyrillic capital letter schwa with diaeresis
 04db	ӛ	cyrillic small letter schwa with diaeresis
-04dc	ӝ	cyrillic capital letter zhe with diaeresis
+04dc	Ӝ	cyrillic capital letter zhe with diaeresis
 04dd	ӝ	cyrillic small letter zhe with diaeresis
-04de	ӟ	cyrillic capital letter ze with diaeresis
+04de	Ӟ	cyrillic capital letter ze with diaeresis
 04df	ӟ	cyrillic small letter ze with diaeresis
-04e0	ӡ	cyrillic capital letter abkhasian dze
+04e0	Ӡ	cyrillic capital letter abkhasian dze
 04e1	ӡ	cyrillic small letter abkhasian dze
-04e2	ӣ	cyrillic capital letter i with macron
+04e2	Ӣ	cyrillic capital letter i with macron
 04e3	ӣ	cyrillic small letter i with macron
-04e4	ӥ	cyrillic capital letter i with diaeresis
+04e4	Ӥ	cyrillic capital letter i with diaeresis
 04e5	ӥ	cyrillic small letter i with diaeresis
-04e6	ӧ	cyrillic capital letter o with diaeresis
+04e6	Ӧ	cyrillic capital letter o with diaeresis
 04e7	ӧ	cyrillic small letter o with diaeresis
-04e8	ө	cyrillic capital letter barred o
+04e8	Ө	cyrillic capital letter barred o
 04e9	ө	cyrillic small letter barred o
-04ea	ӫ	cyrillic capital letter barred o with diaeresis
+04ea	Ӫ	cyrillic capital letter barred o with diaeresis
 04eb	ӫ	cyrillic small letter barred o with diaeresis
-04ec	ӭ	cyrillic capital letter e with diaeresis
+04ec	Ӭ	cyrillic capital letter e with diaeresis
 04ed	ӭ	cyrillic small letter e with diaeresis
-04ee	ӯ	cyrillic capital letter u with macron
+04ee	Ӯ	cyrillic capital letter u with macron
 04ef	ӯ	cyrillic small letter u with macron
-04f0	ӱ	cyrillic capital letter u with diaeresis
+04f0	Ӱ	cyrillic capital letter u with diaeresis
 04f1	ӱ	cyrillic small letter u with diaeresis
-04f2	ӳ	cyrillic capital letter u with double acute
+04f2	Ӳ	cyrillic capital letter u with double acute
 04f3	ӳ	cyrillic small letter u with double acute
-04f4	ӵ	cyrillic capital letter che with diaeresis
+04f4	Ӵ	cyrillic capital letter che with diaeresis
 04f5	ӵ	cyrillic small letter che with diaeresis
-04f6	ӷ	cyrillic capital letter ghe with descender
+04f6	Ӷ	cyrillic capital letter ghe with descender
 04f7	ӷ	cyrillic small letter ghe with descender
-04f8	ӹ	cyrillic capital letter yeru with diaeresis
+04f8	Ӹ	cyrillic capital letter yeru with diaeresis
 04f9	ӹ	cyrillic small letter yeru with diaeresis
-04fa	ӻ	cyrillic capital letter ghe with stroke and hook
+04fa	Ӻ	cyrillic capital letter ghe with stroke and hook
 04fb	ӻ	cyrillic small letter ghe with stroke and hook
-04fc	ӽ	cyrillic capital letter ha with hook
+04fc	Ӽ	cyrillic capital letter ha with hook
 04fd	ӽ	cyrillic small letter ha with hook
-04fe	ӿ	cyrillic capital letter ha with stroke
+04fe	Ӿ	cyrillic capital letter ha with stroke
 04ff	ӿ	cyrillic small letter ha with stroke
-0500	ԁ	cyrillic capital letter komi de
+0500	Ԁ	cyrillic capital letter komi de
 0501	ԁ	cyrillic small letter komi de
-0502	ԃ	cyrillic capital letter komi dje
+0502	Ԃ	cyrillic capital letter komi dje
 0503	ԃ	cyrillic small letter komi dje
-0504	ԅ	cyrillic capital letter komi zje
+0504	Ԅ	cyrillic capital letter komi zje
 0505	ԅ	cyrillic small letter komi zje
-0506	ԇ	cyrillic capital letter komi dzje
+0506	Ԇ	cyrillic capital letter komi dzje
 0507	ԇ	cyrillic small letter komi dzje
-0508	ԉ	cyrillic capital letter komi lje
+0508	Ԉ	cyrillic capital letter komi lje
 0509	ԉ	cyrillic small letter komi lje
-050a	ԋ	cyrillic capital letter komi nje
+050a	Ԋ	cyrillic capital letter komi nje
 050b	ԋ	cyrillic small letter komi nje
-050c	ԍ	cyrillic capital letter komi sje
+050c	Ԍ	cyrillic capital letter komi sje
 050d	ԍ	cyrillic small letter komi sje
-050e	ԏ	cyrillic capital letter komi tje
+050e	Ԏ	cyrillic capital letter komi tje
 050f	ԏ	cyrillic small letter komi tje
-0510	ԑ	cyrillic capital letter reversed ze
+0510	Ԑ	cyrillic capital letter reversed ze
 0511	ԑ	cyrillic small letter reversed ze
-0512	ԓ	cyrillic capital letter el with hook
+0512	Ԓ	cyrillic capital letter el with hook
 0513	ԓ	cyrillic small letter el with hook
-0514	ԕ	cyrillic capital letter lha
+0514	Ԕ	cyrillic capital letter lha
 0515	ԕ	cyrillic small letter lha
-0516	ԗ	cyrillic capital letter rha
+0516	Ԗ	cyrillic capital letter rha
 0517	ԗ	cyrillic small letter rha
-0518	ԙ	cyrillic capital letter yae
+0518	Ԙ	cyrillic capital letter yae
 0519	ԙ	cyrillic small letter yae
-051a	ԛ	cyrillic capital letter qa
+051a	Ԛ	cyrillic capital letter qa
 051b	ԛ	cyrillic small letter qa
-051c	ԝ	cyrillic capital letter we
+051c	Ԝ	cyrillic capital letter we
 051d	ԝ	cyrillic small letter we
-051e	ԟ	cyrillic capital letter aleut ka
+051e	Ԟ	cyrillic capital letter aleut ka
 051f	ԟ	cyrillic small letter aleut ka
-0520	ԡ	cyrillic capital letter el with middle hook
+0520	Ԡ	cyrillic capital letter el with middle hook
 0521	ԡ	cyrillic small letter el with middle hook
-0522	ԣ	cyrillic capital letter en with middle hook
+0522	Ԣ	cyrillic capital letter en with middle hook
 0523	ԣ	cyrillic small letter en with middle hook
-0524	ԥ	cyrillic capital letter pe with descender
+0524	Ԥ	cyrillic capital letter pe with descender
 0525	ԥ	cyrillic small letter pe with descender
-0526	ԧ	cyrillic capital letter shha with descender
+0526	Ԧ	cyrillic capital letter shha with descender
 0527	ԧ	cyrillic small letter shha with descender
-0531	ա	armenian capital letter ayb
-0532	բ	armenian capital letter ben
-0533	գ	armenian capital letter gim
-0534	դ	armenian capital letter da
-0535	ե	armenian capital letter ech
-0536	զ	armenian capital letter za
-0537	է	armenian capital letter eh
-0538	ը	armenian capital letter et
-0539	թ	armenian capital letter to
-053a	ժ	armenian capital letter zhe
-053b	ի	armenian capital letter ini
-053c	լ	armenian capital letter liwn
-053d	խ	armenian capital letter xeh
-053e	ծ	armenian capital letter ca
-053f	կ	armenian capital letter ken
-0540	հ	armenian capital letter ho
-0541	ձ	armenian capital letter ja
-0542	ղ	armenian capital letter ghad
-0543	ճ	armenian capital letter cheh
-0544	մ	armenian capital letter men
-0545	յ	armenian capital letter yi
-0546	ն	armenian capital letter now
-0547	շ	armenian capital letter sha
-0548	ո	armenian capital letter vo
-0549	չ	armenian capital letter cha
-054a	պ	armenian capital letter peh
-054b	ջ	armenian capital letter jheh
-054c	ռ	armenian capital letter ra
-054d	ս	armenian capital letter seh
-054e	վ	armenian capital letter vew
-054f	տ	armenian capital letter tiwn
-0550	ր	armenian capital letter reh
-0551	ց	armenian capital letter co
-0552	ւ	armenian capital letter yiwn
-0553	փ	armenian capital letter piwr
-0554	ք	armenian capital letter keh
-0555	օ	armenian capital letter oh
-0556	ֆ	armenian capital letter feh
+0531	Ա	armenian capital letter ayb
+0532	Բ	armenian capital letter ben
+0533	Գ	armenian capital letter gim
+0534	Դ	armenian capital letter da
+0535	Ե	armenian capital letter ech
+0536	Զ	armenian capital letter za
+0537	Է	armenian capital letter eh
+0538	Ը	armenian capital letter et
+0539	Թ	armenian capital letter to
+053a	Ժ	armenian capital letter zhe
+053b	Ի	armenian capital letter ini
+053c	Լ	armenian capital letter liwn
+053d	Խ	armenian capital letter xeh
+053e	Ծ	armenian capital letter ca
+053f	Կ	armenian capital letter ken
+0540	Հ	armenian capital letter ho
+0541	Ձ	armenian capital letter ja
+0542	Ղ	armenian capital letter ghad
+0543	Ճ	armenian capital letter cheh
+0544	Մ	armenian capital letter men
+0545	Յ	armenian capital letter yi
+0546	Ն	armenian capital letter now
+0547	Շ	armenian capital letter sha
+0548	Ո	armenian capital letter vo
+0549	Չ	armenian capital letter cha
+054a	Պ	armenian capital letter peh
+054b	Ջ	armenian capital letter jheh
+054c	Ռ	armenian capital letter ra
+054d	Ս	armenian capital letter seh
+054e	Վ	armenian capital letter vew
+054f	Տ	armenian capital letter tiwn
+0550	Ր	armenian capital letter reh
+0551	Ց	armenian capital letter co
+0552	Ւ	armenian capital letter yiwn
+0553	Փ	armenian capital letter piwr
+0554	Ք	armenian capital letter keh
+0555	Օ	armenian capital letter oh
+0556	Ֆ	armenian capital letter feh
 0559	ՙ	armenian modifier letter left half ring
 055a	՚	armenian apostrophe
 055b	՛	armenian emphasis mark
@@ -3031,155 +3031,155 @@
 1dc8	᷈	combining grave-acute-grave
 1dc9	᷉	combining acute-grave-acute
 1dca	᷊	combining latin small letter r below
-1e00	ḁ	latin capital letter a with ring below
+1e00	Ḁ	latin capital letter a with ring below
 1e01	ḁ	latin small letter a with ring below
-1e02	ḃ	latin capital letter b with dot above
+1e02	Ḃ	latin capital letter b with dot above
 1e03	ḃ	latin small letter b with dot above
-1e04	ḅ	latin capital letter b with dot below
+1e04	Ḅ	latin capital letter b with dot below
 1e05	ḅ	latin small letter b with dot below
-1e06	ḇ	latin capital letter b with line below
+1e06	Ḇ	latin capital letter b with line below
 1e07	ḇ	latin small letter b with line below
-1e08	ḉ	latin capital letter c with cedilla and acute
+1e08	Ḉ	latin capital letter c with cedilla and acute
 1e09	ḉ	latin small letter c with cedilla and acute
-1e0a	ḋ	latin capital letter d with dot above
+1e0a	Ḋ	latin capital letter d with dot above
 1e0b	ḋ	latin small letter d with dot above
-1e0c	ḍ	latin capital letter d with dot below
+1e0c	Ḍ	latin capital letter d with dot below
 1e0d	ḍ	latin small letter d with dot below
-1e0e	ḏ	latin capital letter d with line below
+1e0e	Ḏ	latin capital letter d with line below
 1e0f	ḏ	latin small letter d with line below
-1e10	ḑ	latin capital letter d with cedilla
+1e10	Ḑ	latin capital letter d with cedilla
 1e11	ḑ	latin small letter d with cedilla
-1e12	ḓ	latin capital letter d with circumflex below
+1e12	Ḓ	latin capital letter d with circumflex below
 1e13	ḓ	latin small letter d with circumflex below
-1e14	ḕ	latin capital letter e with macron and grave
+1e14	Ḕ	latin capital letter e with macron and grave
 1e15	ḕ	latin small letter e with macron and grave
-1e16	ḗ	latin capital letter e with macron and acute
+1e16	Ḗ	latin capital letter e with macron and acute
 1e17	ḗ	latin small letter e with macron and acute
-1e18	ḙ	latin capital letter e with circumflex below
+1e18	Ḙ	latin capital letter e with circumflex below
 1e19	ḙ	latin small letter e with circumflex below
-1e1a	ḛ	latin capital letter e with tilde below
+1e1a	Ḛ	latin capital letter e with tilde below
 1e1b	ḛ	latin small letter e with tilde below
-1e1c	ḝ	latin capital letter e with cedilla and breve
+1e1c	Ḝ	latin capital letter e with cedilla and breve
 1e1d	ḝ	latin small letter e with cedilla and breve
-1e1e	ḟ	latin capital letter f with dot above
+1e1e	Ḟ	latin capital letter f with dot above
 1e1f	ḟ	latin small letter f with dot above
-1e20	ḡ	latin capital letter g with macron
+1e20	Ḡ	latin capital letter g with macron
 1e21	ḡ	latin small letter g with macron
-1e22	ḣ	latin capital letter h with dot above
+1e22	Ḣ	latin capital letter h with dot above
 1e23	ḣ	latin small letter h with dot above
-1e24	ḥ	latin capital letter h with dot below
+1e24	Ḥ	latin capital letter h with dot below
 1e25	ḥ	latin small letter h with dot below
-1e26	ḧ	latin capital letter h with diaeresis
+1e26	Ḧ	latin capital letter h with diaeresis
 1e27	ḧ	latin small letter h with diaeresis
-1e28	ḩ	latin capital letter h with cedilla
+1e28	Ḩ	latin capital letter h with cedilla
 1e29	ḩ	latin small letter h with cedilla
-1e2a	ḫ	latin capital letter h with breve below
+1e2a	Ḫ	latin capital letter h with breve below
 1e2b	ḫ	latin small letter h with breve below
-1e2c	ḭ	latin capital letter i with tilde below
+1e2c	Ḭ	latin capital letter i with tilde below
 1e2d	ḭ	latin small letter i with tilde below
-1e2e	ḯ	latin capital letter i with diaeresis and acute
+1e2e	Ḯ	latin capital letter i with diaeresis and acute
 1e2f	ḯ	latin small letter i with diaeresis and acute
-1e30	ḱ	latin capital letter k with acute
+1e30	Ḱ	latin capital letter k with acute
 1e31	ḱ	latin small letter k with acute
-1e32	ḳ	latin capital letter k with dot below
+1e32	Ḳ	latin capital letter k with dot below
 1e33	ḳ	latin small letter k with dot below
-1e34	ḵ	latin capital letter k with line below
+1e34	Ḵ	latin capital letter k with line below
 1e35	ḵ	latin small letter k with line below
-1e36	ḷ	latin capital letter l with dot below
+1e36	Ḷ	latin capital letter l with dot below
 1e37	ḷ	latin small letter l with dot below
-1e38	ḹ	latin capital letter l with dot below and macron
+1e38	Ḹ	latin capital letter l with dot below and macron
 1e39	ḹ	latin small letter l with dot below and macron
-1e3a	ḻ	latin capital letter l with line below
+1e3a	Ḻ	latin capital letter l with line below
 1e3b	ḻ	latin small letter l with line below
-1e3c	ḽ	latin capital letter l with circumflex below
+1e3c	Ḽ	latin capital letter l with circumflex below
 1e3d	ḽ	latin small letter l with circumflex below
-1e3e	ḿ	latin capital letter m with acute
+1e3e	Ḿ	latin capital letter m with acute
 1e3f	ḿ	latin small letter m with acute
-1e40	ṁ	latin capital letter m with dot above
+1e40	Ṁ	latin capital letter m with dot above
 1e41	ṁ	latin small letter m with dot above
-1e42	ṃ	latin capital letter m with dot below
+1e42	Ṃ	latin capital letter m with dot below
 1e43	ṃ	latin small letter m with dot below
-1e44	ṅ	latin capital letter n with dot above
+1e44	Ṅ	latin capital letter n with dot above
 1e45	ṅ	latin small letter n with dot above
-1e46	ṇ	latin capital letter n with dot below
+1e46	Ṇ	latin capital letter n with dot below
 1e47	ṇ	latin small letter n with dot below
-1e48	ṉ	latin capital letter n with line below
+1e48	Ṉ	latin capital letter n with line below
 1e49	ṉ	latin small letter n with line below
-1e4a	ṋ	latin capital letter n with circumflex below
+1e4a	Ṋ	latin capital letter n with circumflex below
 1e4b	ṋ	latin small letter n with circumflex below
-1e4c	ṍ	latin capital letter o with tilde and acute
+1e4c	Ṍ	latin capital letter o with tilde and acute
 1e4d	ṍ	latin small letter o with tilde and acute
-1e4e	ṏ	latin capital letter o with tilde and diaeresis
+1e4e	Ṏ	latin capital letter o with tilde and diaeresis
 1e4f	ṏ	latin small letter o with tilde and diaeresis
-1e50	ṑ	latin capital letter o with macron and grave
+1e50	Ṑ	latin capital letter o with macron and grave
 1e51	ṑ	latin small letter o with macron and grave
-1e52	ṓ	latin capital letter o with macron and acute
+1e52	Ṓ	latin capital letter o with macron and acute
 1e53	ṓ	latin small letter o with macron and acute
-1e54	ṕ	latin capital letter p with acute
+1e54	Ṕ	latin capital letter p with acute
 1e55	ṕ	latin small letter p with acute
-1e56	ṗ	latin capital letter p with dot above
+1e56	Ṗ	latin capital letter p with dot above
 1e57	ṗ	latin small letter p with dot above
-1e58	ṙ	latin capital letter r with dot above
+1e58	Ṙ	latin capital letter r with dot above
 1e59	ṙ	latin small letter r with dot above
-1e5a	ṛ	latin capital letter r with dot below
+1e5a	Ṛ	latin capital letter r with dot below
 1e5b	ṛ	latin small letter r with dot below
-1e5c	ṝ	latin capital letter r with dot below and macron
+1e5c	Ṝ	latin capital letter r with dot below and macron
 1e5d	ṝ	latin small letter r with dot below and macron
-1e5e	ṟ	latin capital letter r with line below
+1e5e	Ṟ	latin capital letter r with line below
 1e5f	ṟ	latin small letter r with line below
-1e60	ṡ	latin capital letter s with dot above
+1e60	Ṡ	latin capital letter s with dot above
 1e61	ṡ	latin small letter s with dot above
-1e62	ṣ	latin capital letter s with dot below
+1e62	Ṣ	latin capital letter s with dot below
 1e63	ṣ	latin small letter s with dot below
-1e64	ṥ	latin capital letter s with acute and dot above
+1e64	Ṥ	latin capital letter s with acute and dot above
 1e65	ṥ	latin small letter s with acute and dot above
-1e66	ṧ	latin capital letter s with caron and dot above
+1e66	Ṧ	latin capital letter s with caron and dot above
 1e67	ṧ	latin small letter s with caron and dot above
-1e68	ṩ	latin capital letter s with dot below and dot above
+1e68	Ṩ	latin capital letter s with dot below and dot above
 1e69	ṩ	latin small letter s with dot below and dot above
-1e6a	ṫ	latin capital letter t with dot above
+1e6a	Ṫ	latin capital letter t with dot above
 1e6b	ṫ	latin small letter t with dot above
-1e6c	ṭ	latin capital letter t with dot below
+1e6c	Ṭ	latin capital letter t with dot below
 1e6d	ṭ	latin small letter t with dot below
-1e6e	ṯ	latin capital letter t with line below
+1e6e	Ṯ	latin capital letter t with line below
 1e6f	ṯ	latin small letter t with line below
-1e70	ṱ	latin capital letter t with circumflex below
+1e70	Ṱ	latin capital letter t with circumflex below
 1e71	ṱ	latin small letter t with circumflex below
-1e72	ṳ	latin capital letter u with diaeresis below
+1e72	Ṳ	latin capital letter u with diaeresis below
 1e73	ṳ	latin small letter u with diaeresis below
-1e74	ṵ	latin capital letter u with tilde below
+1e74	Ṵ	latin capital letter u with tilde below
 1e75	ṵ	latin small letter u with tilde below
-1e76	ṷ	latin capital letter u with circumflex below
+1e76	Ṷ	latin capital letter u with circumflex below
 1e77	ṷ	latin small letter u with circumflex below
-1e78	ṹ	latin capital letter u with tilde and acute
+1e78	Ṹ	latin capital letter u with tilde and acute
 1e79	ṹ	latin small letter u with tilde and acute
-1e7a	ṻ	latin capital letter u with macron and diaeresis
+1e7a	Ṻ	latin capital letter u with macron and diaeresis
 1e7b	ṻ	latin small letter u with macron and diaeresis
-1e7c	ṽ	latin capital letter v with tilde
+1e7c	Ṽ	latin capital letter v with tilde
 1e7d	ṽ	latin small letter v with tilde
-1e7e	ṿ	latin capital letter v with dot below
+1e7e	Ṿ	latin capital letter v with dot below
 1e7f	ṿ	latin small letter v with dot below
-1e80	ẁ	latin capital letter w with grave
+1e80	Ẁ	latin capital letter w with grave
 1e81	ẁ	latin small letter w with grave
-1e82	ẃ	latin capital letter w with acute
+1e82	Ẃ	latin capital letter w with acute
 1e83	ẃ	latin small letter w with acute
-1e84	ẅ	latin capital letter w with diaeresis
+1e84	Ẅ	latin capital letter w with diaeresis
 1e85	ẅ	latin small letter w with diaeresis
-1e86	ẇ	latin capital letter w with dot above
+1e86	Ẇ	latin capital letter w with dot above
 1e87	ẇ	latin small letter w with dot above
-1e88	ẉ	latin capital letter w with dot below
+1e88	Ẉ	latin capital letter w with dot below
 1e89	ẉ	latin small letter w with dot below
-1e8a	ẋ	latin capital letter x with dot above
+1e8a	Ẋ	latin capital letter x with dot above
 1e8b	ẋ	latin small letter x with dot above
-1e8c	ẍ	latin capital letter x with diaeresis
+1e8c	Ẍ	latin capital letter x with diaeresis
 1e8d	ẍ	latin small letter x with diaeresis
-1e8e	ẏ	latin capital letter y with dot above
+1e8e	Ẏ	latin capital letter y with dot above
 1e8f	ẏ	latin small letter y with dot above
-1e90	ẑ	latin capital letter z with circumflex
+1e90	Ẑ	latin capital letter z with circumflex
 1e91	ẑ	latin small letter z with circumflex
-1e92	ẓ	latin capital letter z with dot below
+1e92	Ẓ	latin capital letter z with dot below
 1e93	ẓ	latin small letter z with dot below
-1e94	ẕ	latin capital letter z with line below
+1e94	Ẕ	latin capital letter z with line below
 1e95	ẕ	latin small letter z with line below
 1e96	ẖ	latin small letter h with line below
 1e97	ẗ	latin small letter t with diaeresis
@@ -3187,97 +3187,97 @@
 1e99	ẙ	latin small letter y with ring above
 1e9a	ẚ	latin small letter a with right half ring
 1e9b	ẛ	latin small letter long s with dot above
-1e9e	ß	latin capital letter sharp s
+1e9e	SS	latin capital letter sharp s
 1e9f	ẟ	latin small letter delta
-1ea0	ạ	latin capital letter a with dot below
+1ea0	Ạ	latin capital letter a with dot below
 1ea1	ạ	latin small letter a with dot below
-1ea2	ả	latin capital letter a with hook above
+1ea2	Ả	latin capital letter a with hook above
 1ea3	ả	latin small letter a with hook above
-1ea4	ấ	latin capital letter a with circumflex and acute
+1ea4	Ấ	latin capital letter a with circumflex and acute
 1ea5	ấ	latin small letter a with circumflex and acute
-1ea6	ầ	latin capital letter a with circumflex and grave
+1ea6	Ầ	latin capital letter a with circumflex and grave
 1ea7	ầ	latin small letter a with circumflex and grave
-1ea8	ẩ	latin capital letter a with circumflex and hook above
+1ea8	Ẩ	latin capital letter a with circumflex and hook above
 1ea9	ẩ	latin small letter a with circumflex and hook above
-1eaa	ẫ	latin capital letter a with circumflex and tilde
+1eaa	Ẫ	latin capital letter a with circumflex and tilde
 1eab	ẫ	latin small letter a with circumflex and tilde
-1eac	ậ	latin capital letter a with circumflex and dot below
+1eac	Ậ	latin capital letter a with circumflex and dot below
 1ead	ậ	latin small letter a with circumflex and dot below
-1eae	ắ	latin capital letter a with breve and acute
+1eae	Ắ	latin capital letter a with breve and acute
 1eaf	ắ	latin small letter a with breve and acute
-1eb0	ằ	latin capital letter a with breve and grave
+1eb0	Ằ	latin capital letter a with breve and grave
 1eb1	ằ	latin small letter a with breve and grave
-1eb2	ẳ	latin capital letter a with breve and hook above
+1eb2	Ẳ	latin capital letter a with breve and hook above
 1eb3	ẳ	latin small letter a with breve and hook above
-1eb4	ẵ	latin capital letter a with breve and tilde
+1eb4	Ẵ	latin capital letter a with breve and tilde
 1eb5	ẵ	latin small letter a with breve and tilde
-1eb6	ặ	latin capital letter a with breve and dot below
+1eb6	Ặ	latin capital letter a with breve and dot below
 1eb7	ặ	latin small letter a with breve and dot below
-1eb8	ẹ	latin capital letter e with dot below
+1eb8	Ẹ	latin capital letter e with dot below
 1eb9	ẹ	latin small letter e with dot below
-1eba	ẻ	latin capital letter e with hook above
+1eba	Ẻ	latin capital letter e with hook above
 1ebb	ẻ	latin small letter e with hook above
-1ebc	ẽ	latin capital letter e with tilde
+1ebc	Ẽ	latin capital letter e with tilde
 1ebd	ẽ	latin small letter e with tilde
-1ebe	ế	latin capital letter e with circumflex and acute
+1ebe	Ế	latin capital letter e with circumflex and acute
 1ebf	ế	latin small letter e with circumflex and acute
-1ec0	ề	latin capital letter e with circumflex and grave
+1ec0	Ề	latin capital letter e with circumflex and grave
 1ec1	ề	latin small letter e with circumflex and grave
-1ec2	ể	latin capital letter e with circumflex and hook above
+1ec2	Ể	latin capital letter e with circumflex and hook above
 1ec3	ể	latin small letter e with circumflex and hook above
-1ec4	ễ	latin capital letter e with circumflex and tilde
+1ec4	Ễ	latin capital letter e with circumflex and tilde
 1ec5	ễ	latin small letter e with circumflex and tilde
-1ec6	ệ	latin capital letter e with circumflex and dot below
+1ec6	Ệ	latin capital letter e with circumflex and dot below
 1ec7	ệ	latin small letter e with circumflex and dot below
-1ec8	ỉ	latin capital letter i with hook above
+1ec8	Ỉ	latin capital letter i with hook above
 1ec9	ỉ	latin small letter i with hook above
-1eca	ị	latin capital letter i with dot below
+1eca	Ị	latin capital letter i with dot below
 1ecb	ị	latin small letter i with dot below
-1ecc	ọ	latin capital letter o with dot below
+1ecc	Ọ	latin capital letter o with dot below
 1ecd	ọ	latin small letter o with dot below
-1ece	ỏ	latin capital letter o with hook above
+1ece	Ỏ	latin capital letter o with hook above
 1ecf	ỏ	latin small letter o with hook above
-1ed0	ố	latin capital letter o with circumflex and acute
+1ed0	Ố	latin capital letter o with circumflex and acute
 1ed1	ố	latin small letter o with circumflex and acute
-1ed2	ồ	latin capital letter o with circumflex and grave
+1ed2	Ồ	latin capital letter o with circumflex and grave
 1ed3	ồ	latin small letter o with circumflex and grave
-1ed4	ổ	latin capital letter o with circumflex and hook above
+1ed4	Ổ	latin capital letter o with circumflex and hook above
 1ed5	ổ	latin small letter o with circumflex and hook above
-1ed6	ỗ	latin capital letter o with circumflex and tilde
+1ed6	Ỗ	latin capital letter o with circumflex and tilde
 1ed7	ỗ	latin small letter o with circumflex and tilde
-1ed8	ộ	latin capital letter o with circumflex and dot below
+1ed8	Ộ	latin capital letter o with circumflex and dot below
 1ed9	ộ	latin small letter o with circumflex and dot below
-1eda	ớ	latin capital letter o with horn and acute
+1eda	Ớ	latin capital letter o with horn and acute
 1edb	ớ	latin small letter o with horn and acute
-1edc	ờ	latin capital letter o with horn and grave
+1edc	Ờ	latin capital letter o with horn and grave
 1edd	ờ	latin small letter o with horn and grave
-1ede	ở	latin capital letter o with horn and hook above
+1ede	Ở	latin capital letter o with horn and hook above
 1edf	ở	latin small letter o with horn and hook above
-1ee0	ỡ	latin capital letter o with horn and tilde
+1ee0	Ỡ	latin capital letter o with horn and tilde
 1ee1	ỡ	latin small letter o with horn and tilde
-1ee2	ợ	latin capital letter o with horn and dot below
+1ee2	Ợ	latin capital letter o with horn and dot below
 1ee3	ợ	latin small letter o with horn and dot below
-1ee4	ụ	latin capital letter u with dot below
+1ee4	Ụ	latin capital letter u with dot below
 1ee5	ụ	latin small letter u with dot below
-1ee6	ủ	latin capital letter u with hook above
+1ee6	Ủ	latin capital letter u with hook above
 1ee7	ủ	latin small letter u with hook above
-1ee8	ứ	latin capital letter u with horn and acute
+1ee8	Ứ	latin capital letter u with horn and acute
 1ee9	ứ	latin small letter u with horn and acute
-1eea	ừ	latin capital letter u with horn and grave
+1eea	Ừ	latin capital letter u with horn and grave
 1eeb	ừ	latin small letter u with horn and grave
-1eec	ử	latin capital letter u with horn and hook above
+1eec	Ử	latin capital letter u with horn and hook above
 1eed	ử	latin small letter u with horn and hook above
-1eee	ữ	latin capital letter u with horn and tilde
+1eee	Ữ	latin capital letter u with horn and tilde
 1eef	ữ	latin small letter u with horn and tilde
-1ef0	ự	latin capital letter u with horn and dot below
+1ef0	Ự	latin capital letter u with horn and dot below
 1ef1	ự	latin small letter u with horn and dot below
-1ef2	ỳ	latin capital letter y with grave
+1ef2	Ỳ	latin capital letter y with grave
 1ef3	ỳ	latin small letter y with grave
-1ef4	ỵ	latin capital letter y with dot below
+1ef4	Ỵ	latin capital letter y with dot below
 1ef5	ỵ	latin small letter y with dot below
-1ef6	ỷ	latin capital letter y with hook above
+1ef6	Ỷ	latin capital letter y with hook above
 1ef7	ỷ	latin small letter y with hook above
-1ef8	ỹ	latin capital letter y with tilde
+1ef8	Ỹ	latin capital letter y with tilde
 1ef9	ỹ	latin small letter y with tilde
 1f00	ἀ	greek small letter alpha with psili
 1f01	ἁ	greek small letter alpha with dasia
@@ -3287,26 +3287,26 @@
 1f05	ἅ	greek small letter alpha with dasia and oxia
 1f06	ἆ	greek small letter alpha with psili and perispomeni
 1f07	ἇ	greek small letter alpha with dasia and perispomeni
-1f08	ἀ	greek capital letter alpha with psili
-1f09	ἁ	greek capital letter alpha with dasia
-1f0a	ἂ	greek capital letter alpha with psili and varia
-1f0b	ἃ	greek capital letter alpha with dasia and varia
-1f0c	ἄ	greek capital letter alpha with psili and oxia
-1f0d	ἅ	greek capital letter alpha with dasia and oxia
-1f0e	ἆ	greek capital letter alpha with psili and perispomeni
-1f0f	ἇ	greek capital letter alpha with dasia and perispomeni
+1f08	Ἀ	greek capital letter alpha with psili
+1f09	Ἁ	greek capital letter alpha with dasia
+1f0a	Ἂ	greek capital letter alpha with psili and varia
+1f0b	Ἃ	greek capital letter alpha with dasia and varia
+1f0c	Ἄ	greek capital letter alpha with psili and oxia
+1f0d	Ἅ	greek capital letter alpha with dasia and oxia
+1f0e	Ἆ	greek capital letter alpha with psili and perispomeni
+1f0f	Ἇ	greek capital letter alpha with dasia and perispomeni
 1f10	ἐ	greek small letter epsilon with psili
 1f11	ἑ	greek small letter epsilon with dasia
 1f12	ἒ	greek small letter epsilon with psili and varia
 1f13	ἓ	greek small letter epsilon with dasia and varia
 1f14	ἔ	greek small letter epsilon with psili and oxia
 1f15	ἕ	greek small letter epsilon with dasia and oxia
-1f18	ἐ	greek capital letter epsilon with psili
-1f19	ἑ	greek capital letter epsilon with dasia
-1f1a	ἒ	greek capital letter epsilon with psili and varia
-1f1b	ἓ	greek capital letter epsilon with dasia and varia
-1f1c	ἔ	greek capital letter epsilon with psili and oxia
-1f1d	ἕ	greek capital letter epsilon with dasia and oxia
+1f18	Ἐ	greek capital letter epsilon with psili
+1f19	Ἑ	greek capital letter epsilon with dasia
+1f1a	Ἒ	greek capital letter epsilon with psili and varia
+1f1b	Ἓ	greek capital letter epsilon with dasia and varia
+1f1c	Ἔ	greek capital letter epsilon with psili and oxia
+1f1d	Ἕ	greek capital letter epsilon with dasia and oxia
 1f20	ἠ	greek small letter eta with psili
 1f21	ἡ	greek small letter eta with dasia
 1f22	ἢ	greek small letter eta with psili and varia
@@ -3315,14 +3315,14 @@
 1f25	ἥ	greek small letter eta with dasia and oxia
 1f26	ἦ	greek small letter eta with psili and perispomeni
 1f27	ἧ	greek small letter eta with dasia and perispomeni
-1f28	ἠ	greek capital letter eta with psili
-1f29	ἡ	greek capital letter eta with dasia
-1f2a	ἢ	greek capital letter eta with psili and varia
-1f2b	ἣ	greek capital letter eta with dasia and varia
-1f2c	ἤ	greek capital letter eta with psili and oxia
-1f2d	ἥ	greek capital letter eta with dasia and oxia
-1f2e	ἦ	greek capital letter eta with psili and perispomeni
-1f2f	ἧ	greek capital letter eta with dasia and perispomeni
+1f28	Ἠ	greek capital letter eta with psili
+1f29	Ἡ	greek capital letter eta with dasia
+1f2a	Ἢ	greek capital letter eta with psili and varia
+1f2b	Ἣ	greek capital letter eta with dasia and varia
+1f2c	Ἤ	greek capital letter eta with psili and oxia
+1f2d	Ἥ	greek capital letter eta with dasia and oxia
+1f2e	Ἦ	greek capital letter eta with psili and perispomeni
+1f2f	Ἧ	greek capital letter eta with dasia and perispomeni
 1f30	ἰ	greek small letter iota with psili
 1f31	ἱ	greek small letter iota with dasia
 1f32	ἲ	greek small letter iota with psili and varia
@@ -3331,26 +3331,26 @@
 1f35	ἵ	greek small letter iota with dasia and oxia
 1f36	ἶ	greek small letter iota with psili and perispomeni
 1f37	ἷ	greek small letter iota with dasia and perispomeni
-1f38	ἰ	greek capital letter iota with psili
-1f39	ἱ	greek capital letter iota with dasia
-1f3a	ἲ	greek capital letter iota with psili and varia
-1f3b	ἳ	greek capital letter iota with dasia and varia
-1f3c	ἴ	greek capital letter iota with psili and oxia
-1f3d	ἵ	greek capital letter iota with dasia and oxia
-1f3e	ἶ	greek capital letter iota with psili and perispomeni
-1f3f	ἷ	greek capital letter iota with dasia and perispomeni
+1f38	Ἰ	greek capital letter iota with psili
+1f39	Ἱ	greek capital letter iota with dasia
+1f3a	Ἲ	greek capital letter iota with psili and varia
+1f3b	Ἳ	greek capital letter iota with dasia and varia
+1f3c	Ἴ	greek capital letter iota with psili and oxia
+1f3d	Ἵ	greek capital letter iota with dasia and oxia
+1f3e	Ἶ	greek capital letter iota with psili and perispomeni
+1f3f	Ἷ	greek capital letter iota with dasia and perispomeni
 1f40	ὀ	greek small letter omicron with psili
 1f41	ὁ	greek small letter omicron with dasia
 1f42	ὂ	greek small letter omicron with psili and varia
 1f43	ὃ	greek small letter omicron with dasia and varia
 1f44	ὄ	greek small letter omicron with psili and oxia
 1f45	ὅ	greek small letter omicron with dasia and oxia
-1f48	ὀ	greek capital letter omicron with psili
-1f49	ὁ	greek capital letter omicron with dasia
-1f4a	ὂ	greek capital letter omicron with psili and varia
-1f4b	ὃ	greek capital letter omicron with dasia and varia
-1f4c	ὄ	greek capital letter omicron with psili and oxia
-1f4d	ὅ	greek capital letter omicron with dasia and oxia
+1f48	Ὀ	greek capital letter omicron with psili
+1f49	Ὁ	greek capital letter omicron with dasia
+1f4a	Ὂ	greek capital letter omicron with psili and varia
+1f4b	Ὃ	greek capital letter omicron with dasia and varia
+1f4c	Ὄ	greek capital letter omicron with psili and oxia
+1f4d	Ὅ	greek capital letter omicron with dasia and oxia
 1f50	ὐ	greek small letter upsilon with psili
 1f51	ὑ	greek small letter upsilon with dasia
 1f52	ὒ	greek small letter upsilon with psili and varia
@@ -3359,10 +3359,10 @@
 1f55	ὕ	greek small letter upsilon with dasia and oxia
 1f56	ὖ	greek small letter upsilon with psili and perispomeni
 1f57	ὗ	greek small letter upsilon with dasia and perispomeni
-1f59	ὑ	greek capital letter upsilon with dasia
-1f5b	ὓ	greek capital letter upsilon with dasia and varia
-1f5d	ὕ	greek capital letter upsilon with dasia and oxia
-1f5f	ὗ	greek capital letter upsilon with dasia and perispomeni
+1f59	Ὑ	greek capital letter upsilon with dasia
+1f5b	Ὓ	greek capital letter upsilon with dasia and varia
+1f5d	Ὕ	greek capital letter upsilon with dasia and oxia
+1f5f	Ὗ	greek capital letter upsilon with dasia and perispomeni
 1f60	ὠ	greek small letter omega with psili
 1f61	ὡ	greek small letter omega with dasia
 1f62	ὢ	greek small letter omega with psili and varia
@@ -3371,14 +3371,14 @@
 1f65	ὥ	greek small letter omega with dasia and oxia
 1f66	ὦ	greek small letter omega with psili and perispomeni
 1f67	ὧ	greek small letter omega with dasia and perispomeni
-1f68	ὠ	greek capital letter omega with psili
-1f69	ὡ	greek capital letter omega with dasia
-1f6a	ὢ	greek capital letter omega with psili and varia
-1f6b	ὣ	greek capital letter omega with dasia and varia
-1f6c	ὤ	greek capital letter omega with psili and oxia
-1f6d	ὥ	greek capital letter omega with dasia and oxia
-1f6e	ὦ	greek capital letter omega with psili and perispomeni
-1f6f	ὧ	greek capital letter omega with dasia and perispomeni
+1f68	Ὠ	greek capital letter omega with psili
+1f69	Ὡ	greek capital letter omega with dasia
+1f6a	Ὢ	greek capital letter omega with psili and varia
+1f6b	Ὣ	greek capital letter omega with dasia and varia
+1f6c	Ὤ	greek capital letter omega with psili and oxia
+1f6d	Ὥ	greek capital letter omega with dasia and oxia
+1f6e	Ὦ	greek capital letter omega with psili and perispomeni
+1f6f	Ὧ	greek capital letter omega with dasia and perispomeni
 1f70	ὰ	greek small letter alpha with varia
 1f71	ά	greek small letter alpha with oxia
 1f72	ὲ	greek small letter epsilon with varia
@@ -3401,14 +3401,14 @@
 1f85	ᾅ	greek small letter alpha with dasia and oxia and ypogegrammeni
 1f86	ᾆ	greek small letter alpha with psili and perispomeni and ypogegrammeni
 1f87	ᾇ	greek small letter alpha with dasia and perispomeni and ypogegrammeni
-1f88	ᾀ	greek capital letter alpha with psili and prosgegrammeni
-1f89	ᾁ	greek capital letter alpha with dasia and prosgegrammeni
-1f8a	ᾂ	greek capital letter alpha with psili and varia and prosgegrammeni
-1f8b	ᾃ	greek capital letter alpha with dasia and varia and prosgegrammeni
-1f8c	ᾄ	greek capital letter alpha with psili and oxia and prosgegrammeni
-1f8d	ᾅ	greek capital letter alpha with dasia and oxia and prosgegrammeni
-1f8e	ᾆ	greek capital letter alpha with psili and perispomeni and prosgegrammeni
-1f8f	ᾇ	greek capital letter alpha with dasia and perispomeni and prosgegrammeni
+1f88	ἈΙ	greek capital letter alpha with psili and prosgegrammeni
+1f89	ἉΙ	greek capital letter alpha with dasia and prosgegrammeni
+1f8a	ἊΙ	greek capital letter alpha with psili and varia and prosgegrammeni
+1f8b	ἋΙ	greek capital letter alpha with dasia and varia and prosgegrammeni
+1f8c	ἌΙ	greek capital letter alpha with psili and oxia and prosgegrammeni
+1f8d	ἍΙ	greek capital letter alpha with dasia and oxia and prosgegrammeni
+1f8e	ἎΙ	greek capital letter alpha with psili and perispomeni and prosgegrammeni
+1f8f	ἏΙ	greek capital letter alpha with dasia and perispomeni and prosgegrammeni
 1f90	ᾐ	greek small letter eta with psili and ypogegrammeni
 1f91	ᾑ	greek small letter eta with dasia and ypogegrammeni
 1f92	ᾒ	greek small letter eta with psili and varia and ypogegrammeni
@@ -3417,14 +3417,14 @@
 1f95	ᾕ	greek small letter eta with dasia and oxia and ypogegrammeni
 1f96	ᾖ	greek small letter eta with psili and perispomeni and ypogegrammeni
 1f97	ᾗ	greek small letter eta with dasia and perispomeni and ypogegrammeni
-1f98	ᾐ	greek capital letter eta with psili and prosgegrammeni
-1f99	ᾑ	greek capital letter eta with dasia and prosgegrammeni
-1f9a	ᾒ	greek capital letter eta with psili and varia and prosgegrammeni
-1f9b	ᾓ	greek capital letter eta with dasia and varia and prosgegrammeni
-1f9c	ᾔ	greek capital letter eta with psili and oxia and prosgegrammeni
-1f9d	ᾕ	greek capital letter eta with dasia and oxia and prosgegrammeni
-1f9e	ᾖ	greek capital letter eta with psili and perispomeni and prosgegrammeni
-1f9f	ᾗ	greek capital letter eta with dasia and perispomeni and prosgegrammeni
+1f98	ἨΙ	greek capital letter eta with psili and prosgegrammeni
+1f99	ἩΙ	greek capital letter eta with dasia and prosgegrammeni
+1f9a	ἪΙ	greek capital letter eta with psili and varia and prosgegrammeni
+1f9b	ἫΙ	greek capital letter eta with dasia and varia and prosgegrammeni
+1f9c	ἬΙ	greek capital letter eta with psili and oxia and prosgegrammeni
+1f9d	ἭΙ	greek capital letter eta with dasia and oxia and prosgegrammeni
+1f9e	ἮΙ	greek capital letter eta with psili and perispomeni and prosgegrammeni
+1f9f	ἯΙ	greek capital letter eta with dasia and perispomeni and prosgegrammeni
 1fa0	ᾠ	greek small letter omega with psili and ypogegrammeni
 1fa1	ᾡ	greek small letter omega with dasia and ypogegrammeni
 1fa2	ᾢ	greek small letter omega with psili and varia and ypogegrammeni
@@ -3433,14 +3433,14 @@
 1fa5	ᾥ	greek small letter omega with dasia and oxia and ypogegrammeni
 1fa6	ᾦ	greek small letter omega with psili and perispomeni and ypogegrammeni
 1fa7	ᾧ	greek small letter omega with dasia and perispomeni and ypogegrammeni
-1fa8	ᾠ	greek capital letter omega with psili and prosgegrammeni
-1fa9	ᾡ	greek capital letter omega with dasia and prosgegrammeni
-1faa	ᾢ	greek capital letter omega with psili and varia and prosgegrammeni
-1fab	ᾣ	greek capital letter omega with dasia and varia and prosgegrammeni
-1fac	ᾤ	greek capital letter omega with psili and oxia and prosgegrammeni
-1fad	ᾥ	greek capital letter omega with dasia and oxia and prosgegrammeni
-1fae	ᾦ	greek capital letter omega with psili and perispomeni and prosgegrammeni
-1faf	ᾧ	greek capital letter omega with dasia and perispomeni and prosgegrammeni
+1fa8	ὨΙ	greek capital letter omega with psili and prosgegrammeni
+1fa9	ὩΙ	greek capital letter omega with dasia and prosgegrammeni
+1faa	ὪΙ	greek capital letter omega with psili and varia and prosgegrammeni
+1fab	ὫΙ	greek capital letter omega with dasia and varia and prosgegrammeni
+1fac	ὬΙ	greek capital letter omega with psili and oxia and prosgegrammeni
+1fad	ὭΙ	greek capital letter omega with dasia and oxia and prosgegrammeni
+1fae	ὮΙ	greek capital letter omega with psili and perispomeni and prosgegrammeni
+1faf	ὯΙ	greek capital letter omega with dasia and perispomeni and prosgegrammeni
 1fb0	ᾰ	greek small letter alpha with vrachy
 1fb1	ᾱ	greek small letter alpha with macron
 1fb2	ᾲ	greek small letter alpha with varia and ypogegrammeni
@@ -3448,11 +3448,11 @@
 1fb4	ᾴ	greek small letter alpha with oxia and ypogegrammeni
 1fb6	ᾶ	greek small letter alpha with perispomeni
 1fb7	ᾷ	greek small letter alpha with perispomeni and ypogegrammeni
-1fb8	ᾰ	greek capital letter alpha with vrachy
-1fb9	ᾱ	greek capital letter alpha with macron
-1fba	ὰ	greek capital letter alpha with varia
-1fbb	ά	greek capital letter alpha with oxia
-1fbc	ᾳ	greek capital letter alpha with prosgegrammeni
+1fb8	Ᾰ	greek capital letter alpha with vrachy
+1fb9	Ᾱ	greek capital letter alpha with macron
+1fba	Ὰ	greek capital letter alpha with varia
+1fbb	Ά	greek capital letter alpha with oxia
+1fbc	ΑΙ	greek capital letter alpha with prosgegrammeni
 1fbd	᾽	greek koronis
 1fbe	ι	greek prosgegrammeni
 1fbf	᾿	greek psili
@@ -3463,11 +3463,11 @@
 1fc4	ῄ	greek small letter eta with oxia and ypogegrammeni
 1fc6	ῆ	greek small letter eta with perispomeni
 1fc7	ῇ	greek small letter eta with perispomeni and ypogegrammeni
-1fc8	ὲ	greek capital letter epsilon with varia
-1fc9	έ	greek capital letter epsilon with oxia
-1fca	ὴ	greek capital letter eta with varia
-1fcb	ή	greek capital letter eta with oxia
-1fcc	ῃ	greek capital letter eta with prosgegrammeni
+1fc8	Ὲ	greek capital letter epsilon with varia
+1fc9	Έ	greek capital letter epsilon with oxia
+1fca	Ὴ	greek capital letter eta with varia
+1fcb	Ή	greek capital letter eta with oxia
+1fcc	ΗΙ	greek capital letter eta with prosgegrammeni
 1fcd	῍	greek psili and varia
 1fce	῎	greek psili and oxia
 1fcf	῏	greek psili and perispomeni
@@ -3477,10 +3477,10 @@
 1fd3	ΐ	greek small letter iota with dialytika and oxia
 1fd6	ῖ	greek small letter iota with perispomeni
 1fd7	ῗ	greek small letter iota with dialytika and perispomeni
-1fd8	ῐ	greek capital letter iota with vrachy
-1fd9	ῑ	greek capital letter iota with macron
-1fda	ὶ	greek capital letter iota with varia
-1fdb	ί	greek capital letter iota with oxia
+1fd8	Ῐ	greek capital letter iota with vrachy
+1fd9	Ῑ	greek capital letter iota with macron
+1fda	Ὶ	greek capital letter iota with varia
+1fdb	Ί	greek capital letter iota with oxia
 1fdd	῝	greek dasia and varia
 1fde	῞	greek dasia and oxia
 1fdf	῟	greek dasia and perispomeni
@@ -3492,11 +3492,11 @@
 1fe5	ῥ	greek small letter rho with dasia
 1fe6	ῦ	greek small letter upsilon with perispomeni
 1fe7	ῧ	greek small letter upsilon with dialytika and perispomeni
-1fe8	ῠ	greek capital letter upsilon with vrachy
-1fe9	ῡ	greek capital letter upsilon with macron
-1fea	ὺ	greek capital letter upsilon with varia
-1feb	ύ	greek capital letter upsilon with oxia
-1fec	ῥ	greek capital letter rho with dasia
+1fe8	Ῠ	greek capital letter upsilon with vrachy
+1fe9	Ῡ	greek capital letter upsilon with macron
+1fea	Ὺ	greek capital letter upsilon with varia
+1feb	Ύ	greek capital letter upsilon with oxia
+1fec	Ῥ	greek capital letter rho with dasia
 1fed	῭	greek dialytika and varia
 1fee	΅	greek dialytika and oxia
 1fef	`	greek varia
@@ -3505,11 +3505,11 @@
 1ff4	ῴ	greek small letter omega with oxia and ypogegrammeni
 1ff6	ῶ	greek small letter omega with perispomeni
 1ff7	ῷ	greek small letter omega with perispomeni and ypogegrammeni
-1ff8	ὸ	greek capital letter omicron with varia
-1ff9	ό	greek capital letter omicron with oxia
-1ffa	ὼ	greek capital letter omega with varia
-1ffb	ώ	greek capital letter omega with oxia
-1ffc	ῳ	greek capital letter omega with prosgegrammeni
+1ff8	Ὸ	greek capital letter omicron with varia
+1ff9	Ό	greek capital letter omicron with oxia
+1ffa	Ὼ	greek capital letter omega with varia
+1ffb	Ώ	greek capital letter omega with oxia
+1ffc	ΩΙ	greek capital letter omega with prosgegrammeni
 1ffd	´	greek oxia
 1ffe	῾	greek dasia
 1401	ᐁ	canadian syllabics e
@@ -4343,44 +4343,44 @@
 0fd2	࿒	tibetan mark nyis tsheg
 0fd3	࿓	tibetan mark initial brda rnying yig mgo mdun ma
 0fd4	࿔	tibetan mark closing brda rnying yig mgo sgab ma
-10a0	ⴀ	georgian capital letter an
-10a1	ⴁ	georgian capital letter ban
-10a2	ⴂ	georgian capital letter gan
-10a3	ⴃ	georgian capital letter don
-10a4	ⴄ	georgian capital letter en
-10a5	ⴅ	georgian capital letter vin
-10a6	ⴆ	georgian capital letter zen
-10a7	ⴇ	georgian capital letter tan
-10a8	ⴈ	georgian capital letter in
-10a9	ⴉ	georgian capital letter kan
-10aa	ⴊ	georgian capital letter las
-10ab	ⴋ	georgian capital letter man
-10ac	ⴌ	georgian capital letter nar
-10ad	ⴍ	georgian capital letter on
-10ae	ⴎ	georgian capital letter par
-10af	ⴏ	georgian capital letter zhar
-10b0	ⴐ	georgian capital letter rae
-10b1	ⴑ	georgian capital letter san
-10b2	ⴒ	georgian capital letter tar
-10b3	ⴓ	georgian capital letter un
-10b4	ⴔ	georgian capital letter phar
-10b5	ⴕ	georgian capital letter khar
-10b6	ⴖ	georgian capital letter ghan
-10b7	ⴗ	georgian capital letter qar
-10b8	ⴘ	georgian capital letter shin
-10b9	ⴙ	georgian capital letter chin
-10ba	ⴚ	georgian capital letter can
-10bb	ⴛ	georgian capital letter jil
-10bc	ⴜ	georgian capital letter cil
-10bd	ⴝ	georgian capital letter char
-10be	ⴞ	georgian capital letter xan
-10bf	ⴟ	georgian capital letter jhan
-10c0	ⴠ	georgian capital letter hae
-10c1	ⴡ	georgian capital letter he
-10c2	ⴢ	georgian capital letter hie
-10c3	ⴣ	georgian capital letter we
-10c4	ⴤ	georgian capital letter har
-10c5	ⴥ	georgian capital letter hoe
+10a0	Ⴀ	georgian capital letter an
+10a1	Ⴁ	georgian capital letter ban
+10a2	Ⴂ	georgian capital letter gan
+10a3	Ⴃ	georgian capital letter don
+10a4	Ⴄ	georgian capital letter en
+10a5	Ⴅ	georgian capital letter vin
+10a6	Ⴆ	georgian capital letter zen
+10a7	Ⴇ	georgian capital letter tan
+10a8	Ⴈ	georgian capital letter in
+10a9	Ⴉ	georgian capital letter kan
+10aa	Ⴊ	georgian capital letter las
+10ab	Ⴋ	georgian capital letter man
+10ac	Ⴌ	georgian capital letter nar
+10ad	Ⴍ	georgian capital letter on
+10ae	Ⴎ	georgian capital letter par
+10af	Ⴏ	georgian capital letter zhar
+10b0	Ⴐ	georgian capital letter rae
+10b1	Ⴑ	georgian capital letter san
+10b2	Ⴒ	georgian capital letter tar
+10b3	Ⴓ	georgian capital letter un
+10b4	Ⴔ	georgian capital letter phar
+10b5	Ⴕ	georgian capital letter khar
+10b6	Ⴖ	georgian capital letter ghan
+10b7	Ⴗ	georgian capital letter qar
+10b8	Ⴘ	georgian capital letter shin
+10b9	Ⴙ	georgian capital letter chin
+10ba	Ⴚ	georgian capital letter can
+10bb	Ⴛ	georgian capital letter jil
+10bc	Ⴜ	georgian capital letter cil
+10bd	Ⴝ	georgian capital letter char
+10be	Ⴞ	georgian capital letter xan
+10bf	Ⴟ	georgian capital letter jhan
+10c0	Ⴠ	georgian capital letter hae
+10c1	Ⴡ	georgian capital letter he
+10c2	Ⴢ	georgian capital letter hie
+10c3	Ⴣ	georgian capital letter we
+10c4	Ⴤ	georgian capital letter har
+10c5	Ⴥ	georgian capital letter hoe
 10d0	ა	georgian letter an
 10d1	ბ	georgian letter ban
 10d2	გ	georgian letter gan
@@ -4711,23 +4711,23 @@
 28fd	⣽	braille pattern dots-1345678
 28fe	⣾	braille pattern dots-2345678
 28ff	⣿	braille pattern dots-12345678
-2c60	ⱡ	latin capital letter l with double bar
+2c60	Ⱡ	latin capital letter l with double bar
 2c61	ⱡ	latin small letter l with double bar
-2c62	ɫ	latin capital letter l with middle tilde
-2c63	ᵽ	latin capital letter p with stroke
-2c64	ɽ	latin capital letter r with tail
+2c62	Ɫ	latin capital letter l with middle tilde
+2c63	Ᵽ	latin capital letter p with stroke
+2c64	Ɽ	latin capital letter r with tail
 2c65	ⱥ	latin small letter a with stroke
 2c66	ⱦ	latin small letter t with diagonal stroke
-2c67	ⱨ	latin capital letter h with descender
+2c67	Ⱨ	latin capital letter h with descender
 2c68	ⱨ	latin small letter h with descender
-2c69	ⱪ	latin capital letter k with descender
+2c69	Ⱪ	latin capital letter k with descender
 2c6a	ⱪ	latin small letter k with descender
-2c6b	ⱬ	latin capital letter z with descender
+2c6b	Ⱬ	latin capital letter z with descender
 2c6c	ⱬ	latin small letter z with descender
-2c6e	ɱ	latin capital letter m with hook
-2c6f	ɐ	latin capital letter turned a
+2c6e	Ɱ	latin capital letter m with hook
+2c6f	Ɐ	latin capital letter turned a
 2c74	ⱴ	latin small letter v with curl
-2c75	ⱶ	latin capital letter half h
+2c75	Ⱶ	latin capital letter half h
 2c76	ⱶ	latin small letter half h
 2c77	ⱷ	latin small letter tailless phi
 2c79	ⱹ	latin small letter turned r with tail
@@ -6925,51 +6925,51 @@ a4c6	꓆	yi radical ke
 3400	㐀	cjk ideograph extension a, first&gt;
 4db5	䶵	cjk ideograph extension a, last&gt;
 4e00	一	cjk ideograph, first&gt;
-a640	ꙁ	cyrillic capital letter zemlya
+a640	Ꙁ	cyrillic capital letter zemlya
 a641	ꙁ	cyrillic small letter zemlya
-a642	ꙃ	cyrillic capital letter dzelo
+a642	Ꙃ	cyrillic capital letter dzelo
 a643	ꙃ	cyrillic small letter dzelo
-a644	ꙅ	cyrillic capital letter reversed dze
+a644	Ꙅ	cyrillic capital letter reversed dze
 a645	ꙅ	cyrillic small letter reversed dze
-a646	ꙇ	cyrillic capital letter iota
+a646	Ꙇ	cyrillic capital letter iota
 a647	ꙇ	cyrillic small letter iota
-a648	ꙉ	cyrillic capital letter djerv
+a648	Ꙉ	cyrillic capital letter djerv
 a649	ꙉ	cyrillic small letter djerv
-a64a	ꙋ	cyrillic capital letter monograph uk
+a64a	Ꙋ	cyrillic capital letter monograph uk
 a64b	ꙋ	cyrillic small letter monograph uk
-a64c	ꙍ	cyrillic capital letter broad omega
+a64c	Ꙍ	cyrillic capital letter broad omega
 a64d	ꙍ	cyrillic small letter broad omega
-a64e	ꙏ	cyrillic capital letter neutral yer
+a64e	Ꙏ	cyrillic capital letter neutral yer
 a64f	ꙏ	cyrillic small letter neutral yer
-a650	ꙑ	cyrillic capital letter yeru with back yer
+a650	Ꙑ	cyrillic capital letter yeru with back yer
 a651	ꙑ	cyrillic small letter yeru with back yer
-a652	ꙓ	cyrillic capital letter iotified yat
+a652	Ꙓ	cyrillic capital letter iotified yat
 a653	ꙓ	cyrillic small letter iotified yat
-a654	ꙕ	cyrillic capital letter reversed yu
+a654	Ꙕ	cyrillic capital letter reversed yu
 a655	ꙕ	cyrillic small letter reversed yu
-a656	ꙗ	cyrillic capital letter iotified a
+a656	Ꙗ	cyrillic capital letter iotified a
 a657	ꙗ	cyrillic small letter iotified a
-a658	ꙙ	cyrillic capital letter closed little yus
+a658	Ꙙ	cyrillic capital letter closed little yus
 a659	ꙙ	cyrillic small letter closed little yus
-a65a	ꙛ	cyrillic capital letter blended yus
+a65a	Ꙛ	cyrillic capital letter blended yus
 a65b	ꙛ	cyrillic small letter blended yus
-a65c	ꙝ	cyrillic capital letter iotified closed little yus
+a65c	Ꙝ	cyrillic capital letter iotified closed little yus
 a65d	ꙝ	cyrillic small letter iotified closed little yus
-a65e	ꙟ	cyrillic capital letter yn
+a65e	Ꙟ	cyrillic capital letter yn
 a65f	ꙟ	cyrillic small letter yn
-a660	ꙡ	cyrillic capital letter reversed tse
+a660	Ꙡ	cyrillic capital letter reversed tse
 a661	ꙡ	cyrillic small letter reversed tse
-a662	ꙣ	cyrillic capital letter soft de
+a662	Ꙣ	cyrillic capital letter soft de
 a663	ꙣ	cyrillic small letter soft de
-a664	ꙥ	cyrillic capital letter soft el
+a664	Ꙥ	cyrillic capital letter soft el
 a665	ꙥ	cyrillic small letter soft el
-a666	ꙧ	cyrillic capital letter soft em
+a666	Ꙧ	cyrillic capital letter soft em
 a667	ꙧ	cyrillic small letter soft em
-a668	ꙩ	cyrillic capital letter monocular o
+a668	Ꙩ	cyrillic capital letter monocular o
 a669	ꙩ	cyrillic small letter monocular o
-a66a	ꙫ	cyrillic capital letter binocular o
+a66a	Ꙫ	cyrillic capital letter binocular o
 a66b	ꙫ	cyrillic small letter binocular o
-a66c	ꙭ	cyrillic capital letter double monocular o
+a66c	Ꙭ	cyrillic capital letter double monocular o
 a66d	ꙭ	cyrillic small letter double monocular o
 a66e	ꙮ	cyrillic letter multiocular o
 a66f	꙯	combining cyrillic vzmet
@@ -6980,29 +6980,29 @@ a67c	꙼	combining cyrillic kavyka
 a67d	꙽	combining cyrillic payerok
 a67e	꙾	cyrillic kavyka
 a67f	ꙿ	cyrillic payerok
-a680	ꚁ	cyrillic capital letter dwe
+a680	Ꚁ	cyrillic capital letter dwe
 a681	ꚁ	cyrillic small letter dwe
-a682	ꚃ	cyrillic capital letter dzwe
+a682	Ꚃ	cyrillic capital letter dzwe
 a683	ꚃ	cyrillic small letter dzwe
-a684	ꚅ	cyrillic capital letter zhwe
+a684	Ꚅ	cyrillic capital letter zhwe
 a685	ꚅ	cyrillic small letter zhwe
-a686	ꚇ	cyrillic capital letter cche
+a686	Ꚇ	cyrillic capital letter cche
 a687	ꚇ	cyrillic small letter cche
-a688	ꚉ	cyrillic capital letter dzze
+a688	Ꚉ	cyrillic capital letter dzze
 a689	ꚉ	cyrillic small letter dzze
-a68a	ꚋ	cyrillic capital letter te with middle hook
+a68a	Ꚋ	cyrillic capital letter te with middle hook
 a68b	ꚋ	cyrillic small letter te with middle hook
-a68c	ꚍ	cyrillic capital letter twe
+a68c	Ꚍ	cyrillic capital letter twe
 a68d	ꚍ	cyrillic small letter twe
-a68e	ꚏ	cyrillic capital letter tswe
+a68e	Ꚏ	cyrillic capital letter tswe
 a68f	ꚏ	cyrillic small letter tswe
-a690	ꚑ	cyrillic capital letter tsse
+a690	Ꚑ	cyrillic capital letter tsse
 a691	ꚑ	cyrillic small letter tsse
-a692	ꚓ	cyrillic capital letter tche
+a692	Ꚓ	cyrillic capital letter tche
 a693	ꚓ	cyrillic small letter tche
-a694	ꚕ	cyrillic capital letter hwe
+a694	Ꚕ	cyrillic capital letter hwe
 a695	ꚕ	cyrillic small letter hwe
-a696	ꚗ	cyrillic capital letter shwe
+a696	Ꚗ	cyrillic capital letter shwe
 a697	ꚗ	cyrillic small letter shwe
 a700	꜀	modifier letter chinese tone yin ping
 a701	꜁	modifier letter chinese tone yang ping
@@ -7038,9 +7038,9 @@ a720	꜠	modifier letter stress and high tone
 a721	꜡	modifier letter stress and low tone
 a789	꞉	modifier letter colon
 a78a	꞊	modifier letter short equals sign
-a78b	ꞌ	latin capital letter saltillo
+a78b	Ꞌ	latin capital letter saltillo
 a78c	ꞌ	latin small letter saltillo
-a7a4	ꞥ	latin capital letter n with oblique stroke
+a7a4	Ꞥ	latin capital letter n with oblique stroke
 ac00	가	&lt;hangul syllable, first&gt;
 d7a3	힣	&lt;hangul syllable, last&gt;
 f900	豈	cjk compatibility ideograph-f900
@@ -8197,32 +8197,32 @@ fef9	ﻹ	arabic ligature lam with alef with hamza below isolated form
 fefa	ﻺ	arabic ligature lam with alef with hamza below final form
 fefb	ﻻ	arabic ligature lam with alef isolated form
 fefc	ﻼ	arabic ligature lam with alef final form
-ff21	ａ	fullwidth latin capital letter a
-ff22	ｂ	fullwidth latin capital letter b
-ff23	ｃ	fullwidth latin capital letter c
-ff24	ｄ	fullwidth latin capital letter d
-ff25	ｅ	fullwidth latin capital letter e
-ff26	ｆ	fullwidth latin capital letter f
-ff27	ｇ	fullwidth latin capital letter g
-ff28	ｈ	fullwidth latin capital letter h
-ff29	ｉ	fullwidth latin capital letter i
-ff2a	ｊ	fullwidth latin capital letter j
-ff2b	ｋ	fullwidth latin capital letter k
-ff2c	ｌ	fullwidth latin capital letter l
-ff2d	ｍ	fullwidth latin capital letter m
-ff2e	ｎ	fullwidth latin capital letter n
-ff2f	ｏ	fullwidth latin capital letter o
-ff30	ｐ	fullwidth latin capital letter p
-ff31	ｑ	fullwidth latin capital letter q
-ff32	ｒ	fullwidth latin capital letter r
-ff33	ｓ	fullwidth latin capital letter s
-ff34	ｔ	fullwidth latin capital letter t
-ff35	ｕ	fullwidth latin capital letter u
-ff36	ｖ	fullwidth latin capital letter v
-ff37	ｗ	fullwidth latin capital letter w
-ff38	ｘ	fullwidth latin capital letter x
-ff39	ｙ	fullwidth latin capital letter y
-ff3a	ｚ	fullwidth latin capital letter z
+ff21	Ａ	fullwidth latin capital letter a
+ff22	Ｂ	fullwidth latin capital letter b
+ff23	Ｃ	fullwidth latin capital letter c
+ff24	Ｄ	fullwidth latin capital letter d
+ff25	Ｅ	fullwidth latin capital letter e
+ff26	Ｆ	fullwidth latin capital letter f
+ff27	Ｇ	fullwidth latin capital letter g
+ff28	Ｈ	fullwidth latin capital letter h
+ff29	Ｉ	fullwidth latin capital letter i
+ff2a	Ｊ	fullwidth latin capital letter j
+ff2b	Ｋ	fullwidth latin capital letter k
+ff2c	Ｌ	fullwidth latin capital letter l
+ff2d	Ｍ	fullwidth latin capital letter m
+ff2e	Ｎ	fullwidth latin capital letter n
+ff2f	Ｏ	fullwidth latin capital letter o
+ff30	Ｐ	fullwidth latin capital letter p
+ff31	Ｑ	fullwidth latin capital letter q
+ff32	Ｒ	fullwidth latin capital letter r
+ff33	Ｓ	fullwidth latin capital letter s
+ff34	Ｔ	fullwidth latin capital letter t
+ff35	Ｕ	fullwidth latin capital letter u
+ff36	Ｖ	fullwidth latin capital letter v
+ff37	Ｗ	fullwidth latin capital letter w
+ff38	Ｘ	fullwidth latin capital letter x
+ff39	Ｙ	fullwidth latin capital letter y
+ff3a	Ｚ	fullwidth latin capital letter z
 ff41	ａ	fullwidth latin small letter a
 ff42	ｂ	fullwidth latin small letter b
 ff43	ｃ	fullwidth latin small letter c
@@ -8569,32 +8569,32 @@ ffec	￬	halfwidth downwards arrow
 2485	⒅	parenthesized number eighteen
 2486	⒆	parenthesized number nineteen
 2487	⒇	parenthesized number twenty
-24b6	ⓐ	circled latin capital letter a
-24b7	ⓑ	circled latin capital letter b
-24b8	ⓒ	circled latin capital letter c
-24b9	ⓓ	circled latin capital letter d
-24ba	ⓔ	circled latin capital letter e
-24bb	ⓕ	circled latin capital letter f
-24bc	ⓖ	circled latin capital letter g
-24bd	ⓗ	circled latin capital letter h
-24be	ⓘ	circled latin capital letter i
-24bf	ⓙ	circled latin capital letter j
-24c0	ⓚ	circled latin capital letter k
-24c1	ⓛ	circled latin capital letter l
-24c2	ⓜ	circled latin capital letter m
-24c3	ⓝ	circled latin capital letter n
-24c4	ⓞ	circled latin capital letter o
-24c5	ⓟ	circled latin capital letter p
-24c6	ⓠ	circled latin capital letter q
-24c7	ⓡ	circled latin capital letter r
-24c8	ⓢ	circled latin capital letter s
-24c9	ⓣ	circled latin capital letter t
-24ca	ⓤ	circled latin capital letter u
-24cb	ⓥ	circled latin capital letter v
-24cc	ⓦ	circled latin capital letter w
-24cd	ⓧ	circled latin capital letter x
-24ce	ⓨ	circled latin capital letter y
-24cf	ⓩ	circled latin capital letter z
+24b6	Ⓐ	circled latin capital letter a
+24b7	Ⓑ	circled latin capital letter b
+24b8	Ⓒ	circled latin capital letter c
+24b9	Ⓓ	circled latin capital letter d
+24ba	Ⓔ	circled latin capital letter e
+24bb	Ⓕ	circled latin capital letter f
+24bc	Ⓖ	circled latin capital letter g
+24bd	Ⓗ	circled latin capital letter h
+24be	Ⓘ	circled latin capital letter i
+24bf	Ⓙ	circled latin capital letter j
+24c0	Ⓚ	circled latin capital letter k
+24c1	Ⓛ	circled latin capital letter l
+24c2	Ⓜ	circled latin capital letter m
+24c3	Ⓝ	circled latin capital letter n
+24c4	Ⓞ	circled latin capital letter o
+24c5	Ⓟ	circled latin capital letter p
+24c6	Ⓠ	circled latin capital letter q
+24c7	Ⓡ	circled latin capital letter r
+24c8	Ⓢ	circled latin capital letter s
+24c9	Ⓣ	circled latin capital letter t
+24ca	Ⓤ	circled latin capital letter u
+24cb	Ⓥ	circled latin capital letter v
+24cc	Ⓦ	circled latin capital letter w
+24cd	Ⓧ	circled latin capital letter x
+24ce	Ⓨ	circled latin capital letter y
+24cf	Ⓩ	circled latin capital letter z
 24d0	ⓐ	circled latin small letter a
 24d1	ⓑ	circled latin small letter b
 24d2	ⓒ	circled latin small letter c
@@ -8883,7 +8883,7 @@ ffec	￬	halfwidth downwards arrow
 212e	℮	estimated symbol
 212f	ℯ	script small e
 2131	ℱ	script capital f
-2132	ⅎ	turned capital f
+2132	Ⅎ	turned capital f
 2133	ℳ	script capital m
 2134	ℴ	script small o
 2137	ℷ	gimel symbol
@@ -11999,48 +11999,48 @@ ffed	￭	halfwidth black square
 103e	ှ	myanmar consonant sign medial ha
 103f	ဿ	myanmar letter great sa
 1040	၀	myanmar digit zero
-10400	𐐨	deseret capital letter long i
-10401	𐐩	deseret capital letter long e
-10402	𐐪	deseret capital letter long a
-10403	𐐫	deseret capital letter long ah
-10404	𐐬	deseret capital letter long o
-10405	𐐭	deseret capital letter long oo
-10406	𐐮	deseret capital letter short i
-10407	𐐯	deseret capital letter short e
-10408	𐐰	deseret capital letter short a
-10409	𐐱	deseret capital letter short ah
-1040a	𐐲	deseret capital letter short o
-1040b	𐐳	deseret capital letter short oo
-1040c	𐐴	deseret capital letter ay
-1040d	𐐵	deseret capital letter ow
-1040e	𐐶	deseret capital letter wu
-1040f	𐐷	deseret capital letter yee
+10400	𐐀	deseret capital letter long i
+10401	𐐁	deseret capital letter long e
+10402	𐐂	deseret capital letter long a
+10403	𐐃	deseret capital letter long ah
+10404	𐐄	deseret capital letter long o
+10405	𐐅	deseret capital letter long oo
+10406	𐐆	deseret capital letter short i
+10407	𐐇	deseret capital letter short e
+10408	𐐈	deseret capital letter short a
+10409	𐐉	deseret capital letter short ah
+1040a	𐐊	deseret capital letter short o
+1040b	𐐋	deseret capital letter short oo
+1040c	𐐌	deseret capital letter ay
+1040d	𐐍	deseret capital letter ow
+1040e	𐐎	deseret capital letter wu
+1040f	𐐏	deseret capital letter yee
 1041	၁	myanmar digit one
-10410	𐐸	deseret capital letter h
-10411	𐐹	deseret capital letter pee
-10412	𐐺	deseret capital letter bee
-10413	𐐻	deseret capital letter tee
-10414	𐐼	deseret capital letter dee
-10415	𐐽	deseret capital letter chee
-10416	𐐾	deseret capital letter jee
-10417	𐐿	deseret capital letter kay
-10418	𐑀	deseret capital letter gay
-10419	𐑁	deseret capital letter ef
-1041a	𐑂	deseret capital letter vee
-1041b	𐑃	deseret capital letter eth
-1041c	𐑄	deseret capital letter thee
-1041d	𐑅	deseret capital letter es
-1041e	𐑆	deseret capital letter zee
-1041f	𐑇	deseret capital letter esh
+10410	𐐐	deseret capital letter h
+10411	𐐑	deseret capital letter pee
+10412	𐐒	deseret capital letter bee
+10413	𐐓	deseret capital letter tee
+10414	𐐔	deseret capital letter dee
+10415	𐐕	deseret capital letter chee
+10416	𐐖	deseret capital letter jee
+10417	𐐗	deseret capital letter kay
+10418	𐐘	deseret capital letter gay
+10419	𐐙	deseret capital letter ef
+1041a	𐐚	deseret capital letter vee
+1041b	𐐛	deseret capital letter eth
+1041c	𐐜	deseret capital letter thee
+1041d	𐐝	deseret capital letter es
+1041e	𐐞	deseret capital letter zee
+1041f	𐐟	deseret capital letter esh
 1042	၂	myanmar digit two
-10420	𐑈	deseret capital letter zhee
-10421	𐑉	deseret capital letter er
-10422	𐑊	deseret capital letter el
-10423	𐑋	deseret capital letter em
-10424	𐑌	deseret capital letter en
-10425	𐑍	deseret capital letter eng
-10426	𐑎	deseret capital letter oi
-10427	𐑏	deseret capital letter ew
+10420	𐐠	deseret capital letter zhee
+10421	𐐡	deseret capital letter er
+10422	𐐢	deseret capital letter el
+10423	𐐣	deseret capital letter em
+10424	𐐤	deseret capital letter en
+10425	𐐥	deseret capital letter eng
+10426	𐐦	deseret capital letter oi
+10427	𐐧	deseret capital letter ew
 10428	𐐨	deseret small letter long i
 10429	𐐩	deseret small letter long e
 1042a	𐐪	deseret small letter long a
@@ -14107,11 +14107,11 @@ ffed	￭	halfwidth black square
 1de6	ᷦ	combining latin small letter z
 1e9c	ẜ	latin small letter long s with diagonal stroke
 1e9d	ẝ	latin small letter long s with high stroke
-1efa	ỻ	latin capital letter middle-welsh ll
+1efa	Ỻ	latin capital letter middle-welsh ll
 1efb	ỻ	latin small letter middle-welsh ll
-1efc	ỽ	latin capital letter middle-welsh v
+1efc	Ỽ	latin capital letter middle-welsh v
 1efd	ỽ	latin small letter middle-welsh v
-1efe	ỿ	latin capital letter y with loop
+1efe	Ỿ	latin capital letter y with loop
 1eff	ỿ	latin small letter y with loop
 20b6	₶	livre tournois sign
 20b7	₷	spesmilo sign
@@ -14882,9 +14882,9 @@ ffed	￭	halfwidth black square
 2b56	⭖	heavy oval with oval inside
 2b57	⭗	heavy circle with circle inside
 2b58	⭘	heavy circle
-2c6d	ɑ	latin capital letter alpha
+2c6d	Ɑ	latin capital letter alpha
 2c71	ⱱ	latin small letter v with right hook
-2c72	ⱳ	latin capital letter w with hook
+2c72	Ⱳ	latin capital letter w with hook
 2c73	ⱳ	latin small letter w with hook
 2c78	ⱸ	latin small letter e with notch
 2c7b	ⱻ	latin letter small capital turned e
@@ -15196,33 +15196,33 @@ ffed	￭	halfwidth black square
 4dfe	䷾	hexagram for after completion
 4dff	䷿	hexagram for before completion
 9fcb	鿋	cjk ideograph, last;
-a726	ꜧ	latin capital letter heng
+a726	Ꜧ	latin capital letter heng
 a727	ꜧ	latin small letter heng
 a730	ꜰ	latin letter small capital f
 a731	ꜱ	latin letter small capital s
-a732	ꜳ	latin capital letter aa
+a732	Ꜳ	latin capital letter aa
 a733	ꜳ	latin small letter aa
-a738	ꜹ	latin capital letter av
+a738	Ꜹ	latin capital letter av
 a739	ꜹ	latin small letter av
-a73a	ꜻ	latin capital letter av with horizontal bar
+a73a	Ꜻ	latin capital letter av with horizontal bar
 a73b	ꜻ	latin small letter av with horizontal bar
-a73e	ꜿ	latin capital letter reversed c with dot
+a73e	Ꜿ	latin capital letter reversed c with dot
 a73f	ꜿ	latin small letter reversed c with dot
-a740	ꝁ	latin capital letter k with stroke
+a740	Ꝁ	latin capital letter k with stroke
 a741	ꝁ	latin small letter k with stroke
-a742	ꝃ	latin capital letter k with diagonal stroke
+a742	Ꝃ	latin capital letter k with diagonal stroke
 a743	ꝃ	latin small letter k with diagonal stroke
-a744	ꝅ	latin capital letter k with stroke and diagonal stroke
+a744	Ꝅ	latin capital letter k with stroke and diagonal stroke
 a745	ꝅ	latin small letter k with stroke and diagonal stroke
-a748	ꝉ	latin capital letter l with high stroke
+a748	Ꝉ	latin capital letter l with high stroke
 a749	ꝉ	latin small letter l with high stroke
-a74a	ꝋ	latin capital letter o with long stroke overlay
+a74a	Ꝋ	latin capital letter o with long stroke overlay
 a74b	ꝋ	latin small letter o with long stroke overlay
-a74e	ꝏ	latin capital letter oo
+a74e	Ꝏ	latin capital letter oo
 a74f	ꝏ	latin small letter oo
-a75a	ꝛ	latin capital letter r rotunda
+a75a	Ꝛ	latin capital letter r rotunda
 a75b	ꝛ	latin small letter r rotunda
-a780	ꞁ	latin capital letter turned l
+a780	Ꞁ	latin capital letter turned l
 a781	ꞁ	latin small letter turned l
 a788	ꞈ	modifier letter low circumflex accent
 a7fb	ꟻ	latin epigraphic letter reversed f
