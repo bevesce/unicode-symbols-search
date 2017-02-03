@@ -18,15 +18,13 @@ def create_query(query_text):
         symbol_matches = symbol_itself == query_text
         description_matches = all(word in description for word in query_words)
         return symbol_matches or description_matches
-
     return is_symbol_matching
 
 
 def load_symbols(path=None):
     if not path:
         path = get_symbols_path()
-    with open(path, encoding='utf-8') as f:
-        return [parse_symbol(l) for l in f.read().splitlines()]
+    return [parse_symbol(l) for l in read6(path).splitlines()]
 
 
 def parse_symbol(line):
@@ -36,6 +34,16 @@ def parse_symbol(line):
 
 def get_symbols_path():
     return os.path.join(os.path.split(__file__)[0], 'symbols.txt')
+
+
+
+def read6(path):
+    try:
+        with open(path, encoding='utf-8') as f:
+            return f.read()
+    except:
+        with open(path) as f:
+            return f.read().decode('utf-8')
 
 
 if __name__ == '__main__':
