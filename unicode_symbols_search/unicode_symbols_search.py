@@ -36,7 +36,6 @@ def get_symbols_path():
     return os.path.join(os.path.split(__file__)[0], 'symbols.txt')
 
 
-
 def read6(path):
     try:
         with open(path, encoding='utf-8') as f:
