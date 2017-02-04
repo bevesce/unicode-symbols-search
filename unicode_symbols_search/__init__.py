@@ -1,1 +1,2 @@
 from .unicode_symbols_search import search_symbols
+from .unicode_symbols_search import get_symbols
