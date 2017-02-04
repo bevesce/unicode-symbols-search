@@ -1,4 +1,4 @@
-![Alfred 2 workflow](screenshots/uss1.png)
+![Alfred 2 workflow](screenshots/uss2.png)
 
 Find and paste unicode symbols using python script or alfred workflow. 
 ![script in terminal](screenshots/script.png)
