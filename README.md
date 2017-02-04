@@ -1,3 +1,5 @@
+# Unicode Symbols Search
+
 ![Alfred 2 workflow](screenshots/uss2.png)
 
 Find and paste unicode symbols using python script or alfred workflow. 
