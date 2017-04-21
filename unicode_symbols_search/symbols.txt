@@ -18044,6 +18044,7 @@
  💂🏿| guardsman, black skin tone
  💂🏿‍♀️| female guard, black skin tone
  💂🏿‍♂️| male guard, black skin tone
+ 🗺️| map
  💃| dancer
  💃🏻| dancer, pale skin tone
  💃🏼| dancer, cream white skin tone
