@@ -18664,6 +18664,425 @@
  🦃| turkey
  🦄| unicorn face
  🧀| cheese wedge
+ 👩‍🎨| female artist
+ 👩🏻‍🎨| female artist, pale skin tone
+ 👩🏼‍🎨| female artist, cream white skin tone
+ 👩🏽‍🎨| female artist, moderate brown skin tone
+ 👩🏾‍🎨| female artist, dark brown skin tone
+ 👩🏿‍🎨| female artist, black skin tone
+ 👨‍🎨| male artist
+ 👨🏻‍🎨| male artist, pale skin tone
+ 👨🏼‍🎨| male artist, cream white skin tone
+ 👨🏽‍🎨| male artist, moderate brown skin tone
+ 👨🏾‍🎨| male artist, dark brown skin tone
+ 👨🏿‍🎨| male artist, black skin tone
+ 👩‍🚀| female astronaut
+ 👩🏻‍🚀| female astronaut, pale skin tone
+ 👩🏼‍🚀| female astronaut, cream white skin tone
+ 👩🏽‍🚀| female astronaut, moderate brown skin tone
+ 👩🏾‍🚀| female astronaut, dark brown skin tone
+ 👩🏿‍🚀| female astronaut, black skin tone
+ 👨‍🚀| male astronaut
+ 👨🏻‍🚀| male astronaut, pale skin tone
+ 👨🏼‍🚀| male astronaut, cream white skin tone
+ 👨🏽‍🚀| male astronaut, moderate brown skin tone
+ 👨🏾‍🚀| male astronaut, dark brown skin tone
+ 👨🏿‍🚀| male astronaut, black skin tone
+ 👩‍🍳| female cook
+ 👩🏻‍🍳| female cook, pale skin tone
+ 👩🏼‍🍳| female cook, cream white skin tone
+ 👩🏽‍🍳| female cook, moderate brown skin tone
+ 👩🏾‍🍳| female cook, dark brown skin tone
+ 👩🏿‍🍳| female cook, black skin tone
+ 👨‍🍳| male cook
+ 👨🏻‍🍳| male cook, pale skin tone
+ 👨🏼‍🍳| male cook, cream white skin tone
+ 👨🏽‍🍳| male cook, moderate brown skin tone
+ 👨🏾‍🍳| male cook, dark brown skin tone
+ 👨🏿‍🍳| male cook, black skin tone
+ 👩‍🏭| female factory worker
+ 👩🏻‍🏭| female factory worker, pale skin tone
+ 👩🏼‍🏭| female factory worker, cream white skin tone
+ 👩🏽‍🏭| female factory worker, moderate brown skin tone
+ 👩🏾‍🏭| female factory worker, dark brown skin tone
+ 👩🏿‍🏭| female factory worker, black skin tone
+ 👨‍🏭| male factory worker
+ 👨🏻‍🏭| male factory worker, pale skin tone
+ 👨🏼‍🏭| male factory worker, cream white skin tone
+ 👨🏽‍🏭| male factory worker, moderate brown skin tone
+ 👨🏾‍🏭| male factory worker, dark brown skin tone
+ 👨🏿‍🏭| male factory worker, black skin tone
+ 👩‍🌾| female farmer
+ 👩🏻‍🌾| female farmer, pale skin tone
+ 👩🏼‍🌾| female farmer, cream white skin tone
+ 👩🏽‍🌾| female farmer, moderate brown skin tone
+ 👩🏾‍🌾| female farmer, dark brown skin tone
+ 👩🏿‍🌾| female farmer, black skin tone
+ 👨‍🌾| male farmer
+ 👨🏻‍🌾| male farmer, pale skin tone
+ 👨🏼‍🌾| male farmer, cream white skin tone
+ 👨🏽‍🌾| male farmer, moderate brown skin tone
+ 👨🏾‍🌾| male farmer, dark brown skin tone
+ 👨🏿‍🌾| male farmer, black skin tone
+ 👩‍🚒| female firefighter
+ 👩🏻‍🚒| female firefighter, pale skin tone
+ 👩🏼‍🚒| female firefighter, cream white skin tone
+ 👩🏽‍🚒| female firefighter, moderate brown skin tone
+ 👩🏾‍🚒| female firefighter, dark brown skin tone
+ 👩🏿‍🚒| female firefighter, black skin tone
+ 👨‍🚒| male firefighter
+ 👨🏻‍🚒| male firefighter, pale skin tone
+ 👨🏼‍🚒| male firefighter, cream white skin tone
+ 👨🏽‍🚒| male firefighter, moderate brown skin tone
+ 👨🏾‍🚒| male firefighter, dark brown skin tone
+ 👨🏿‍🚒| male firefighter, black skin tone
+ 👩‍⚕️ | female health worker
+ 👩🏻‍⚕️ | female health worker, pale skin tone
+ 👩🏼‍⚕️ | female health worker, cream white skin tone
+ 👩🏽‍⚕️ | female health worker, moderate brown skin tone
+ 👩🏾‍⚕️ | female health worker, dark brown skin tone
+ 👩🏿‍⚕️ | female health worker, black skin tone
+ 👨‍⚕️ | male health worker
+ 👨🏻‍⚕️ | male health worker, pale skin tone
+ 👨🏼‍⚕️ | male health worker, cream white skin tone
+ 👨🏽‍⚕️ | male health worker, moderate brown skin tone
+ 👨🏾‍⚕️ | male health worker, dark brown skin tone
+ 👨🏿‍⚕️ | male health worker, black skin tone
+ 👩‍⚖️ | female judge
+ 👩🏻‍⚖️ | female judge, pale skin tone
+ 👩🏼‍⚖️ | female judge, cream white skin tone
+ 👩🏽‍⚖️ | female judge, moderate brown skin tone
+ 👩🏾‍⚖️ | female judge, dark brown skin tone
+ 👩🏿‍⚖️ | female judge, black skin tone
+ 👨‍⚖️ | male judge
+ 👨🏻‍⚖️ | male judge, pale skin tone
+ 👨🏼‍⚖️ | male judge, cream white skin tone
+ 👨🏽‍⚖️ | male judge, moderate brown skin tone
+ 👨🏾‍⚖️ | male judge, dark brown skin tone
+ 👨🏿‍⚖️ | male judge, black skin tone
+ 👩‍🔧| female mechanic
+ 👩🏻‍🔧| female mechanic, pale skin tone
+ 👩🏼‍🔧| female mechanic, cream white skin tone
+ 👩🏽‍🔧| female mechanic, moderate brown skin tone
+ 👩🏾‍🔧| female mechanic, dark brown skin tone
+ 👩🏿‍🔧| female mechanic, black skin tone
+ 👨‍🔧| male mechanic
+ 👨🏻‍🔧| male mechanic, pale skin tone
+ 👨🏼‍🔧| male mechanic, cream white skin tone
+ 👨🏽‍🔧| male mechanic, moderate brown skin tone
+ 👨🏾‍🔧| male mechanic, dark brown skin tone
+ 👨🏿‍🔧| male mechanic, black skin tone
+ 👩‍💼| female office worker
+ 👩🏻‍💼| female office worker, pale skin tone
+ 👩🏼‍💼| female office worker, cream white skin tone
+ 👩🏽‍💼| female office worker, moderate brown skin tone
+ 👩🏾‍💼| female office worker, dark brown skin tone
+ 👩🏿‍💼| female office worker, black skin tone
+ 👨‍💼| male office worker
+ 👨🏻‍💼| male office worker, pale skin tone
+ 👨🏼‍💼| male office worker, cream white skin tone
+ 👨🏽‍💼| male office worker, moderate brown skin tone
+ 👨🏾‍💼| male office worker, dark brown skin tone
+ 👨🏿‍💼| male office worker, black skin tone
+ 👩‍✈️ | female pilot
+ 👩🏻‍✈️ | female pilot, pale skin tone
+ 👩🏼‍✈️ | female pilot, cream white skin tone
+ 👩🏽‍✈️ | female pilot, moderate brown skin tone
+ 👩🏾‍✈️ | female pilot, dark brown skin tone
+ 👩🏿‍✈️ | female pilot, black skin tone
+ 👨‍✈️ | male pilot
+ 👨🏻‍✈️ | male pilot, pale skin tone
+ 👨🏼‍✈️ | male pilot, cream white skin tone
+ 👨🏽‍✈️ | male pilot, moderate brown skin tone
+ 👨🏾‍✈️ | male pilot, dark brown skin tone
+ 👨🏿‍✈️ | male pilot, black skin tone
+ 👩‍🔬| female scientist
+ 👩🏻‍🔬| female scientist, pale skin tone
+ 👩🏼‍🔬| female scientist, cream white skin tone
+ 👩🏽‍🔬| female scientist, moderate brown skin tone
+ 👩🏾‍🔬| female scientist, dark brown skin tone
+ 👩🏿‍🔬| female scientist, black skin tone
+ 👨‍🔬| male scientist
+ 👨🏻‍🔬| male scientist, pale skin tone
+ 👨🏼‍🔬| male scientist, cream white skin tone
+ 👨🏽‍🔬| male scientist, moderate brown skin tone
+ 👨🏾‍🔬| male scientist, dark brown skin tone
+ 👨🏿‍🔬| male scientist, black skin tone
+ 👩‍🎤| female singer
+ 👩🏻‍🎤| female singer, pale skin tone
+ 👩🏼‍🎤| female singer, cream white skin tone
+ 👩🏽‍🎤| female singer, moderate brown skin tone
+ 👩🏾‍🎤| female singer, dark brown skin tone
+ 👩🏿‍🎤| female singer, black skin tone
+ 👨‍🎤| male singer
+ 👨🏻‍🎤| male singer #, pale skin tone ios10.2 emoji
+ 👨🏼‍🎤| male singer #, cream white skin tone ios10.2 emoji
+ 👨🏽‍🎤| male singer #, moderate brown skin tone ios10.2 emoji
+ 👨🏾‍🎤| male singer #, dark brown skin tone ios10.2 emoji
+ 👨🏿‍🎤| male singer #, black skin tone ios10.2 emoji
+ 👩‍🎓| female student
+ 👩🏻‍🎓| female student, pale skin tone
+ 👩🏼‍🎓| female student, cream white skin tone
+ 👩🏽‍🎓| female student, moderate brown skin tone
+ 👩🏾‍🎓| female student, dark brown skin tone
+ 👩🏿‍🎓| female student, black skin tone
+ 👨‍🎓| male student
+ 👨🏻‍🎓| male student, pale skin tone
+ 👨🏼‍🎓| male student, cream white skin tone
+ 👨🏽‍🎓| male student, moderate brown skin tone
+ 👨🏾‍🎓| male student, dark brown skin tone
+ 👨🏿‍🎓| male student, black skin tone
+ 👩‍🏫| female teacher
+ 👩🏻‍🏫| female teacher, pale skin tone
+ 👩🏼‍🏫| female teacher, cream white skin tone
+ 👩🏽‍🏫| female teacher, moderate brown skin tone
+ 👩🏾‍🏫| female teacher, dark brown skin tone
+ 👩🏿‍🏫| female teacher, black skin tone
+ 👨‍🏫| male teacher
+ 👨🏻‍🏫| male teacher, pale skin tone
+ 👨🏼‍🏫| male teacher, cream white skin tone
+ 👨🏽‍🏫| male teacher, moderate brown skin tone
+ 👨🏾‍🏫| male teacher, dark brown skin tone
+ 👨🏿‍🏫| male teacher, black skin tone
+ 👩‍💻| female technologist
+ 👩🏻‍💻| female technologist, pale skin tone
+ 👩🏼‍💻| female technologist, cream white skin tone
+ 👩🏽‍💻| female technologist, moderate brown skin tone
+ 👩🏾‍💻| female technologist, dark brown skin tone
+ 👩🏿‍💻| female technologist, black skin tone
+ 👨‍💻| male technologist
+ 👨🏻‍💻| male technologist, pale skin tone
+ 👨🏼‍💻| male technologist, cream white skin tone
+ 👨🏽‍💻| male technologist, moderate brown skin tone
+ 👨🏾‍💻| male technologist, dark brown skin tone
+ 👨🏿‍💻| male technologist, black skin tone
+ 🤦| face palm
+ 🤦🏻| face palm, pale skin tone
+ 🤦🏼| face palm, cream white skin tone
+ 🤦🏽| face palm, moderate brown skin tone
+ 🤦🏾| face palm, dark brown skin tone
+ 🤦🏿| face palm, black skin tone
+ 🤴| prince
+ 🤴🏻| prince, pale skin tone
+ 🤴🏼| prince, cream white skin tone
+ 🤴🏽| prince, moderate brown skin tone
+ 🤴🏾| prince, dark brown skin tone
+ 🤴🏿| prince, black skin tone
+ 🤵| man in tuxedo
+ 🤵🏻| man in tuxedo, pale skin tone
+ 🤵🏼| man in tuxedo, cream white skin tone
+ 🤵🏽| man in tuxedo, moderate brown skin tone
+ 🤵🏾| man in tuxedo, dark brown skin tone
+ 🤵🏿| man in tuxedo, black skin tone
+ 🤰| pregnant woman
+ 🤰🏻| pregnant woman, pale skin tone
+ 🤰🏼| pregnant woman, cream white skin tone
+ 🤰🏽| pregnant woman, moderate brown skin tone
+ 🤰🏾| pregnant woman, dark brown skin tone
+ 🤰🏿| pregnant woman, black skin tone
+ 🕺| man dancing
+ 🕺🏻| man dancing, pale skin tone
+ 🕺🏼| man dancing, cream white skin tone
+ 🕺🏽| man dancing, moderate brown skin tone
+ 🕺🏾| man dancing, dark brown skin tone
+ 🕺🏿| man dancing, black skin tone
+ 🤞| hand with index and middle fingers crossed
+ 🤞🏻| hand with index and middle fingers crossed, pale skin tone
+ 🤞🏼| hand with index and middle fingers crossed, cream white skin tone
+ 🤞🏽| hand with index and middle fingers crossed, moderate brown skin tone
+ 🤞🏾| hand with index and middle fingers crossed, dark brown skin tone
+ 🤞🏿| hand with index and middle fingers crossed, black skin tone
+ 🤳| selfie
+ 🤳🏻| selfie, pale skin tone
+ 🤳🏼| selfie, cream white skin tone
+ 🤳🏽| selfie, moderate brown skin tone
+ 🤳🏾| selfie, dark brown skin tone
+ 🤳🏿| selfie, black skin tone
+ 🤙| call me hand
+ 🤙🏻| call me hand, pale skin tone
+ 🤙🏼| call me hand, cream white skin tone
+ 🤙🏽| call me hand, moderate brown skin tone
+ 🤙🏾| call me hand, dark brown skin tone
+ 🤙🏿| call me hand, black skin tone
+ 🤛| left-facing fist
+ 🤛🏻| left-facing fist, pale skin tone
+ 🤛🏼| left-facing fist, cream white skin tone
+ 🤛🏽| left-facing fist, moderate brown skin tone
+ 🤛🏾| left-facing fist, dark brown skin tone
+ 🤛🏿| left-facing fist, black skin tone
+ 🤜| right-facing fist
+ 🤜🏻| right-facing fist, pale skin tone
+ 🤜🏼| right-facing fist, cream white skin tone
+ 🤜🏽| right-facing fist, moderate brown skin tone
+ 🤜🏾| right-facing fist, dark brown skin tone
+ 🤜🏿| right-facing fist, black skin tone
+ 🤚| raised back of hand
+ 🤚🏻| raised back of hand, pale skin tone
+ 🤚🏼| raised back of hand, cream white skin tone
+ 🤚🏽| raised back of hand, moderate brown skin tone
+ 🤚🏾| raised back of hand, dark brown skin tone
+ 🤚🏿| raised back of hand, black skin tone
+ 🤝| handshake
+ 🤝🏻| handshake, pale skin tone
+ 🤝🏼| handshake, cream white skin tone
+ 🤝🏽| handshake, moderate brown skin tone
+ 🤝🏾| handshake, dark brown skin tone
+ 🤝🏿| handshake, black skin tone
+ 🤷‍| shrug
+ 🤷🏻‍| shrug, pale skin tone
+ 🤷🏼‍| shrug, cream white skin tone
+ 🤷🏽‍| shrug, moderate brown skin tone
+ 🤷🏾‍| shrug, dark brown skin tone
+ 🤷🏿‍| shrug, black skin tone
+ 🤷‍♂️| man shrugging
+ 🤷🏻‍♂️| man shrugging, pale skin tone
+ 🤷🏼‍♂️| man shrugging, cream white skin tone
+ 🤷🏽‍♂️| man shrugging, moderate brown skin tone
+ 🤷🏾‍♂️| man shrugging, dark brown skin tone
+ 🤷🏿‍♂️| man shrugging, black skin tone
+ 🤷‍♀️| woman shrugging
+ 🤷🏻‍♀️| woman shrugging, pale skin tone
+ 🤷🏼‍♀️| woman shrugging, cream white skin tone
+ 🤷🏽‍♀️| woman shrugging, moderate brown skin tone
+ 🤷🏾‍♀️| woman shrugging, dark brown skin tone
+ 🤷🏿‍♀️| woman shrugging, black skin tone
+ 🤶| mother christmas
+ 🤶🏻| mother christmas, pale skin tone
+ 🤶🏼| mother christmas, cream white skin tone
+ 🤶🏽| mother christmas, moderate brown skin tone
+ 🤶🏾| mother christmas, dark brown skin tone
+ 🤶🏿| mother christmas, black skin tone
+ 🤣| rolling on the floor laughing
+ 🤠| face with cowboy hat
+ 🤡| clown face
+ 🤥| lying face
+ 🤤| drooling face
+ 🤢| nauseated face
+ 🤧| sneezing face
+ 🖤| black heart
+ 🦍| gorilla
+ 🦊| fox face
+ 🦌| deer
+ 🦏| rhinoceros
+ 🦇| bat
+ 🦅| eagle
+ 🦆| duck
+ 🦉| owl
+ 🦎| lizard
+ 🦈| shark
+ 🦐| shrimp
+ 🦑| squid
+ 🦋| butterfly
+ 🥀| wilted flower
+ 🥝| kiwifruit
+ 🥑| avocado
+ 🥔| potato
+ 🥕| carrot
+ 🥒| cucumber
+ 🥜| peanuts
+ 🥐| croissant
+ 🥖| baguette bread
+ 🥞| pancakes
+ 🥓| bacon
+ 🥙| stuffed flatbread
+ 🥚| egg
+ 🥘| shallow pan of food
+ 🥗| green salad
+ 🥛| glass of milk
+ 🥂| clinking glasses
+ 🥃| tumbler glass
+ 🥄| spoon
+ 🛑| octagonal sign
+ 🛴| scooter
+ 🛵| motor scooter
+ 🛶| canoe
+ 🥇| first place medal
+ 🥈| second place medal
+ 🥉| third place medal
+ 🥊| boxing glove
+ 🥋| martial arts uniform
+ 🤺| fencer
+ 🥅| goal net
+ 🥁| drum with drumsticks
+ 🛒| shopping trolley
+ 🤸| person doing cartwheel
+ 🤸🏻| person doing cartwheel, pale skin tone
+ 🤸🏼| person doing cartwheel, cream white skin tone
+ 🤸🏽| person doing cartwheel, moderate brown skin tone
+ 🤸🏾| person doing cartwheel, dark brown skin tone
+ 🤸🏿| person doing cartwheel, black skin tone
+ 🤸♂️| man doing cartwheel
+ 🤸🏻‍♂️| man doing cartwheel, pale skin tone
+ 🤸🏼‍♂️| man doing cartwheel, cream white skin tone
+ 🤸🏽‍♂️| man doing cartwheel, moderate brown skin tone
+ 🤸🏾‍♂️| man doing cartwheel, dark brown skin tone
+ 🤸🏿‍♂️| man doing cartwheel, black skin tone
+ 🤸‍♀️| woman doing cartwheel
+ 🤸🏻‍♀️| woman doing cartwheel, pale skin tone
+ 🤸🏼‍♀️| woman doing cartwheel, cream white skin tone
+ 🤸🏽‍♀️| woman doing cartwheel, moderate brown skin tone
+ 🤸🏾‍♀️| woman doing cartwheel, dark brown skin tone
+ 🤸🏿‍♀️| woman doing cartwheel, black skin tone
+ 🤼| wrestlers
+ 🤼🏻| wrestlers, pale skin tone
+ 🤼🏼| wrestlers, cream white skin tone
+ 🤼🏽| wrestlers, moderate brown skin tone
+ 🤼🏾| wrestlers, dark brown skin tone
+ 🤼🏿| wrestlers, black skin tone
+ 🤽| water polo
+ 🤽🏻| water polo, pale skin tone
+ 🤽🏼| water polo, cream white skin tone
+ 🤽🏽| water polo, moderate brown skin tone
+ 🤽🏾| water polo, dark brown skin tone
+ 🤽🏿| water polo, black skin tone
+ 🤽‍♂️| man playing water polo
+ 🤽🏻‍♂️| man playing water polo, pale skin tone
+ 🤽🏼‍♂️| man playing water polo, cream white skin tone
+ 🤽🏽‍♂️| man playing water polo, moderate brown skin tone
+ 🤽🏾‍♂️| man playing water polo, dark brown skin tone
+ 🤽🏿‍♂️| man playing water polo, black skin tone
+ 🤽‍♀️| woman playing water polo
+ 🤽🏻‍♀️| woman playing water polo, pale skin tone
+ 🤽🏼‍♀️| woman playing water polo, cream white skin tone
+ 🤽🏽‍♀️| woman playing water polo, moderate brown skin tone
+ 🤽🏾‍♀️| woman playing water polo, dark brown skin tone
+ 🤽🏿‍♀️| woman playing water polo, black skin tone
+ 🤾| handball
+ 🤾🏻| handball, pale skin tone
+ 🤾🏼| handball, cream white skin tone
+ 🤾🏽| handball, moderate brown skin tone
+ 🤾🏾| handball, dark brown skin tone
+ 🤾🏿| handball, black skin tone
+ 🤾‍♂️| man playing handball
+ 🤾🏻‍♂️| man playing handball, pale skin tone
+ 🤾🏼‍♂️| man playing handball, cream white skin tone
+ 🤾🏽‍♂️| man playing handball, moderate brown skin tone
+ 🤾🏾‍♂️| man playing handball, dark brown skin tone
+ 🤾🏿‍♂️| man playing handball, black skin tone
+ 🤾‍♀️| woman playing handball
+ 🤾🏻‍♀️| woman playing handball, pale skin tone
+ 🤾🏼‍♀️| woman playing handball, cream white skin tone
+ 🤾🏽‍♀️| woman playing handball, moderate brown skin tone
+ 🤾🏾‍♀️| woman playing handball, dark brown skin tone
+ 🤾🏿‍♀️| woman playing handball, black skin tone
+ 🤹| juggling
+ 🤹🏻| juggling, pale skin tone
+ 🤹🏼| juggling, cream white skin tone
+ 🤹🏽| juggling, moderate brown skin tone
+ 🤹🏾| juggling, dark brown skin tone
+ 🤹🏿| juggling, black skin tone
+ 🤹‍♂️| man juggling
+ 🤹🏻‍♂️| man juggling, pale skin tone
+ 🤹🏼‍♂️| man juggling, cream white skin tone
+ 🤹🏽‍♂️| man juggling, moderate brown skin tone
+ 🤹🏾‍♂️| man juggling, dark brown skin tone
+ 🤹🏿‍♂️| man juggling, black skin tone
+ 🤹‍♀️| woman juggling
+ 🤹🏻‍♀️| woman juggling, pale skin tone
+ 🤹🏼‍♀️| woman juggling, cream white skin tone
+ 🤹🏽‍♀️| woman juggling, moderate brown skin tone
+ 🤹🏾‍♀️| woman juggling, dark brown skin tone
+ 🤹🏿‍♀️| woman juggling, black skin tone
 \𐂅| linear b ideogram b105m stallion
 \𒀨| cuneiform sign al times ush
 \𒀩| cuneiform sign alan
