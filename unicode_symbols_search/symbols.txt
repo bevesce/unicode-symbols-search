@@ -18815,11 +18815,11 @@
  👩🏾‍🎤| female singer, dark brown skin tone
  👩🏿‍🎤| female singer, black skin tone
  👨‍🎤| male singer
- 👨🏻‍🎤| male singer #, pale skin tone ios10.2 emoji
- 👨🏼‍🎤| male singer #, cream white skin tone ios10.2 emoji
- 👨🏽‍🎤| male singer #, moderate brown skin tone ios10.2 emoji
- 👨🏾‍🎤| male singer #, dark brown skin tone ios10.2 emoji
- 👨🏿‍🎤| male singer #, black skin tone ios10.2 emoji
+ 👨🏻‍🎤| male singer #, pale skin tone
+ 👨🏼‍🎤| male singer #, cream white skin tone
+ 👨🏽‍🎤| male singer #, moderate brown skin tone
+ 👨🏾‍🎤| male singer #, dark brown skin tone
+ 👨🏿‍🎤| male singer #, black skin tone
  👩‍🎓| female student
  👩🏻‍🎓| female student, pale skin tone
  👩🏼‍🎓| female student, cream white skin tone
@@ -19086,3 +19086,242 @@
 \𐂅| linear b ideogram b105m stallion
 \𒀨| cuneiform sign al times ush
 \𒀩| cuneiform sign alan
+ 🤩| star-struck
+ 🤨| face with raised eyebrow | colbert
+ 🤯| exploding head
+ 🤪| crazy face
+ 🤬| face with symbols over mouth | swearing
+ 🤮| face vomiting
+ 🤫| shushing face
+ 🤭| face with hand over mouth | shushing shhh
+ 🧐| face with monocle
+ 🧒| child
+ 🧒🏻| child, light skin tone
+ 🧒🏼| child, medium-light skin tone
+ 🧒🏽| child, medium skin tone
+ 🧒🏾| child, medium-dark skin tone
+ 🧒🏿| child, dark skin tone
+ 🧑| adult
+ 🧑🏻| adult, light skin tone
+ 🧑🏼| adult, medium-light skin tone
+ 🧑🏽| adult, medium skin tone
+ 🧑🏾| adult, medium-dark skin tone
+ 🧑🏿| adult, dark skin tone
+ 🧓| older adult
+ 🧓🏻| older adult, light skin tone
+ 🧓🏼| older adult, medium-light skin tone
+ 🧓🏽| older adult, medium skin tone
+ 🧓🏾| older adult, medium-dark skin tone
+ 🧓🏿| older adult, dark skin tone
+ 🧕| woman with headscarf | hijab
+ 🧕🏻| person with headscarf, light skin tone | hijab
+ 🧕🏼| person with headscarf, medium-light skin tone | hijab
+ 🧕🏽| person with headscarf, medium skin tone | hijab
+ 🧕🏾| person with headscarf, medium-dark skin tone | hijab
+ 🧕🏿| person with headscarf, dark skin tone | hijab
+ 🧔| bearded person
+ 🧔🏻| bearded person, light skin tone
+ 🧔🏼| bearded person, medium-light skin tone
+ 🧔🏽| bearded person, medium skin tone
+ 🧔🏾| bearded person, medium-dark skin tone
+ 🧔🏿| bearded person, dark skin tone
+ 🤱| breast-feeding
+ 🤱🏻| breast-feeding, light skin tone
+ 🤱🏼| breast-feeding, medium-light skin tone
+ 🤱🏽| breast-feeding, medium skin tone
+ 🤱🏾| breast-feeding, medium-dark skin tone
+ 🤱🏿| breast-feeding, dark skin tone
+ 🧙| mage
+ 🧙🏻| mage, light skin tone
+ 🧙🏼| mage, medium-light skin tone
+ 🧙🏽| mage, medium skin tone
+ 🧙🏾| mage, medium-dark skin tone
+ 🧙🏿| mage, dark skin tone
+ 🧙‍♀️| woman mage | witch
+ 🧙🏻‍♀️| woman mage, light skin tone | witch
+ 🧙🏼‍♀️| woman mage, medium-light skin tone | witch
+ 🧙🏽‍♀️| woman mage, medium skin tone | witch
+ 🧙🏾‍♀️| woman mage, medium-dark skin tone | witch
+ 🧙🏿‍♀️| woman mage, dark skin tone | witch
+ 🧙‍♂️| man mage | wizard
+ 🧙🏻‍♂️| man mage, light skin tone | wizard
+ 🧙🏼‍♂️| man mage, medium-light skin tone | wizard
+ 🧙🏽‍♂️| man mage, medium skin tone | wizard
+ 🧙🏾‍♂️| man mage, medium-dark skin tone | wizard
+ 🧙🏿‍♂️| man mage, dark skin tone | wizard
+ 🧚| fairy
+ 🧚🏻| fairy, light skin tone
+ 🧚🏼| fairy, medium-light skin tone
+ 🧚🏽| fairy, medium skin tone
+ 🧚🏾| fairy, medium-dark skin tone
+ 🧚🏿| fairy, dark skin tone
+ 🧚‍♀️| woman fairy
+ 🧚🏻‍♀️| woman fairy, light skin tone
+ 🧚🏼‍♀️| woman fairy, medium-light skin tone
+ 🧚🏽‍♀️| woman fairy, medium skin tone
+ 🧚🏾‍♀️| woman fairy, medium-dark skin tone
+ 🧚🏿‍♀️| woman fairy, dark skin tone
+ 🧚‍♂️| man fairy
+ 🧚🏻‍♂️| man fairy, light skin tone
+ 🧚🏼‍♂️| man fairy, medium-light skin tone
+ 🧚🏽‍♂️| man fairy, medium skin tone
+ 🧚🏾‍♂️| man fairy, medium-dark skin tone
+ 🧚🏿‍♂️| man fairy, dark skin tone
+ 🧛| vampire
+ 🧛🏻| vampire, light skin tone
+ 🧛🏼| vampire, medium-light skin tone
+ 🧛🏽| vampire, medium skin tone
+ 🧛🏾| vampire, medium-dark skin tone
+ 🧛🏿| vampire, dark skin tone
+ 🧛‍♀️| woman vampire
+ 🧛🏻‍♀️| woman vampire, light skin tone
+ 🧛🏼‍♀️| woman vampire, medium-light skin tone
+ 🧛🏽‍♀️| woman vampire, medium skin tone
+ 🧛🏾‍♀️| woman vampire, medium-dark skin tone
+ 🧛🏿‍♀️| woman vampire, dark skin tone
+ 🧛‍♂️| man vampire
+ 🧛🏻‍♂️| man vampire, light skin tone
+ 🧛🏼‍♂️| man vampire, medium-light skin tone
+ 🧛🏽‍♂️| man vampire, medium skin tone
+ 🧛🏾‍♂️| man vampire, medium-dark skin tone
+ 🧛🏿‍♂️| man vampire, dark skin tone
+ 🧜| merperson
+ 🧜🏻| merperson, light skin tone
+ 🧜🏼| merperson, medium-light skin tone
+ 🧜🏽| merperson, medium skin tone
+ 🧜🏾| merperson, medium-dark skin tone
+ 🧜🏿| merperson, dark skin tone
+ 🧜‍♀️| mermaid | merwoman
+ 🧜🏻‍♀️| mermaid, light skin tone | merwoman
+ 🧜🏼‍♀️| mermaid, medium-light skin tone | merwoman
+ 🧜🏽‍♀️| mermaid, medium skin tone | merwoman
+ 🧜🏾‍♀️| mermaid, medium-dark skin tone | merwoman
+ 🧜🏿‍♀️| mermaid, dark skin tone | merwoman
+ 🧜‍♂️| merman
+ 🧜🏻‍♂️| merman, light skin tone
+ 🧜🏼‍♂️| merman, medium-light skin tone
+ 🧜🏽‍♂️| merman, medium skin tone
+ 🧜🏾‍♂️| merman, medium-dark skin tone
+ 🧜🏿‍♂️| merman, dark skin tone
+ 🧝| elf
+ 🧝🏻| elf, light skin tone
+ 🧝🏼| elf, medium-light skin tone
+ 🧝🏽| elf, medium skin tone
+ 🧝🏾| elf, medium-dark skin tone
+ 🧝🏿| elf, dark skin tone
+ 🧝‍♀️| woman elf
+ 🧝🏻‍♀️| woman elf, light skin tone
+ 🧝🏼‍♀️| woman elf, medium-light skin tone
+ 🧝🏽‍♀️| woman elf, medium skin tone
+ 🧝🏾‍♀️| woman elf, medium-dark skin tone
+ 🧝🏿‍♀️| woman elf, dark skin tone
+ 🧝‍♂️| man elf
+ 🧝🏻‍♂️| man elf, light skin tone
+ 🧝🏼‍♂️| man elf, medium-light skin tone
+ 🧝🏽‍♂️| man elf, medium skin tone
+ 🧝🏾‍♂️| man elf, medium-dark skin tone
+ 🧝🏿‍♂️| man elf, dark skin tone
+ 🧞| genie
+ 🧞‍♀️| woman genie
+ 🧞‍♂️| man genie
+ 🧟| zombie
+ 🧟‍♀️| woman zombie
+ 🧟‍♂️| man zombie
+ 🧖| person in steamy room | sauna
+ 🧖🏻| person in steamy room, light skin tone | sauna
+ 🧖🏼| person in steamy room, medium-light skin tone | sauna
+ 🧖🏽| person in steamy room, medium skin tone | sauna
+ 🧖🏾| person in steamy room, medium-dark skin tone | sauna
+ 🧖🏿| person in steamy room, dark skin tone | sauna
+ 🧖‍♀️| woman in steamy room | sauna
+ 🧖🏻‍♀️| woman in steamy room, light skin tone | sauna
+ 🧖🏼‍♀️| woman in steamy room, medium-light skin tone | sauna
+ 🧖🏽‍♀️| woman in steamy room, medium skin tone | sauna
+ 🧖🏾‍♀️| woman in steamy room, medium-dark skin tone | sauna
+ 🧖🏿‍♀️| woman in steamy room, dark skin tone | sauna
+ 🧖‍♂️| man in steamy room | sauna
+ 🧖🏻‍♂️| man in steamy room, light skin tone | sauna
+ 🧖🏼‍♂️| man in steamy room, medium-light skin tone | sauna
+ 🧖🏽‍♂️| man in steamy room, medium skin tone | sauna
+ 🧖🏾‍♂️| man in steamy room, medium-dark skin tone | sauna
+ 🧖🏿‍♂️| man in steamy room, dark skin tone | sauna
+ 🧗| person climbing | rock
+ 🧗🏻| person climbing, light skin tone | rock
+ 🧗🏼| person climbing, medium-light skin tone | rock
+ 🧗🏽| person climbing, medium skin tone | rock
+ 🧗🏾| person climbing, medium-dark skin tone | rock
+ 🧗🏿| person climbing, dark skin tone | rock
+ 🧗‍♀️| woman climbing | rock
+ 🧗🏻‍♀️| woman climbing, light skin tone | rock
+ 🧗🏼‍♀️| woman climbing, medium-light skin tone | rock
+ 🧗🏽‍♀️| woman climbing, medium skin tone | rock
+ 🧗🏾‍♀️| woman climbing, medium-dark skin tone | rock
+ 🧗🏿‍♀️| woman climbing, dark skin tone | rock
+ 🧗‍♂️| man climbing | rock
+ 🧗🏻‍♂️| man climbing, light skin tone | rock
+ 🧗🏼‍♂️| man climbing, medium-light skin tone | rock
+ 🧗🏽‍♂️| man climbing, medium skin tone | rock
+ 🧗🏾‍♂️| man climbing, medium-dark skin tone | rock
+ 🧗🏿‍♂️| man climbing, dark skin tone | rock
+ 🧘| person in lotus position | meditation yoga
+ 🧘🏻| person in lotus position, light skin tone | meditation yoga
+ 🧘🏼| person in lotus position, medium-light skin tone | meditation yoga
+ 🧘🏽| person in lotus position, medium skin tone | meditation yoga
+ 🧘🏾| person in lotus position, medium-dark skin tone | meditation yoga
+ 🧘🏿| person in lotus position, dark skin tone | meditation yoga
+ 🧘‍♀️| woman in lotus position | meditation yoga
+ 🧘🏻‍♀️| woman in lotus position, light skin tone | meditation yoga
+ 🧘🏼‍♀️| woman in lotus position, medium-light skin tone | meditation yoga
+ 🧘🏽‍♀️| woman in lotus position, medium skin tone | meditation yoga
+ 🧘🏾‍♀️| woman in lotus position, medium-dark skin tone | meditation yoga
+ 🧘🏿‍♀️| woman in lotus position, dark skin tone | meditation yoga
+ 🧘‍♂️| man in lotus position | meditation yoga
+ 🧘🏻‍♂️| man in lotus position, light skin tone | meditation yoga
+ 🧘🏼‍♂️| man in lotus position, medium-light skin tone | meditation yoga
+ 🧘🏽‍♂️| man in lotus position, medium skin tone | meditation yoga
+ 🧘🏾‍♂️| man in lotus position, medium-dark skin tone | meditation yoga
+ 🧘🏿‍♂️| man in lotus position, dark skin tone | meditation yoga
+ 🤟| love-you gesture
+ 🤟🏻| love-you gesture, light skin tone
+ 🤟🏼| love-you gesture, medium-light skin tone
+ 🤟🏽| love-you gesture, medium skin tone
+ 🤟🏾| love-you gesture, medium-dark skin tone
+ 🤟🏿| love-you gesture, dark skin tone
+ 🤲| palms up together
+ 🤲🏻| palms up together, light skin tone
+ 🤲🏼| palms up together, medium-light skin tone
+ 🤲🏽| palms up together, medium skin tone
+ 🤲🏾| palms up together, medium-dark skin tone
+ 🤲🏿| palms up together, dark skin tone
+ 🧠| brain
+ 🧡| orange heart
+ 🧣| scarf
+ 🧤| gloves
+ 🧥| coat
+ 🧦| socks
+ 🧢| billed cap | baseball
+ 🦓| zebra
+ 🦒| giraffe
+ 🦔| hedgehog
+ 🦕| sauropod
+ 🦖| t-rex
+ 🦗| cricket
+ 🥥| coconut
+ 🥦| broccoli
+ 🥨| pretzel
+ 🥩| cut of meat
+ 🥪| sandwich
+ 🥣| bowl with spoon
+ 🥫| canned food
+ 🥟| dumpling
+ 🥠| fortune cookie
+ 🥡| takeout box
+ 🥧| pie
+ 🥤| cup with straw | soda milkshake
+ 🥢| chopsticks
+ 🛸| flying saucer
+ 🛷| sled
+ 🥌| curling stone
+ 🏴󠁧󠁢󠁥󠁮󠁧󠁿| flag for England
+ 🏴󠁧󠁢󠁳󠁣󠁴󠁿| flag for Scotland
+ 🏴󠁧󠁢󠁷󠁬󠁳󠁿| flag for Wales
