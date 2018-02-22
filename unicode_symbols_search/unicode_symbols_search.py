@@ -58,7 +58,7 @@ def get_symbols(path=None):
 
 def parse_symbol(line):
     split = line.split('| ')
-    return split[0].strip(), split[1].lower()
+    return split[0].strip(), ' '.join(split[1:]).lower()
 
 
 def get_symbols_path():
