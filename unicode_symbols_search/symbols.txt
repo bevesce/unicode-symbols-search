@@ -9280,7 +9280,7 @@
  ㏼| ideographic telegraph symbol for day twenty-nine
  ㏽| ideographic telegraph symbol for day thirty
  ㏾| ideographic telegraph symbol for day thirty-one
- 㐀| cjk ideograph extension a| first&gt;
+ 㐀| cjk ideograph extension a first
  㐁| ideograph to lick; to taste, a mat, bamboo bark cjk
  㐂| ideograph (j) non-standard form of u+559c å, to like, love, enjoy; a joyful thing cjk
  㐅| ideograph (an ancient form of u+4e94 äº) five cjk
@@ -9331,20 +9331,20 @@
  㑘| ideograph (same as ä»·) a servant, a middle-man, good, great; (a simplified form) price; value cjk
  㑙| ideograph frivolous; flippant; capricious; playful cjk
  㑚| ideograph (non-classical form of é£) that, there cjk
- 㑛| ideograph to shake one&#039;s head cjk
+ 㑛| ideograph to shake one's head cjk
  㑜| ideograph (a dialect) to engrave cjk
  㑝| ideograph to make a fool of; idiotic, simple, stupid cjk
  㑞| ideograph (same as åªµ) (in old time) a maid who accompanies a bride to her new home; to escort, a concubine cjk
  㑟| ideograph insincere and cunning person; a pretentious person cjk
  㑣| ideograph stupid; loutish, without ability; unable; lacking power cjk
  㑤| ideograph (same as åª) good looking, a prostitute cjk
- 㑥| ideograph disrespectful; irreverent, to make light of; to neglect; careless; rush, to exchange, (said of one&#039;s personality) easy to get along with cjk
+ 㑥| ideograph disrespectful; irreverent, to make light of; to neglect; careless; rush, to exchange, (said of one's personality) easy to get along with cjk
  㑦| ideograph anger; rage; angry, (same as æ¾) recalcitrant; stubbornly persisting in doing something wrong; cruel; despotic cjk
  㑧| ideograph (corrupted form of æ¸) perturbed, to throb, palpitation of the heart cjk
  㑨| ideograph great; big; tall; vast, noble; high in rank, very; much cjk
  㑩| ideograph (simplified form of u+5138 å¸) smart; clever cjk
  㑪| ideograph (non-classical form of å) a generation, a class; a series; a kind cjk
- 㑮| ideograph last name, girl&#039;s name cjk
+ 㑮| ideograph last name, girl's name cjk
  㑯| ideograph last name, all; together; mutually, a low rank officer to take charge of the bandits in ancient time cjk
  㑰| ideograph (a corrupted form) distress; very difficulty; anxiety; very tired cjk
  㑱| ideograph a kind of monkey, fingering for an ancient string instrument cjk
@@ -9378,7 +9378,7 @@
  㒑| ideograph grow up, commodity prices cjk
  㒒| ideograph (same as å) a slave; a servant, used conventionally for oneself, a charioteer cjk
  㒓| ideograph to escape; to abscond; to flee, (interchangeable é) cjk
- 㒔| ideograph to shake one&#039;s head, ugly, not in peace cjk
+ 㒔| ideograph to shake one's head, ugly, not in peace cjk
  㒕| ideograph unyield cjk
  㒖| ideograph (same as è) the root-stock of the lotus; arrowroot cjk
  㒗| ideograph (a variant of å) a servant cjk
@@ -9391,7 +9391,7 @@
  㒟| ideograph (same as è¤­) with a charming; slim carriage (of a woman), pretty cjk
  㒠| ideograph narrow; contracted, quickly; fast; hasty; soon; promptly cjk
  㒡| ideograph name of a person cjk
- 㒤| ideograph to have one&#039;s heart won; to submit, admire, etc. sincerely and willingly, (interchangeable æ¾) to fear; to dread; to be scared of cjk
+ 㒤| ideograph to have one's heart won; to submit, admire, etc. sincerely and willingly, (interchangeable æ¾) to fear; to dread; to be scared of cjk
  㒥| ideograph an immortal cjk
  㒦| ideograph (same as å¡) puppets, very tired; fatigued; weary and weak cjk
  㒧| ideograph (same as å·) a pair; a couple, luxuriant; lush; exuberant cjk
@@ -9456,7 +9456,7 @@
  㓮| ideograph (same as é) to engrave; to carve; to tattoo cjk
  㓯| ideograph (same as å) to divide, to partition, to cut; to hack; to reap cjk
  㓰| ideograph (a variant of å) to rive; to divide; to mark; to cut cjk
- 㓱| ideograph to cut; to cut out; to pick out; to scoop out, (same as é) name of a county in today&#039;s shandong province cjk
+ 㓱| ideograph to cut; to cut out; to pick out; to scoop out, (same as é) name of a county in today's shandong province cjk
  㓲| ideograph to pare; to cut into slices cjk
  㓳| ideograph use knife to split something cjk
  㓴| ideograph to cut in two, to slash cjk
@@ -9501,7 +9501,7 @@
  㔡| ideograph greatly; deeply, with great strength; vigorous cjk
  㔢| ideograph to break something, to drag; to pull cjk
  㔣| ideograph in ancient times to fight against the enemy by pushing down the big rocks from up high; to throw over, to urge; to exert oneself, to carry in the bosom cjk
- 㔤| ideograph to exert one&#039;s strength cjk
+ 㔤| ideograph to exert one's strength cjk
  㔥| ideograph (non-classical form of ç²) full of anger; fierce anger, tired; weary; exhausted cjk
  㔦| ideograph to encourage; to stimulate; to exhort to action; to encourage by rewards cjk
  㔧| ideograph to incite; to urge, to aid; to help; to assist, to approve; to acquiesce cjk
@@ -9536,7 +9536,7 @@
  㕇| ideograph rocks collapsing (descriptive of sound), big pieces of rocks cjk
  㕈| ideograph (interchangeable åº¡) to linger; to walk to and from, to conceal; to cover up; to secrete; to hide; to cover over cjk
  㕉| ideograph to dig a hole; to tuck in; to put the finger into cjk
- 㕊| ideograph to slant; intricate; describe a writer&#039;s pen, lofty rocks; protruded rocks; resolute cjk
+ 㕊| ideograph to slant; intricate; describe a writer's pen, lofty rocks; protruded rocks; resolute cjk
  㕋| ideograph rock land cjk
  㕌| ideograph to raise the curtain, a kind of rock cjk
  㕍| ideograph (same as å ) to heap up; to pile, a heap; a pile; a mass; a crowd cjk
@@ -9564,7 +9564,7 @@
  㕦| ideograph loud; clamour; hubbub, big mouth, to brag cjk
  㕧| ideograph used to represent sound; to hum; to groan cjk
  㕩| ideograph (non-classical form) sound of tapping; sound of striking, opposing voices cjk
- 㕪| ideograph birds&#039; chirps; gabbling, sound in high pitch; to roar; aloud cjk
+ 㕪| ideograph birds' chirps; gabbling, sound in high pitch; to roar; aloud cjk
  㕫| ideograph (same as ä»¿ æ¹) to imitate, like; resembling; according to, a measurement for sound effect cjk
  㕬| ideograph public opinion, (same as u+8a1f è¨) to go to law, to dispute, to demand justice; (cant.) classifier for ears of corn cjk
  㕭| ideograph (same as å¬) to bark as a dog, obscene expressions, an interjection; implying surprise cjk
@@ -9572,7 +9572,7 @@
  㕯| ideograph slow-tongued; to stammer, to shout in triumph; the noise of shoting in battle cjk
  㕰| ideograph sound angrily; roaring with rage, (same as å) (a dialect) what; the tone implying to remind cjk
  㕱| ideograph to bark (said of a dog) cjk
- 㕲| ideograph to gag or bribe; to satisfy one&#039;s appetite; name of an old book; (cant.) to guess, reckon mentally; to bud cjk
+ 㕲| ideograph to gag or bribe; to satisfy one's appetite; name of an old book; (cant.) to guess, reckon mentally; to bud cjk
  㕳| ideograph (of a crowd) noisy; to brawl; to scold cjk
  㕶| ideograph (cant.) an expletive, exclamation cjk
  㕷| ideograph (corrupted form å) to call, to yell, anxious, dazed, image sound, an exclamation expressing sound (such as clap hands; to fire a gun; to strike; sound of firecracker etc.) cjk
@@ -9602,7 +9602,7 @@
  㖗| ideograph (corrupted form) high ridges of cliffs cjk
  㖘| ideograph (same as u+5507 å) to startle, to alarm; afraid; scared, to be surprised; to be amazed cjk
  㖞| ideograph (simplified form of å) a wry mouth cjk
- 㖟| ideograph to deliver over to personally, to communicate orally with one&#039;s own mouth cjk
+ 㖟| ideograph to deliver over to personally, to communicate orally with one's own mouth cjk
  㖠| ideograph (same as é£ åª) an auxiliary (in grammar), that, there, a final particle. cjk
  㖡| ideograph the birds singing during the night; (cant.) interjection to indicate the speaker is thinking cjk
  㖢| ideograph (same as é£º) to reject food cjk
@@ -9619,7 +9619,7 @@
  㖮| ideograph an interjection used in poems and songs cjk
  㖶| ideograph (same as æ) to swallow; to gulp, to be choked with food, (same as è«²) respectful; venerable cjk
  㖷| ideograph bird singing, (same as å¼) to cry; to mourn; to howl, to twitter; to crow cjk
- 㖸| ideograph (same as å±) to laugh heartily; to roar with laughter, (in shanghai dialect) a promotional gimmick, tone (of one&#039;s speech) cjk
+ 㖸| ideograph (same as å±) to laugh heartily; to roar with laughter, (in shanghai dialect) a promotional gimmick, tone (of one's speech) cjk
  㖹| ideograph (non-classical form ofå´) to spurt; to blow out; to puff out, to snort, sound of flowing water cjk
  㖺| ideograph to blow; to breath; to puff cjk
  㖻| ideograph whisper, bad language cjk
@@ -9630,7 +9630,7 @@
  㗀| ideograph (same as å¦ å) the bleating of the deer, sound of insects cjk
  㗁| ideograph (same as é½¶) the roof of the mouth, the palate cjk
  㗂| ideograph to keep the mouth shut; to be careful how one speak, (non-classical form of u+7701 ç) to examine; to watch; (cant.) to scour cjk
- 㗃| ideograph (same as å») the lip, the tone of one&#039;s speech, to kiss; a kiss cjk
+ 㗃| ideograph (same as å») the lip, the tone of one's speech, to kiss; a kiss cjk
  㗄| ideograph (non-classical form of è¬¾) to deceive; to insult cjk
  㗅| ideograph (same as è¡) angry, the throat, what? how? why? which? cjk
  㗆| ideograph sound of the ringed pheasant, cackling of fowls, (same as å) to gag, to vomit, (a dialect) an auxiliary verb (almost same as ç) cjk
@@ -9668,23 +9668,23 @@
  㗰| ideograph used in transliteration; the traditional drama of vietnam; (cant.) all, entire, completely cjk
  㗱| ideograph to suck; to chew, to smear the mouth with the blood of a victim when taking an oath cjk
  㗲| ideograph to call; to summon; (cant.) eloquent cjk
- 㗳| ideograph forgetful; having a bad memory, disgraced; shy; sensitive to shame; ashamed; (cant.) to lower one&#039;s head cjk
+ 㗳| ideograph forgetful; having a bad memory, disgraced; shy; sensitive to shame; ashamed; (cant.) to lower one's head cjk
  㗴| ideograph dogs fighting, to go to law; an indictment cjk
  㗵| ideograph breath, air, steam, not clear; not quite sure cjk
  㗶| ideograph to expel the breath cjk
  㗷| ideograph (simplified form) to eat; to bite; to gnaw, a dialect, usually used at the end of a sentence cjk
- 㗻| ideograph baby&#039;s answering, (baby talk) eat; (cant.) a particle implying doubt; slow, troublesome cjk
+ 㗻| ideograph baby's answering, (baby talk) eat; (cant.) a particle implying doubt; slow, troublesome cjk
  㗼| ideograph eating or talking, moving of the mouth cjk
  㗽| ideograph (standard form é¿) an echo; to answer; to consent, noise; sound, to make a noise cjk
  㗾| ideograph to give vent to the feelings; (cant.) to hiss, boo, jeer cjk
  㗿| ideograph to laugh loudly, to blame; to reprimand, entrance to a cave or to a gorge cjk
- 䶵| cjk ideograph extension a| last&gt;
- 一| cjk ideograph| first&gt;
+ 䶵| cjk ideograph extension a last
+ 一| cjk ideograph first
  丁| ideograph male adult; robust, vigorous; 4th heavenly stem cjk
  丂| ideograph obstruction of breath (qi) as it seeks release; variant of other characters cjk
  七| ideograph seven cjk
  丄| ideograph above cjk
- 丅| ideograph under, underneath, below; down; inferior; bring down; used to transliterate the latin letter &#039;t&#039; cjk
+ 丅| ideograph under, underneath, below; down; inferior; bring down; used to transliterate the latin letter 't' cjk
  丆| ideograph kwukyel cjk
  万| ideograph ten thousand; innumerable cjk
  丈| ideograph unit of length equal 3.3 meters; gentleman, man, husband cjk
@@ -9697,7 +9697,7 @@
  丏| ideograph parapet; invisible cjk
  丐| ideograph beggar; beg; give cjk
  丑| ideograph clown, comedian; 2nd terrestrial branch cjk
- 丒| ideograph the period from 1 to 3 a.m.; 2nd character of the &#039;branches&#039; cjk
+ 丒| ideograph the period from 1 to 3 a.m.; 2nd character of the 'branches' cjk
  专| ideograph monopolize, take sole possession cjk
  且| ideograph moreover, also (post-subject); about to, will soon (pre-verb) cjk
  丕| ideograph great, grand, glorious, distinguished cjk
@@ -9728,7 +9728,7 @@
  丮| ideograph catch cjk
  丯| ideograph dense cjk
  丰| ideograph abundant, lush, bountiful, plenty cjk
- 丱| ideograph child&#039;s hairstyle bound in two tufts; ore cjk
+ 丱| ideograph child's hairstyle bound in two tufts; ore cjk
  串| ideograph string; relatives; conspire cjk
  丳| ideograph spit, grill; a skewer cjk
  临| ideograph draw near, approach; descend cjk
@@ -9777,7 +9777,7 @@
  习| ideograph practice; flapping wings cjk
  乡| ideograph country; rural; village cjk
  乢| ideograph lid, to cover; to hide; a cover; an umbrella cjk
- 乤| ideograph first character of korean place name &#039;halpho&#039; cjk
+ 乤| ideograph first character of korean place name 'halpho' cjk
  乥| ideograph kwukyel cjk
  书| ideograph book, letter, document; writings cjk
  乨| ideograph the beginning; to start, to begin, to be the first cjk
@@ -9885,17 +9885,17 @@
  仚| ideograph to fly cjk
  仛| ideograph young girl; strange, different cjk
  仝| ideograph together, same; surname cjk
- 仞| ideograph ancient unit of measure (8 feet); &#039;fathom&#039; cjk
+ 仞| ideograph ancient unit of measure (8 feet); 'fathom' cjk
  仟| ideograph one thousand; leader of one thousand men cjk
  仡| ideograph strong; valiant cjk
  代| ideograph replace, replacement (of person or generation); era, generation cjk
- 令| ideograph command, order; &#039;commandant&#039;, magistrate; allow, cause cjk
+ 令| ideograph command, order; 'commandant', magistrate; allow, cause cjk
  以| ideograph by means of; thereby, therefore; consider as; in order to cjk
  仨| ideograph (coll.) three (cannot be followed by a measure word) cjk
  仪| ideograph ceremony, rites gifts; admire cjk
  仫| ideograph tribe cjk
  们| ideograph adjunct pronoun indicate plural cjk
- 仭| ideograph ancient unit of measure (8 feet); &#039;fathom&#039; cjk
+ 仭| ideograph ancient unit of measure (8 feet); 'fathom' cjk
  仮| ideograph falsehood, deception; vacation cjk
  仰| ideograph raise the head to look; look up to, rely on, admire cjk
  仲| ideograph middle brother; go between, mediator; surname cjk
@@ -9939,10 +9939,10 @@
  伧| ideograph vulgar person, country man cjk
  伩| ideograph trust, believe; letter; (cant.) small cjk
  伪| ideograph false, counterfeit, bogus cjk
- 伫| ideograph look towards; turn one&#039;s back on cjk
+ 伫| ideograph look towards; turn one's back on cjk
  伭| ideograph dark, somber; deep, profound cjk
  伮| ideograph to make a great effort cjk
- 伯| ideograph older brother; father&#039;s elder brother; senior male &#039;sire&#039;; feudal rank &#039;count&#039; cjk
+ 伯| ideograph older brother; father's elder brother; senior male 'sire'; feudal rank 'count' cjk
  估| ideograph merchant; estimate, guess, presume cjk
  伱| ideograph thou, you cjk
  伲| ideograph we (shanghai dialect) cjk
@@ -9954,14 +9954,14 @@
  伺| ideograph serve, wait upon, attend; examine cjk
  伻| ideograph messenger, emissary; send emissary cjk
  似| ideograph resemble, similar to; as if, seem cjk
- 伽| ideograph transcription of sanskrit &#039;gha&#039; in buddhist texts (&#039;samgha&#039;, etc.); (nursing; attending; entertainer) (jap.); tample; in chinese this character is not used alone cjk
+ 伽| ideograph transcription of sanskrit 'gha' in buddhist texts ('samgha', etc.); (nursing; attending; entertainer) (jap.); tample; in chinese this character is not used alone cjk
  伾| ideograph mighty cjk
  佀| ideograph resemble cjk
  佃| ideograph tenant farmer; be a tenant farmer cjk
  但| ideograph only; but, however, yet, still cjk
- 佇| ideograph wait; look towards; turn one&#039;s back on cjk
+ 佇| ideograph wait; look towards; turn one's back on cjk
  佈| ideograph spread, publicize, announce cjk
- 佉| ideograph surname; name of a divine being; transliteration of sanskrit &#039;kh&#039; cjk
+ 佉| ideograph surname; name of a divine being; transliteration of sanskrit 'kh' cjk
  佋| ideograph continue, carry on; hand down; to join cjk
  佌| ideograph small cjk
  位| ideograph throne; position, post; rank, status; seat cjk
@@ -12167,7 +12167,7 @@
  ꫝ| tai viet symbol sam
  ꫞| tai viet symbol ho hoi
  ꫟| tai viet symbol koi koi
- 가| &lt;hangul syllable| first&gt;
+ 가| hangul syllable first
  각| hangul syllable gag
  갂| hangul syllable gagg
  갃| hangul syllable gags
@@ -12679,7 +12679,7 @@
  귽| hangul syllable geunj
  귾| hangul syllable geunh
  귿| hangul syllable geud
- 힣| &lt;hangul syllable| last&gt;
+ 힣| hangul syllable last
  | apple logo
  豈| cjk compatibility ideograph-f900
  更| cjk compatibility ideograph-f901
