@@ -7,59 +7,59 @@ class Query(unittest.TestCase):
     def test_symbol_match(self):
         self.assertTrue(
             create_query('a')(
-                ('a', 'x')
+                ('a', 'x', '')
             )
         )
 
     def test_description_match(self):
         self.assertTrue(
             create_query('aa')(
-                ('x', 'aa')
+                ('x', 'aa', '')
             )
         )
 
     def test_description_match_both_words(self):
         self.assertTrue(
             create_query('aa ba')(
-                ('x', 'aa ba')
+                ('x', 'aa ba', '')
             )
         )
 
     def test_description_match_one_words(self):
         self.assertFalse(
             create_query('a b')(
-                ('x', 'a c')
+                ('x', 'a c', '')
             )
         )
 
     def test_doesnt_match(self):
         self.assertFalse(
             create_query('z')(
-                ('x', 'a c')
+                ('x', 'a c', '')
             )
         )
 
     def test_matches_single_letters_only_with_letters(self):
         self.assertFalse(
             create_query('z')(
-                ('x', 'zzzzzzz')
+                ('x', 'zzzzzzz', '')
             )
         )
         self.assertTrue(
             create_query('z')(
-                ('x', 'letter z')
+                ('x', 'letter z', '')
             )
         )
 
     def test_matches_single_letters_with_words(self):
         self.assertFalse(
             create_query('z zom')(
-                ('x', 'z with acute')
+                ('x', 'z with acute', '')
             )
         )
         self.assertTrue(
             create_query('z acute')(
-                ('x', 'z with acute')
+                ('x', 'z with acute', '')
             )
         )
 
@@ -68,7 +68,7 @@ class Load(unittest.TestCase):
     def test_parse_symbol(self):
         self.assertEqual(
             parse_symbol(' a| letter a'),
-            ('a', 'letter a')
+            ('a', 'letter a', '')
         )
 
 
