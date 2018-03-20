@@ -19054,11 +19054,11 @@
  👩🏾‍🎤| female singer, dark brown skin tone # ios10.2 emoji
  👩🏿‍🎤| female singer, black skin tone # ios10.2 emoji
  👨‍🎤| male singer # ios10.2 emoji
- 👨🏻‍🎤| male singer #, pale skin tone ios10.2 emoji
- 👨🏼‍🎤| male singer #, cream white skin tone ios10.2 emoji
- 👨🏽‍🎤| male singer #, moderate brown skin tone ios10.2 emoji
- 👨🏾‍🎤| male singer #, dark brown skin tone ios10.2 emoji
- 👨🏿‍🎤| male singer #, black skin tone ios10.2 emoji
+ 👨🏻‍🎤| male singer, pale skin tone # ios10.2 emoji
+ 👨🏼‍🎤| male singer, cream white skin tone # ios10.2 emoji
+ 👨🏽‍🎤| male singer, moderate brown skin tone # ios10.2 emoji
+ 👨🏾‍🎤| male singer, dark brown skin tone # ios10.2 emoji
+ 👨🏿‍🎤| male singer, black skin tone # ios10.2 emoji
  👩‍🎓| female student # ios10.2 emoji
  👩🏻‍🎓| female student, pale skin tone # ios10.2 emoji
  👩🏼‍🎓| female student, cream white skin tone # ios10.2 emoji

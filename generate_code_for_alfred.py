@@ -57,10 +57,10 @@ unicode_symbols_search_code = unicode_symbols_search_code.replace(
 execute_code = """
 query_text = ' '.join(sys.argv[1:])
 al = AlfredItemsList()
-for symbol, description in search_symbols(query_text):
+for symbol, description, _ in search_symbols(query_text):
     escaped = symbol.encode('unicode_escape')
     codepoints = escaped.replace('\\\\u', ' ').replace('\\\\U', ' ').strip()
-    al.append(symbol, symbol, codepoints + ' | ' + description, uid=symbol)
+    al.append(symbol, symbol, description + ' | ' + codepoints, uid=symbol)
 
 print(al)
 """

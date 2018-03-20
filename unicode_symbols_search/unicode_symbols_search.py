@@ -25,7 +25,7 @@ def create_single_letter_query(letter, query_words):
     infix = ' ' + letter + ' '
 
     def is_letter_in_symbol(symbol):
-        symbol_itself, description = symbol
+        symbol_itself, description, _ = symbol
         return (
             symbol_itself == letter or
             description.startswith(prefix) or
@@ -37,9 +37,12 @@ def create_single_letter_query(letter, query_words):
 
 def create_words_query(query_words):
     def is_symbol_matching(symbol):
-        symbol_itself, description = symbol
+        symbol_itself, description, hidden_description = symbol
         symbol_matches = symbol_itself in query_words
-        description_matches = all(word in description for word in query_words)
+        full_description = description + ' ' + hidden_description
+        description_matches = all(
+            word in full_description for word in query_words
+        )
         return symbol_matches or description_matches
     return is_symbol_matching
 
@@ -58,7 +61,11 @@ def get_symbols(path=None):
 
 def parse_symbol(line):
     split = line.split('| ')
-    return split[0].strip(), ' '.join(split[1:]).lower()
+    symbol = split[0].strip()
+    description = (' '.join(split[1:]).lower()).split('# ')
+    main_description = description[0]
+    hidden_description = ' '.join(description[1:])
+    return symbol, main_description, hidden_description
 
 
 def get_symbols_path():
@@ -77,5 +84,5 @@ def read6(path):
 if __name__ == '__main__':
     import sys
     query_text = ' '.join(sys.argv[1:])
-    for symbol, description in search_symbols(query_text):
+    for symbol, description, _ in search_symbols(query_text):
         print(symbol + '\t' + description)
