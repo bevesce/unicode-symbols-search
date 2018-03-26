@@ -17751,7 +17751,7 @@
  🎩| top hat # emoji
  🎪| circus tent # emoji
  🎫| ticket # emoji
- 🎬| clapper board # emoji
+ 🎬| clapper board # emoji movie film director cut
  🎭| performing arts # emoji
  🎮| video game # emoji
  🎯| direct hit # emoji
