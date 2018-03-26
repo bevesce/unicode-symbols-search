@@ -17188,7 +17188,7 @@
  🥨| pretzel # food bread emoji
  🥩| cut of meat # food emoji
  🥪| sandwich # food bread emoji
- 🥣| bowl with spoon # food emoji
+ 🥣| bowl with spoon # food emoji soup
  🥫| canned food # food emoji
  🥟| dumpling # food emoji
  🥠| fortune cookie # food emoji
@@ -17671,14 +17671,14 @@
  🍙| rice ball # emoji food
  🍚| cooked rice # emoji food
  🍛| curry and rice # emoji food
- 🍜| steaming bowl # emoji food
- 🍝| spaghetti # emoji food
+ 🍜| steaming bowl # emoji food soup noodle
+ 🍝| spaghetti # emoji food noodle
  🍞| bread # emoji food
- 🍟| french fries # emoji food
+ 🍟| french fries # emoji food potato
  🍠| roasted sweet potato # emoji food
- 🍡| dango # emoji food
- 🍢| oden # emoji food
- 🍣| sushi # emoji food
+ 🍡| dango # emoji food japanese
+ 🍢| oden # emoji food japanese
+ 🍣| sushi # emoji food japanese
  🍤| fried shrimp # emoji food
  🍥| fish cake with swirl design # emoji food
  🍦| soft ice cream # emoji food
@@ -17692,25 +17692,25 @@
  🍮| custard # emoji food
  🍯| honey pot # emoji food
  🍰| shortcake # emoji food
- 🍱| bento box # emoji food
- 🍲| pot of food # emoji food
+ 🍱| bento box # emoji food japanese
+ 🍲| pot of food # emoji food soup
  🍳| cooking # emoji food
  🍴| fork and knife # emoji food
  🍵| teacup without handle # emoji
- 🍶| sake bottle and cup # emoji
- 🍷| wine glass # emoji
- 🍸| cocktail glass # emoji
- 🍹| tropical drink # emoji
- 🍺| beer mug # emoji
- 🍻| clinking beer mugs # emoji
- 🍼| baby bottle # emoji
+ 🍶| sake bottle and cup # emoji japanese alkohol
+ 🍷| wine glass # emoji alkohol
+ 🍸| cocktail glass # emoji alkohol
+ 🍹| tropical drink # emoji alkohol
+ 🍺| beer mug # emoji alkohol
+ 🍻| clinking beer mugs # emoji alkohol
+ 🍼| baby bottle # emoji food
  🍽| fork and knife with plate # emoji
  🍾| bottle with popping cork # emoji
- 🍿| popcorn # emoji
+ 🍿| popcorn # emoji food cinema movie
  🎀| ribbon # emoji
  🎁| wrapped present # emoji
  🎂| birthday cake # emoji
- 🎃| jack-o-lantern # emoji
+ 🎃| jack-o-lantern # emoji halloween
  🎄| christmas tree # emoji
  🎅| father christmas # emoji
  🎅🏻| father christmas, pale skin tone # emoji
