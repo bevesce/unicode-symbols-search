@@ -61,7 +61,7 @@ def get_symbols(path=None):
 
 def parse_symbol(line):
     split = line.split('| ')
-    symbol = split[0].strip()
+    symbol = split[0][1:]
     description = (' '.join(split[1:]).lower()).split('# ')
     main_description = description[0]
     hidden_description = ' '.join(description[1:])
