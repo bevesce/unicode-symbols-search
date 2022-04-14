@@ -1,7 +1,7 @@
 alfred_code = """
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
-from cgi import escape
+from html import escape
 from uuid import uuid4
 import os
 import sys
@@ -37,7 +37,10 @@ class AlfredItemsList(object):
                 uid=uid
             ) for arg, title, subtitle, valid, uid in self.items
         ])
-        return ('<items>' + items + '</items>').encode('utf-8')
+        result = ('<items>' + items + '</items>')
+        if sys.version_info[0] == 2:
+            return result.encode('utf-8')
+        return result
 
     def __add__(self, other):
         return AlfredItemsList(self.items + other.items)
@@ -58,7 +61,7 @@ execute_code = """
 query_text = ' '.join(sys.argv[1:])
 al = AlfredItemsList()
 for symbol, description, _ in search_symbols(query_text):
-    escaped = symbol.encode('unicode_escape')
+    escaped = str(symbol.encode('unicode_escape'))
     codepoints = escaped.replace('\\\\u', ' ').replace('\\\\U', ' ').strip()
     al.append(symbol, symbol, description + ' | ' + codepoints, uid=symbol)
 
